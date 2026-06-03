@@ -1,115 +1,71 @@
-Bharat Connect Analytics Hub
-Overview
+# Bharat Connect Analytics Hub
 
-Bharat Connect Analytics Hub is a Business Intelligence and Data Analytics platform designed to analyze the performance of a regional Indian e-commerce marketplace. The project provides actionable insights into sales, customer behavior, seller performance, regional trends, delivery efficiency, and future demand forecasting through interactive dashboards and data-driven analytics.
+End-to-end **Data Analyst portfolio project** for a rural & regional Indian
+e-commerce marketplace. Built with **Python, Pandas, SQL, Streamlit, Plotly,
+and scikit-learn**, with Power BI-style dashboards.
 
-Problem Statement
+## What's inside
 
-E-commerce platforms generate large volumes of transactional data that often remain underutilized. This project aims to transform raw marketplace data into meaningful business insights, helping administrators and sellers make informed decisions regarding sales, inventory, customer engagement, and operational efficiency.
+```
+bharat-connect-analytics-hub/
+├── data/                       # synthetic CSVs (generated)
+├── sql/
+│   └── analytics_queries.sql   # 15+ business queries (SQLite/Postgres)
+├── notebooks/
+│   └── 01_exploratory.ipynb    # EDA scaffold
+├── app/
+│   └── streamlit_app.py        # multi-page admin dashboard
+├── generate_data.py            # synthetic data generator (seeded)
+├── data_cleaning.py            # cleaning + KPI pipeline
+├── forecasting.py              # ML sales forecasting (Linear + Seasonal)
+├── requirements.txt
+└── README.md
+```
 
-Features
-Executive Dashboard
-Total Revenue
-Total Orders
-Active Customers
-Active Sellers
-Average Order Value (AOV)
-Revenue Growth Trends
-Customer Analytics
-Customer Segmentation
-New vs Returning Customers
-Customer Lifetime Value Analysis
-Regional Customer Distribution
-Seller Performance Analytics
-Top Performing Sellers
-Seller Revenue Rankings
-Category Contribution Analysis
-Seller Growth Tracking
-Sales & Category Analysis
-Category-wise Revenue
-Best Selling Products
-Monthly Sales Trends
-Product Demand Analysis
-Regional Analytics
-State-wise Revenue Distribution
-Rural vs Urban Purchasing Trends
-Regional Demand Analysis
-Geographic Sales Insights
-Delivery Analytics
-Delivery Performance Tracking
-Courier vs Postal Delivery Analysis
-Average Delivery Time
-Order Fulfillment Metrics
-Forecasting & Predictive Analytics
-Sales Forecasting
-Demand Prediction
-Trend Analysis
-Future Revenue Estimation
-Dataset
+## Quick start
 
-Synthetic marketplace dataset consisting of:
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
 
-Table	Records
-Customers	10,000+
-Sellers	2,000+
-Products	5,000+
-Orders	100,000+
-Deliveries	100,000+
-Dataset Fields
-Customer Information
-Seller Information
-Product Details
-Order Transactions
-Payment Information
-Delivery Metrics
-Regional Data
-Tech Stack
-Data Processing
-Python
-Pandas
-NumPy
-Database
-SQL
-MySQL
-Visualization
-Power BI Concepts
-Streamlit
-Plotly
-Google Sheets
-Frontend
-React
-TypeScript
-Tailwind CSS
-Forecasting
-Scikit-learn
-Time Series Analysis
-Key Skills Demonstrated
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Data Visualization
-Dashboard Development
-Business Intelligence
-KPI Reporting
-SQL Query Optimization
-Predictive Analytics
-Sales Forecasting
-Data-Driven Decision Making
-Project Impact
-Analyzed 100,000+ marketplace transactions.
-Developed interactive business intelligence dashboards.
-Generated insights into customer behavior and seller performance.
-Implemented forecasting models for future sales prediction.
-Enabled data-driven strategic decision-making.
-Future Enhancements
-AI-Powered Recommendation Engine
-LLM-Based Business Insights Assistant
-Real-Time Data Pipeline
-Advanced Predictive Modeling
-Automated Report Generation
-Author
+# 1) Generate the synthetic dataset (~50k orders, 24 months)
+python generate_data.py
 
-Raman Bishnoi
+# 2) Run the cleaning pipeline (produces data/clean/*.parquet + kpis.json)
+python data_cleaning.py
 
-Data Analyst | Business Intelligence | Data Visualization
-LinkedIn: www.linkedin.com/in/raman-bishnoi01
-GitHub: https://github.com/rb029
+# 3) Train and score the forecast model
+python forecasting.py
+
+# 4) Launch the dashboard
+streamlit run app/streamlit_app.py
+```
+
+Open http://localhost:8501 — the dashboard mirrors the React version
+deployed on Lovable and adds Plotly drill-downs.
+
+## Analyses included
+
+| Module | Question answered |
+|---|---|
+| Revenue analytics | Monthly GMV, rural vs urban, growth QoQ, AOV |
+| Customer behaviour | Cohort retention, repeat rate, RFM segments |
+| Seller performance | Top sellers, rating vs revenue, on-time delivery |
+| Category trends | Share of GMV, contribution margin, top movers |
+| Regional demand | State-wise heatmap, rural %, delivery efficiency |
+| Forecasting | 6-month sales forecast with confidence band |
+
+## Power BI
+
+`sql/analytics_queries.sql` can be plugged into Power BI's PostgreSQL /
+SQLite connector. The recommended star-schema modelling lives at the top
+of that file.
+
+## Tech stack
+
+Python 3.10+ · Pandas · NumPy · SQLAlchemy · SQLite · scikit-learn ·
+Streamlit · Plotly · Faker
+
+## License
+
+MIT — use freely for portfolio and learning.
