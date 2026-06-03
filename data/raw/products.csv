@@ -1,0 +1,1501 @@
+product_id,product_name,category,seller_id,unit_price,cost_price
+PRD000000,Inverse background software,Health & Wellness,SLR00268,853.06,625.98
+PRD000001,Sharable regional approach,Dairy & Poultry,SLR00250,579.3,403.81
+PRD000002,Profound context-sensitive info-mediaries,Apparel,SLR00369,2362.95,1762.97
+PRD000003,Compatible static time-frame,Handlooms,SLR00525,1127.88,633.64
+PRD000004,Compatible 4thgeneration project,Apparel,SLR00591,703.79,409.44
+PRD000005,Exclusive foreground info-mediaries,Dairy & Poultry,SLR00505,991.91,836.14
+PRD000006,Intuitive reciprocal flexibility,Apparel,SLR00177,1871.98,1588.59
+PRD000007,Enterprise-wide value-added orchestration,Electronics,SLR00546,133.95,103.68
+PRD000008,Reverse-engineered context-sensitive alliance,Health & Wellness,SLR00258,613.58,384.67
+PRD000009,Sharable context-sensitive encoding,Groceries,SLR00259,944.26,789.42
+PRD000010,Polarized homogeneous structure,Electronics,SLR00134,551.71,338.81
+PRD000011,Multi-tiered intermediate paradigm,Groceries,SLR00460,1660.41,1277.57
+PRD000012,Switchable interactive policy,Handlooms,SLR00488,1763.96,1031.17
+PRD000013,Enhanced zero-defect concept,Apparel,SLR00080,784.74,584.37
+PRD000014,Re-contextualized grid-enabled emulation,Electronics,SLR00366,202.01,157.13
+PRD000015,Focused national info-mediaries,Dairy & Poultry,SLR00058,712.51,575.63
+PRD000016,Cross-group non-volatile extranet,Dairy & Poultry,SLR00073,357.16,275.12
+PRD000017,Cross-group asymmetric product,Home & Kitchen,SLR00238,601.44,497.42
+PRD000018,Quality-focused zero tolerance system engine,Handlooms,SLR00128,182.43,128.85
+PRD000019,Ergonomic real-time service-desk,Handlooms,SLR00411,1654.41,1246.15
+PRD000020,Ameliorated regional utilization,Dairy & Poultry,SLR00314,503.8,332.94
+PRD000021,Focused zero tolerance utilization,Home & Kitchen,SLR00373,188.1,104.04
+PRD000022,Integrated clear-thinking focus group,Groceries,SLR00436,637.01,494.96
+PRD000023,Streamlined responsive collaboration,Apparel,SLR00137,430.62,349.21
+PRD000024,Implemented 24hour implementation,Groceries,SLR00454,654.6,394.19
+PRD000025,Optimized systematic conglomeration,Groceries,SLR00008,421.98,235.71
+PRD000026,Profound value-added core,Handlooms,SLR00231,277.08,166.07
+PRD000027,Future-proofed incremental core,Dairy & Poultry,SLR00396,848.89,694.89
+PRD000028,Exclusive exuding service-desk,Groceries,SLR00573,725.79,463.53
+PRD000029,Programmable national portal,Agri Inputs,SLR00317,626.31,388.38
+PRD000030,Focused disintermediate extranet,Home & Kitchen,SLR00506,282.04,156.36
+PRD000031,Expanded methodical hub,Health & Wellness,SLR00521,348.23,222.56
+PRD000032,Customer-focused user-facing moderator,Home & Kitchen,SLR00086,1393.37,1065.5
+PRD000033,Multi-tiered intermediate pricing structure,Apparel,SLR00317,279.91,234.49
+PRD000034,Function-based upward-trending alliance,Home & Kitchen,SLR00332,335.77,216.18
+PRD000035,Profit-focused intermediate time-frame,Dairy & Poultry,SLR00359,387.79,241.29
+PRD000036,Multi-lateral executive conglomeration,Groceries,SLR00240,850.09,694.03
+PRD000037,Horizontal dynamic superstructure,Groceries,SLR00055,129.21,104.11
+PRD000038,Realigned context-sensitive info-mediaries,Electronics,SLR00109,1130.0,732.75
+PRD000039,Secured client-driven neural-net,Apparel,SLR00048,82.82,47.26
+PRD000040,Managed global adapter,Apparel,SLR00015,1095.75,928.75
+PRD000041,Organized encompassing database,Home & Kitchen,SLR00072,289.34,218.22
+PRD000042,Mandatory 3rdgeneration orchestration,Groceries,SLR00201,983.77,814.54
+PRD000043,Monitored cohesive task-force,Agri Inputs,SLR00092,377.88,246.59
+PRD000044,Realigned scalable model,Dairy & Poultry,SLR00032,467.95,348.3
+PRD000045,Secured holistic portal,Dairy & Poultry,SLR00599,875.81,658.91
+PRD000046,Future-proofed mission-critical product,Electronics,SLR00418,819.26,665.13
+PRD000047,Advanced dynamic open system,Agri Inputs,SLR00202,891.66,756.05
+PRD000048,Optimized real-time interface,Dairy & Poultry,SLR00550,1211.87,706.04
+PRD000049,Horizontal fresh-thinking database,Groceries,SLR00311,426.17,315.08
+PRD000050,Inverse radical attitude,Apparel,SLR00468,440.01,286.42
+PRD000051,Phased impactful groupware,Apparel,SLR00393,948.38,752.54
+PRD000052,Balanced empowering knowledgebase,Health & Wellness,SLR00210,147.55,114.53
+PRD000053,Decentralized neutral model,Dairy & Poultry,SLR00570,516.0,421.96
+PRD000054,Exclusive 24hour alliance,Agri Inputs,SLR00155,818.51,534.58
+PRD000055,Virtual optimizing website,Health & Wellness,SLR00321,294.24,178.12
+PRD000056,Reverse-engineered global focus group,Health & Wellness,SLR00434,1145.29,637.4
+PRD000057,Devolved neutral migration,Handlooms,SLR00573,1122.97,703.71
+PRD000058,Persevering didactic focus group,Dairy & Poultry,SLR00039,260.0,171.64
+PRD000059,Horizontal user-facing superstructure,Dairy & Poultry,SLR00039,211.95,176.73
+PRD000060,Seamless secondary initiative,Groceries,SLR00452,165.87,115.68
+PRD000061,Synchronized homogeneous model,Apparel,SLR00189,960.27,688.45
+PRD000062,Optional intermediate knowledge user,Home & Kitchen,SLR00014,726.66,591.53
+PRD000063,Reverse-engineered national pricing structure,Handlooms,SLR00123,1182.07,964.0
+PRD000064,Reduced empowering knowledgebase,Apparel,SLR00279,1052.21,745.36
+PRD000065,Ameliorated incremental standardization,Home & Kitchen,SLR00047,2253.09,1316.05
+PRD000066,Customer-focused logistical standardization,Apparel,SLR00188,606.52,382.81
+PRD000067,Stand-alone 3rdgeneration Internet solution,Handlooms,SLR00303,431.83,296.7
+PRD000068,Reduced actuating artificial intelligence,Agri Inputs,SLR00558,1263.53,979.68
+PRD000069,Fundamental regional intranet,Groceries,SLR00104,437.84,334.29
+PRD000070,Configurable attitude-oriented algorithm,Health & Wellness,SLR00368,1013.78,753.05
+PRD000071,Virtual didactic website,Handlooms,SLR00500,272.57,221.89
+PRD000072,Progressive empowering utilization,Handlooms,SLR00459,319.53,252.68
+PRD000073,Universal local benchmark,Health & Wellness,SLR00246,353.82,298.85
+PRD000074,Mandatory hybrid matrices,Dairy & Poultry,SLR00263,732.09,597.93
+PRD000075,Multi-channeled intangible Internet solution,Apparel,SLR00205,248.86,151.48
+PRD000076,Upgradable fresh-thinking ability,Dairy & Poultry,SLR00506,193.9,110.0
+PRD000077,Streamlined global archive,Home & Kitchen,SLR00529,574.17,387.19
+PRD000078,Quality-focused upward-trending middleware,Health & Wellness,SLR00363,853.84,627.79
+PRD000079,Optimized 3rdgeneration software,Handlooms,SLR00339,287.22,213.38
+PRD000080,Cross-platform human-resource matrix,Dairy & Poultry,SLR00406,1690.19,1065.25
+PRD000081,Switchable explicit firmware,Groceries,SLR00452,495.07,400.0
+PRD000082,Re-contextualized uniform software,Health & Wellness,SLR00577,769.77,499.41
+PRD000083,Enterprise-wide demand-driven forecast,Health & Wellness,SLR00149,568.16,469.15
+PRD000084,Team-oriented demand-driven hub,Agri Inputs,SLR00192,454.31,314.15
+PRD000085,Seamless scalable Internet solution,Home & Kitchen,SLR00146,1169.2,646.7
+PRD000086,Re-engineered multi-state Graphic Interface,Dairy & Poultry,SLR00405,969.94,580.62
+PRD000087,Ameliorated even-keeled Graphic Interface,Agri Inputs,SLR00182,2187.15,1270.07
+PRD000088,Virtual 3rdgeneration project,Dairy & Poultry,SLR00105,721.35,406.27
+PRD000089,Managed zero tolerance installation,Agri Inputs,SLR00235,414.49,316.76
+PRD000090,Open-source tertiary orchestration,Groceries,SLR00178,252.95,153.72
+PRD000091,Focused mobile Graphical User Interface,Apparel,SLR00431,948.71,760.47
+PRD000092,Integrated 6thgeneration challenge,Home & Kitchen,SLR00400,427.66,269.14
+PRD000093,Universal value-added firmware,Home & Kitchen,SLR00524,702.43,393.15
+PRD000094,Enhanced next generation Internet solution,Dairy & Poultry,SLR00539,356.55,283.89
+PRD000095,Compatible methodical standardization,Health & Wellness,SLR00322,730.36,503.83
+PRD000096,Public-key optimizing concept,Groceries,SLR00260,1076.53,785.71
+PRD000097,Managed local capability,Dairy & Poultry,SLR00398,1496.86,974.26
+PRD000098,Innovative 5thgeneration capacity,Home & Kitchen,SLR00336,293.84,165.67
+PRD000099,Managed analyzing software,Handlooms,SLR00299,588.36,388.94
+PRD000100,Front-line national Graphic Interface,Electronics,SLR00118,199.67,140.86
+PRD000101,Triple-buffered mobile interface,Health & Wellness,SLR00557,1197.49,662.82
+PRD000102,User-friendly context-sensitive system engine,Electronics,SLR00412,1327.37,958.74
+PRD000103,Multi-tiered exuding migration,Electronics,SLR00579,693.78,567.45
+PRD000104,Compatible responsive installation,Agri Inputs,SLR00383,380.17,233.94
+PRD000105,Virtual web-enabled encryption,Dairy & Poultry,SLR00479,265.25,219.64
+PRD000106,Programmable secondary forecast,Home & Kitchen,SLR00304,574.74,332.94
+PRD000107,Re-engineered dynamic task-force,Dairy & Poultry,SLR00195,303.07,241.74
+PRD000108,User-friendly incremental open architecture,Health & Wellness,SLR00332,964.47,773.6
+PRD000109,Business-focused static info-mediaries,Groceries,SLR00019,982.84,616.56
+PRD000110,Exclusive fresh-thinking migration,Home & Kitchen,SLR00432,476.46,398.97
+PRD000111,Monitored directional adapter,Groceries,SLR00425,347.98,234.88
+PRD000112,Up-sized attitude-oriented adapter,Dairy & Poultry,SLR00228,764.54,452.9
+PRD000113,Visionary attitude-oriented task-force,Home & Kitchen,SLR00523,1129.07,821.41
+PRD000114,Digitized leadingedge neural-net,Health & Wellness,SLR00216,870.78,739.28
+PRD000115,Re-engineered homogeneous policy,Dairy & Poultry,SLR00590,992.35,813.52
+PRD000116,Managed attitude-oriented workforce,Health & Wellness,SLR00374,1286.92,815.37
+PRD000117,Seamless solution-oriented database,Agri Inputs,SLR00035,821.93,594.33
+PRD000118,Adaptive well-modulated frame,Health & Wellness,SLR00027,1156.01,675.82
+PRD000119,Stand-alone motivating hub,Handlooms,SLR00371,423.73,291.76
+PRD000120,Digitized tertiary matrix,Electronics,SLR00085,234.36,165.67
+PRD000121,Persevering grid-enabled moderator,Electronics,SLR00187,330.76,213.2
+PRD000122,Multi-tiered well-modulated leverage,Home & Kitchen,SLR00304,1795.86,1248.58
+PRD000123,Business-focused didactic info-mediaries,Agri Inputs,SLR00421,1690.03,1395.93
+PRD000124,Inverse intangible circuit,Electronics,SLR00079,475.33,332.75
+PRD000125,Business-focused content-based synergy,Home & Kitchen,SLR00185,1533.43,1225.67
+PRD000126,Optimized didactic extranet,Health & Wellness,SLR00004,843.61,544.31
+PRD000127,Innovative systemic forecast,Apparel,SLR00557,721.77,607.31
+PRD000128,Extended responsive policy,Home & Kitchen,SLR00496,1294.39,748.21
+PRD000129,Fundamental impactful migration,Groceries,SLR00508,344.93,250.31
+PRD000130,Vision-oriented radical implementation,Electronics,SLR00001,603.26,474.75
+PRD000131,User-friendly user-facing structure,Electronics,SLR00216,842.85,669.4
+PRD000132,Fully-configurable discrete benchmark,Apparel,SLR00536,1698.92,1035.47
+PRD000133,Public-key asynchronous service-desk,Health & Wellness,SLR00256,2551.72,1710.91
+PRD000134,Distributed dedicated definition,Handlooms,SLR00452,367.52,270.96
+PRD000135,Multi-layered leadingedge service-desk,Dairy & Poultry,SLR00423,425.21,274.16
+PRD000136,Operative background matrices,Home & Kitchen,SLR00323,1266.95,947.03
+PRD000137,Universal value-added application,Handlooms,SLR00498,2950.81,1958.26
+PRD000138,Organized directional capability,Home & Kitchen,SLR00580,451.68,295.97
+PRD000139,Organized exuding focus group,Apparel,SLR00196,452.67,263.64
+PRD000140,Multi-channeled maximized Local Area Network,Handlooms,SLR00503,531.99,298.86
+PRD000141,Optimized context-sensitive service-desk,Agri Inputs,SLR00271,429.34,343.72
+PRD000142,Open-source client-driven info-mediaries,Apparel,SLR00017,438.0,305.23
+PRD000143,Fully-configurable hybrid intranet,Health & Wellness,SLR00106,687.73,494.38
+PRD000144,Public-key foreground standardization,Dairy & Poultry,SLR00528,671.77,444.49
+PRD000145,Balanced multimedia pricing structure,Home & Kitchen,SLR00124,307.27,181.6
+PRD000146,Reactive real-time matrix,Groceries,SLR00482,1135.02,777.34
+PRD000147,Proactive empowering toolset,Health & Wellness,SLR00593,1243.43,769.29
+PRD000148,Proactive zero administration hub,Health & Wellness,SLR00003,243.13,194.82
+PRD000149,Seamless encompassing software,Groceries,SLR00350,722.1,610.92
+PRD000150,Horizontal solution-oriented encoding,Groceries,SLR00350,1087.5,888.19
+PRD000151,Horizontal motivating structure,Home & Kitchen,SLR00227,681.82,483.06
+PRD000152,Managed client-driven parallelism,Health & Wellness,SLR00015,570.13,421.01
+PRD000153,Multi-channeled content-based knowledge user,Electronics,SLR00424,647.75,540.51
+PRD000154,User-friendly logistical toolset,Apparel,SLR00463,1054.7,750.53
+PRD000155,Function-based 4thgeneration system engine,Apparel,SLR00245,1292.34,958.37
+PRD000156,Front-line methodical info-mediaries,Dairy & Poultry,SLR00176,380.65,281.21
+PRD000157,Persistent intangible open architecture,Handlooms,SLR00542,491.69,374.88
+PRD000158,Phased executive algorithm,Apparel,SLR00508,755.89,560.94
+PRD000159,Fundamental coherent adapter,Dairy & Poultry,SLR00561,604.21,453.89
+PRD000160,Polarized intangible Local Area Network,Dairy & Poultry,SLR00563,954.35,732.72
+PRD000161,Multi-channeled attitude-oriented function,Health & Wellness,SLR00232,252.76,200.37
+PRD000162,Right-sized leadingedge hardware,Apparel,SLR00037,1327.94,890.94
+PRD000163,Exclusive exuding array,Health & Wellness,SLR00490,692.26,535.64
+PRD000164,Compatible foreground system engine,Handlooms,SLR00443,291.97,169.36
+PRD000165,Phased zero administration database,Apparel,SLR00019,1041.85,846.87
+PRD000166,Streamlined zero-defect database,Apparel,SLR00555,443.02,282.21
+PRD000167,Centralized regional parallelism,Dairy & Poultry,SLR00110,704.53,472.77
+PRD000168,Centralized zero tolerance alliance,Agri Inputs,SLR00486,543.56,430.0
+PRD000169,Stand-alone transitional analyzer,Home & Kitchen,SLR00088,1053.18,780.51
+PRD000170,Re-engineered even-keeled support,Handlooms,SLR00318,437.36,281.04
+PRD000171,Automated incremental hub,Agri Inputs,SLR00117,327.01,201.97
+PRD000172,Object-based heuristic success,Electronics,SLR00433,748.44,626.68
+PRD000173,Profit-focused coherent encoding,Handlooms,SLR00238,303.6,174.97
+PRD000174,User-friendly explicit success,Health & Wellness,SLR00071,224.13,123.56
+PRD000175,Fundamental global encryption,Home & Kitchen,SLR00398,642.05,482.74
+PRD000176,Progressive full-range projection,Apparel,SLR00403,511.63,375.71
+PRD000177,Switchable interactive hierarchy,Health & Wellness,SLR00250,259.41,200.08
+PRD000178,Fully-configurable global contingency,Apparel,SLR00194,400.81,308.42
+PRD000179,Exclusive systematic capacity,Agri Inputs,SLR00571,1227.18,992.76
+PRD000180,Open-source intermediate alliance,Agri Inputs,SLR00584,744.06,615.06
+PRD000181,Self-enabling systemic secured line,Electronics,SLR00221,721.34,564.45
+PRD000182,Virtual 24/7 alliance,Electronics,SLR00181,799.28,495.3
+PRD000183,Fundamental maximized algorithm,Home & Kitchen,SLR00255,472.88,325.84
+PRD000184,Re-engineered user-facing artificial intelligence,Apparel,SLR00087,351.04,260.65
+PRD000185,Cloned analyzing support,Health & Wellness,SLR00491,1301.7,926.56
+PRD000186,Fully-configurable fault-tolerant paradigm,Groceries,SLR00335,1143.19,683.25
+PRD000187,Versatile static hierarchy,Health & Wellness,SLR00537,289.34,210.29
+PRD000188,Operative asynchronous artificial intelligence,Dairy & Poultry,SLR00406,623.36,508.64
+PRD000189,Right-sized system-worthy task-force,Electronics,SLR00288,552.95,373.55
+PRD000190,Right-sized motivating open system,Apparel,SLR00361,1043.69,783.48
+PRD000191,Reverse-engineered user-facing initiative,Health & Wellness,SLR00440,445.83,327.59
+PRD000192,Intuitive attitude-oriented array,Health & Wellness,SLR00029,272.58,180.75
+PRD000193,Reactive bi-directional software,Electronics,SLR00547,226.72,163.14
+PRD000194,Intuitive motivating data-warehouse,Dairy & Poultry,SLR00222,762.33,467.36
+PRD000195,User-friendly local toolset,Health & Wellness,SLR00123,462.95,330.47
+PRD000196,Grass-roots impactful interface,Health & Wellness,SLR00214,994.16,785.04
+PRD000197,Compatible fault-tolerant superstructure,Handlooms,SLR00117,561.27,436.49
+PRD000198,Integrated methodical knowledge user,Dairy & Poultry,SLR00226,662.1,435.26
+PRD000199,Optimized background migration,Agri Inputs,SLR00443,1591.49,928.83
+PRD000200,Stand-alone well-modulated project,Apparel,SLR00548,336.3,265.67
+PRD000201,Open-source multimedia matrix,Health & Wellness,SLR00436,792.33,498.78
+PRD000202,Synchronized 24hour focus group,Electronics,SLR00011,799.58,452.49
+PRD000203,Up-sized maximized superstructure,Agri Inputs,SLR00121,2133.58,1458.43
+PRD000204,Reduced incremental initiative,Dairy & Poultry,SLR00546,1978.93,1527.42
+PRD000205,Synchronized solution-oriented toolset,Health & Wellness,SLR00488,370.85,293.92
+PRD000206,Networked neutral circuit,Health & Wellness,SLR00250,591.07,499.25
+PRD000207,Triple-buffered reciprocal adapter,Groceries,SLR00578,335.66,203.69
+PRD000208,User-centric holistic structure,Electronics,SLR00481,772.6,493.03
+PRD000209,Devolved holistic initiative,Apparel,SLR00549,857.89,628.7
+PRD000210,Mandatory radical parallelism,Handlooms,SLR00279,278.88,221.26
+PRD000211,Multi-layered 3rdgeneration moderator,Agri Inputs,SLR00336,733.66,455.03
+PRD000212,Stand-alone regional architecture,Dairy & Poultry,SLR00167,302.4,203.51
+PRD000213,Grass-roots transitional concept,Agri Inputs,SLR00327,183.12,123.15
+PRD000214,Total discrete solution,Handlooms,SLR00245,602.53,471.11
+PRD000215,Focused 24hour superstructure,Apparel,SLR00590,1866.95,1161.77
+PRD000216,Enterprise-wide object-oriented strategy,Home & Kitchen,SLR00300,604.22,507.92
+PRD000217,Enterprise-wide modular interface,Dairy & Poultry,SLR00199,725.91,510.42
+PRD000218,Horizontal 3rdgeneration functionalities,Groceries,SLR00499,623.69,395.81
+PRD000219,Grass-roots mission-critical software,Home & Kitchen,SLR00012,271.52,172.49
+PRD000220,Front-line regional monitoring,Dairy & Poultry,SLR00365,602.51,334.69
+PRD000221,Optimized context-sensitive collaboration,Health & Wellness,SLR00096,702.82,532.55
+PRD000222,Cloned eco-centric approach,Handlooms,SLR00070,738.55,578.13
+PRD000223,Multi-channeled asymmetric data-warehouse,Groceries,SLR00356,195.59,109.48
+PRD000224,Cross-group national info-mediaries,Apparel,SLR00543,298.66,216.76
+PRD000225,Multi-tiered 5thgeneration function,Electronics,SLR00249,1201.45,942.54
+PRD000226,Pre-emptive fault-tolerant knowledge user,Electronics,SLR00253,722.82,479.14
+PRD000227,Fully-configurable didactic neural-net,Dairy & Poultry,SLR00181,606.55,412.35
+PRD000228,Reverse-engineered background extranet,Dairy & Poultry,SLR00165,929.38,611.99
+PRD000229,Persevering upward-trending support,Home & Kitchen,SLR00003,1715.52,1105.99
+PRD000230,Profit-focused global concept,Apparel,SLR00462,2168.97,1512.51
+PRD000231,Fundamental logistical framework,Groceries,SLR00144,558.64,335.09
+PRD000232,Innovative clear-thinking ability,Dairy & Poultry,SLR00164,166.82,113.81
+PRD000233,Ergonomic fresh-thinking portal,Dairy & Poultry,SLR00343,505.12,420.54
+PRD000234,Fundamental executive benchmark,Home & Kitchen,SLR00104,1454.76,812.08
+PRD000235,Ameliorated value-added service-desk,Handlooms,SLR00547,1050.89,629.93
+PRD000236,Down-sized uniform definition,Home & Kitchen,SLR00313,234.92,184.02
+PRD000237,Profit-focused mission-critical project,Apparel,SLR00168,467.48,275.63
+PRD000238,Face-to-face heuristic artificial intelligence,Health & Wellness,SLR00519,245.33,154.9
+PRD000239,Public-key value-added software,Apparel,SLR00597,316.06,216.96
+PRD000240,Total web-enabled installation,Electronics,SLR00435,845.25,704.05
+PRD000241,Open-source fault-tolerant methodology,Handlooms,SLR00511,869.4,526.03
+PRD000242,Polarized exuding attitude,Electronics,SLR00408,956.64,791.07
+PRD000243,Expanded background database,Groceries,SLR00435,980.63,750.73
+PRD000244,Multi-lateral asynchronous middleware,Groceries,SLR00314,558.63,419.72
+PRD000245,Synergistic content-based access,Agri Inputs,SLR00541,676.44,518.87
+PRD000246,Digitized heuristic migration,Apparel,SLR00578,1195.45,668.7
+PRD000247,Multi-layered dedicated flexibility,Handlooms,SLR00062,124.11,71.94
+PRD000248,Operative zero administration functionalities,Handlooms,SLR00031,266.93,173.63
+PRD000249,Public-key attitude-oriented hardware,Electronics,SLR00598,833.58,476.97
+PRD000250,Expanded regional moderator,Home & Kitchen,SLR00210,780.31,660.36
+PRD000251,Vision-oriented national hierarchy,Home & Kitchen,SLR00462,1722.07,1246.99
+PRD000252,Sharable composite solution,Electronics,SLR00562,461.79,321.5
+PRD000253,Decentralized mobile neural-net,Health & Wellness,SLR00574,289.48,227.43
+PRD000254,Robust fresh-thinking Graphical User Interface,Home & Kitchen,SLR00079,956.54,806.45
+PRD000255,Secured regional approach,Handlooms,SLR00342,775.04,648.35
+PRD000256,Re-engineered multi-state framework,Dairy & Poultry,SLR00231,375.27,295.68
+PRD000257,Triple-buffered systematic utilization,Dairy & Poultry,SLR00128,307.88,204.17
+PRD000258,Compatible composite neural-net,Dairy & Poultry,SLR00018,203.14,115.75
+PRD000259,Multi-tiered full-range hierarchy,Electronics,SLR00356,1249.04,723.84
+PRD000260,Programmable bifurcated implementation,Dairy & Poultry,SLR00418,952.39,524.14
+PRD000261,Persevering grid-enabled task-force,Home & Kitchen,SLR00080,263.09,144.85
+PRD000262,Secured context-sensitive data-warehouse,Agri Inputs,SLR00117,320.6,266.4
+PRD000263,Public-key demand-driven attitude,Apparel,SLR00493,294.44,243.83
+PRD000264,Reverse-engineered directional function,Agri Inputs,SLR00491,192.12,144.14
+PRD000265,Public-key well-modulated orchestration,Home & Kitchen,SLR00224,675.58,518.85
+PRD000266,Cross-group neutral structure,Groceries,SLR00418,932.45,656.41
+PRD000267,Virtual 6thgeneration superstructure,Handlooms,SLR00136,574.04,356.68
+PRD000268,Centralized dedicated monitoring,Agri Inputs,SLR00225,1298.86,1070.67
+PRD000269,Cloned empowering info-mediaries,Agri Inputs,SLR00333,1063.99,673.83
+PRD000270,Ergonomic empowering capacity,Electronics,SLR00228,490.5,378.62
+PRD000271,Triple-buffered real-time conglomeration,Electronics,SLR00322,431.08,268.83
+PRD000272,Integrated cohesive benchmark,Electronics,SLR00107,190.29,154.33
+PRD000273,Team-oriented real-time hub,Home & Kitchen,SLR00444,1130.83,842.89
+PRD000274,Re-engineered maximized synergy,Health & Wellness,SLR00006,273.76,203.35
+PRD000275,Front-line well-modulated application,Health & Wellness,SLR00127,1083.38,627.5
+PRD000276,Reverse-engineered user-facing benchmark,Dairy & Poultry,SLR00352,416.94,281.79
+PRD000277,Enhanced asymmetric migration,Groceries,SLR00266,888.84,628.83
+PRD000278,Intuitive coherent leverage,Agri Inputs,SLR00213,457.5,291.98
+PRD000279,Ergonomic explicit array,Apparel,SLR00246,341.44,278.03
+PRD000280,Cross-group explicit success,Dairy & Poultry,SLR00594,856.13,686.02
+PRD000281,Open-architected background customer loyalty,Dairy & Poultry,SLR00373,358.6,250.33
+PRD000282,Fully-configurable attitude-oriented groupware,Electronics,SLR00420,925.73,603.58
+PRD000283,Stand-alone heuristic hierarchy,Groceries,SLR00040,991.03,783.37
+PRD000284,Exclusive actuating architecture,Home & Kitchen,SLR00347,593.7,361.6
+PRD000285,Inverse directional alliance,Dairy & Poultry,SLR00560,1048.96,599.43
+PRD000286,Ergonomic analyzing workforce,Groceries,SLR00142,213.53,120.37
+PRD000287,Integrated explicit access,Electronics,SLR00140,303.38,170.38
+PRD000288,Organized leadingedge monitoring,Handlooms,SLR00564,904.58,630.19
+PRD000289,Cross-group static structure,Dairy & Poultry,SLR00106,449.08,281.39
+PRD000290,Cross-platform actuating pricing structure,Agri Inputs,SLR00032,289.73,219.36
+PRD000291,User-centric incremental hierarchy,Electronics,SLR00199,647.64,483.25
+PRD000292,Seamless neutral framework,Apparel,SLR00118,339.81,242.15
+PRD000293,Switchable zero administration functionalities,Agri Inputs,SLR00228,880.89,577.73
+PRD000294,Intuitive logistical installation,Groceries,SLR00184,275.21,221.58
+PRD000295,User-centric tertiary Internet solution,Health & Wellness,SLR00214,456.29,348.11
+PRD000296,Front-line value-added website,Apparel,SLR00129,1845.59,1165.41
+PRD000297,Integrated fresh-thinking framework,Agri Inputs,SLR00271,216.23,151.47
+PRD000298,Decentralized zero tolerance open architecture,Dairy & Poultry,SLR00007,405.2,241.86
+PRD000299,User-centric contextually-based policy,Dairy & Poultry,SLR00402,440.95,286.01
+PRD000300,Reverse-engineered bandwidth-monitored circuit,Apparel,SLR00578,1386.16,1177.05
+PRD000301,Open-source reciprocal policy,Groceries,SLR00368,1340.16,827.08
+PRD000302,Future-proofed global collaboration,Dairy & Poultry,SLR00536,339.28,257.68
+PRD000303,Centralized intangible function,Dairy & Poultry,SLR00052,959.77,596.52
+PRD000304,Synergized attitude-oriented process improvement,Electronics,SLR00246,565.82,470.45
+PRD000305,Upgradable bi-directional adapter,Health & Wellness,SLR00336,565.94,363.92
+PRD000306,Operative bi-directional solution,Apparel,SLR00280,664.37,434.5
+PRD000307,User-friendly homogeneous project,Electronics,SLR00032,510.7,371.87
+PRD000308,Multi-tiered system-worthy pricing structure,Health & Wellness,SLR00547,250.48,181.96
+PRD000309,Cross-group 3rdgeneration approach,Groceries,SLR00342,1116.44,807.99
+PRD000310,Versatile tangible superstructure,Health & Wellness,SLR00238,281.29,203.08
+PRD000311,Progressive scalable capacity,Groceries,SLR00491,708.0,455.71
+PRD000312,Diverse static extranet,Dairy & Poultry,SLR00176,318.57,216.73
+PRD000313,Devolved user-facing capability,Apparel,SLR00043,825.15,600.73
+PRD000314,Open-architected national circuit,Apparel,SLR00303,687.84,516.83
+PRD000315,Operative motivating capacity,Groceries,SLR00268,442.28,276.84
+PRD000316,Distributed systemic artificial intelligence,Apparel,SLR00399,1526.11,1160.52
+PRD000317,Sharable modular help-desk,Dairy & Poultry,SLR00430,552.5,456.91
+PRD000318,Sharable impactful concept,Apparel,SLR00420,558.38,434.07
+PRD000319,Streamlined zero tolerance implementation,Apparel,SLR00130,703.36,404.62
+PRD000320,Secured non-volatile time-frame,Home & Kitchen,SLR00409,198.36,137.01
+PRD000321,Multi-tiered client-server algorithm,Apparel,SLR00224,237.21,161.44
+PRD000322,Progressive content-based product,Agri Inputs,SLR00142,1187.7,773.13
+PRD000323,Future-proofed modular orchestration,Groceries,SLR00577,1647.24,1148.78
+PRD000324,Triple-buffered background synergy,Groceries,SLR00539,1058.38,721.7
+PRD000325,Adaptive 24/7 hardware,Handlooms,SLR00124,847.47,467.68
+PRD000326,Re-contextualized discrete challenge,Electronics,SLR00211,960.5,596.44
+PRD000327,Switchable scalable productivity,Handlooms,SLR00427,1055.08,647.96
+PRD000328,Sharable heuristic methodology,Apparel,SLR00436,860.68,563.55
+PRD000329,De-engineered well-modulated capacity,Apparel,SLR00591,1128.36,679.65
+PRD000330,Reactive responsive knowledgebase,Dairy & Poultry,SLR00237,544.06,310.3
+PRD000331,Business-focused tertiary customer loyalty,Dairy & Poultry,SLR00327,580.53,353.53
+PRD000332,Diverse client-server algorithm,Health & Wellness,SLR00118,734.21,591.96
+PRD000333,Balanced secondary protocol,Agri Inputs,SLR00045,577.96,456.08
+PRD000334,Persistent encompassing open architecture,Agri Inputs,SLR00083,3090.05,2109.36
+PRD000335,Mandatory reciprocal methodology,Agri Inputs,SLR00351,576.17,468.62
+PRD000336,User-centric clear-thinking extranet,Agri Inputs,SLR00012,858.97,532.39
+PRD000337,Ergonomic next generation Local Area Network,Agri Inputs,SLR00171,652.93,473.55
+PRD000338,Decentralized client-server pricing structure,Agri Inputs,SLR00233,481.1,285.23
+PRD000339,Monitored background frame,Agri Inputs,SLR00180,124.06,99.25
+PRD000340,Managed contextually-based structure,Agri Inputs,SLR00050,349.79,206.09
+PRD000341,Balanced full-range service-desk,Health & Wellness,SLR00394,2423.53,1356.11
+PRD000342,Profound secondary adapter,Home & Kitchen,SLR00428,1141.94,721.74
+PRD000343,Triple-buffered client-server product,Agri Inputs,SLR00273,170.45,139.82
+PRD000344,Programmable impactful adapter,Groceries,SLR00206,242.63,142.87
+PRD000345,Multi-tiered 6thgeneration forecast,Agri Inputs,SLR00147,1270.97,825.12
+PRD000346,Reactive 4thgeneration conglomeration,Electronics,SLR00299,1502.6,969.06
+PRD000347,Enterprise-wide empowering access,Agri Inputs,SLR00452,2008.83,1587.97
+PRD000348,Operative zero tolerance help-desk,Home & Kitchen,SLR00548,244.3,165.26
+PRD000349,Innovative mission-critical firmware,Health & Wellness,SLR00382,1322.07,969.7
+PRD000350,Organized impactful solution,Dairy & Poultry,SLR00533,1015.26,681.56
+PRD000351,Robust global analyzer,Dairy & Poultry,SLR00232,269.66,192.92
+PRD000352,Universal optimal adapter,Apparel,SLR00128,143.07,81.37
+PRD000353,Function-based attitude-oriented productivity,Home & Kitchen,SLR00569,115.16,76.26
+PRD000354,Profit-focused upward-trending paradigm,Home & Kitchen,SLR00236,546.51,440.78
+PRD000355,Profit-focused full-range Internet solution,Apparel,SLR00581,618.19,468.17
+PRD000356,Object-based system-worthy firmware,Agri Inputs,SLR00574,442.33,373.57
+PRD000357,Expanded 5thgeneration attitude,Health & Wellness,SLR00484,476.67,374.84
+PRD000358,Networked full-range product,Health & Wellness,SLR00240,580.07,397.61
+PRD000359,Multi-channeled intermediate workforce,Agri Inputs,SLR00222,528.35,397.79
+PRD000360,Devolved directional migration,Apparel,SLR00098,1646.82,1289.09
+PRD000361,Realigned mobile moderator,Electronics,SLR00556,280.06,176.69
+PRD000362,Profound multimedia intranet,Handlooms,SLR00272,425.03,241.42
+PRD000363,Upgradable homogeneous hardware,Groceries,SLR00398,830.09,557.62
+PRD000364,Optimized tangible pricing structure,Apparel,SLR00516,588.13,349.0
+PRD000365,Secured disintermediate archive,Agri Inputs,SLR00429,1074.31,680.22
+PRD000366,Expanded human-resource protocol,Groceries,SLR00522,186.4,155.47
+PRD000367,Business-focused intangible project,Dairy & Poultry,SLR00347,337.72,271.57
+PRD000368,De-engineered client-driven parallelism,Dairy & Poultry,SLR00550,672.86,489.67
+PRD000369,Ameliorated background attitude,Agri Inputs,SLR00450,540.54,362.37
+PRD000370,Upgradable content-based open architecture,Handlooms,SLR00041,495.19,311.62
+PRD000371,Multi-tiered 24/7 focus group,Handlooms,SLR00093,918.75,662.82
+PRD000372,Polarized optimizing focus group,Apparel,SLR00485,958.05,680.17
+PRD000373,Synchronized web-enabled knowledge user,Groceries,SLR00516,841.75,660.13
+PRD000374,Configurable web-enabled orchestration,Home & Kitchen,SLR00563,203.79,168.82
+PRD000375,Seamless 24/7 data-warehouse,Health & Wellness,SLR00149,1366.52,886.44
+PRD000376,Profound 3rdgeneration database,Health & Wellness,SLR00498,164.89,100.89
+PRD000377,Managed bottom-line task-force,Groceries,SLR00370,226.22,151.76
+PRD000378,Up-sized upward-trending extranet,Dairy & Poultry,SLR00484,585.66,398.99
+PRD000379,Programmable optimizing website,Home & Kitchen,SLR00382,213.6,120.03
+PRD000380,Virtual fresh-thinking superstructure,Dairy & Poultry,SLR00191,174.02,140.7
+PRD000381,Fully-configurable next generation concept,Handlooms,SLR00220,382.13,324.31
+PRD000382,Universal non-volatile frame,Agri Inputs,SLR00046,95.75,79.18
+PRD000383,Integrated asynchronous parallelism,Health & Wellness,SLR00126,679.46,549.14
+PRD000384,Universal web-enabled capability,Home & Kitchen,SLR00006,1206.59,1022.92
+PRD000385,Fundamental logistical workforce,Home & Kitchen,SLR00115,1724.65,1418.25
+PRD000386,Re-contextualized upward-trending application,Apparel,SLR00563,792.36,599.43
+PRD000387,Multi-lateral discrete function,Electronics,SLR00365,506.95,304.18
+PRD000388,Organic clear-thinking open architecture,Handlooms,SLR00045,947.09,565.32
+PRD000389,Front-line optimizing help-desk,Home & Kitchen,SLR00392,637.11,359.73
+PRD000390,Cross-group user-facing installation,Dairy & Poultry,SLR00022,1289.25,868.37
+PRD000391,Phased didactic productivity,Dairy & Poultry,SLR00130,438.87,347.87
+PRD000392,Centralized non-volatile groupware,Handlooms,SLR00126,697.6,486.29
+PRD000393,Upgradable directional capacity,Dairy & Poultry,SLR00444,970.9,640.69
+PRD000394,Switchable upward-trending infrastructure,Apparel,SLR00308,1264.72,737.04
+PRD000395,Proactive 24/7 workforce,Agri Inputs,SLR00432,343.03,193.99
+PRD000396,Realigned eco-centric migration,Groceries,SLR00472,615.33,412.12
+PRD000397,Virtual multi-state initiative,Handlooms,SLR00047,561.03,325.38
+PRD000398,Self-enabling multi-tasking synergy,Apparel,SLR00081,1878.45,1091.5
+PRD000399,Visionary incremental website,Apparel,SLR00108,214.82,143.63
+PRD000400,Managed homogeneous solution,Apparel,SLR00262,454.86,318.79
+PRD000401,Switchable coherent parallelism,Health & Wellness,SLR00030,710.82,430.76
+PRD000402,Down-sized holistic time-frame,Dairy & Poultry,SLR00357,453.76,342.77
+PRD000403,Switchable stable monitoring,Health & Wellness,SLR00567,705.52,476.65
+PRD000404,Switchable contextually-based complexity,Health & Wellness,SLR00479,525.57,303.56
+PRD000405,Progressive composite structure,Groceries,SLR00188,422.5,313.12
+PRD000406,Public-key 24hour task-force,Health & Wellness,SLR00004,599.19,393.72
+PRD000407,Virtual bifurcated moderator,Handlooms,SLR00285,878.93,497.21
+PRD000408,Extended coherent encryption,Home & Kitchen,SLR00393,363.02,302.9
+PRD000409,Multi-layered demand-driven analyzer,Apparel,SLR00454,959.76,692.33
+PRD000410,Optional multimedia migration,Groceries,SLR00425,611.49,423.96
+PRD000411,Mandatory interactive monitoring,Health & Wellness,SLR00026,306.1,247.25
+PRD000412,Upgradable exuding software,Agri Inputs,SLR00126,657.07,546.04
+PRD000413,Optimized mobile installation,Electronics,SLR00134,449.88,277.17
+PRD000414,Sharable modular middleware,Handlooms,SLR00534,330.09,261.78
+PRD000415,Ameliorated reciprocal initiative,Groceries,SLR00330,545.73,436.22
+PRD000416,Grass-roots fresh-thinking website,Electronics,SLR00391,635.17,359.71
+PRD000417,Reactive directional matrices,Electronics,SLR00007,991.56,757.14
+PRD000418,Future-proofed upward-trending focus group,Health & Wellness,SLR00260,712.38,405.27
+PRD000419,Re-engineered fresh-thinking orchestration,Groceries,SLR00198,145.44,105.94
+PRD000420,Phased full-range circuit,Dairy & Poultry,SLR00597,430.37,323.11
+PRD000421,Configurable discrete help-desk,Home & Kitchen,SLR00385,612.94,404.61
+PRD000422,Sharable dedicated artificial intelligence,Home & Kitchen,SLR00471,458.69,373.48
+PRD000423,Polarized fresh-thinking hardware,Groceries,SLR00178,1079.72,853.14
+PRD000424,Synergized zero tolerance strategy,Groceries,SLR00449,1321.56,1093.97
+PRD000425,Managed radical product,Apparel,SLR00239,165.74,106.81
+PRD000426,Diverse motivating standardization,Agri Inputs,SLR00523,748.7,416.62
+PRD000427,Secured mobile focus group,Home & Kitchen,SLR00182,260.11,206.38
+PRD000428,Public-key tertiary knowledgebase,Apparel,SLR00357,1301.86,803.11
+PRD000429,Grass-roots background software,Dairy & Poultry,SLR00375,309.22,213.41
+PRD000430,Cloned tertiary productivity,Electronics,SLR00537,281.24,223.64
+PRD000431,Implemented multi-tasking info-mediaries,Electronics,SLR00081,1134.99,697.84
+PRD000432,Synergized cohesive interface,Electronics,SLR00357,895.67,576.43
+PRD000433,Organic fresh-thinking task-force,Groceries,SLR00184,862.18,587.77
+PRD000434,Decentralized value-added projection,Dairy & Poultry,SLR00287,918.41,580.02
+PRD000435,Decentralized reciprocal process improvement,Handlooms,SLR00061,379.95,261.56
+PRD000436,Proactive interactive extranet,Apparel,SLR00506,526.72,291.21
+PRD000437,Managed directional flexibility,Handlooms,SLR00461,1293.28,793.63
+PRD000438,Seamless incremental help-desk,Health & Wellness,SLR00029,1802.12,1441.27
+PRD000439,Intuitive asynchronous throughput,Agri Inputs,SLR00030,519.48,350.15
+PRD000440,Multi-channeled zero-defect project,Agri Inputs,SLR00292,387.74,287.28
+PRD000441,Optional fault-tolerant budgetary management,Apparel,SLR00172,1463.82,907.11
+PRD000442,Seamless impactful intranet,Electronics,SLR00127,851.91,634.64
+PRD000443,Progressive radical interface,Health & Wellness,SLR00085,646.56,549.57
+PRD000444,Front-line uniform access,Home & Kitchen,SLR00314,676.7,493.03
+PRD000445,Business-focused non-volatile database,Dairy & Poultry,SLR00027,633.41,467.78
+PRD000446,Monitored user-facing middleware,Agri Inputs,SLR00121,1585.54,925.09
+PRD000447,Enterprise-wide analyzing budgetary management,Handlooms,SLR00250,1220.35,818.87
+PRD000448,Object-based zero tolerance core,Handlooms,SLR00572,406.78,328.77
+PRD000449,Automated attitude-oriented task-force,Home & Kitchen,SLR00402,1971.23,1577.54
+PRD000450,User-centric fresh-thinking orchestration,Groceries,SLR00442,363.87,257.15
+PRD000451,Phased solution-oriented productivity,Electronics,SLR00271,581.19,477.18
+PRD000452,Distributed context-sensitive focus group,Groceries,SLR00112,994.31,589.51
+PRD000453,Digitized clear-thinking moderator,Apparel,SLR00393,1075.26,803.71
+PRD000454,Grass-roots well-modulated moratorium,Agri Inputs,SLR00018,419.65,262.14
+PRD000455,User-friendly didactic function,Home & Kitchen,SLR00464,650.78,483.96
+PRD000456,Visionary stable policy,Home & Kitchen,SLR00190,462.7,266.62
+PRD000457,Down-sized mission-critical implementation,Home & Kitchen,SLR00492,2192.0,1826.12
+PRD000458,Open-source neutral application,Groceries,SLR00162,405.2,318.45
+PRD000459,Re-contextualized responsive model,Dairy & Poultry,SLR00294,1128.16,688.5
+PRD000460,Visionary eco-centric Internet solution,Groceries,SLR00578,173.36,128.49
+PRD000461,Streamlined system-worthy application,Apparel,SLR00072,641.2,498.69
+PRD000462,Configurable scalable middleware,Handlooms,SLR00561,616.51,377.82
+PRD000463,Automated even-keeled access,Handlooms,SLR00308,784.87,453.65
+PRD000464,Expanded dedicated framework,Health & Wellness,SLR00301,442.0,289.75
+PRD000465,Reactive 24hour archive,Apparel,SLR00307,345.66,204.19
+PRD000466,Managed directional intranet,Dairy & Poultry,SLR00123,243.18,175.02
+PRD000467,User-friendly disintermediate hub,Home & Kitchen,SLR00260,551.83,373.72
+PRD000468,Progressive impactful initiative,Handlooms,SLR00194,174.06,119.88
+PRD000469,User-friendly mobile benchmark,Apparel,SLR00350,265.22,189.06
+PRD000470,Monitored fresh-thinking firmware,Handlooms,SLR00488,240.92,203.48
+PRD000471,Future-proofed intangible adapter,Dairy & Poultry,SLR00199,514.58,405.38
+PRD000472,Monitored dynamic paradigm,Health & Wellness,SLR00507,1289.04,952.4
+PRD000473,Distributed hybrid analyzer,Apparel,SLR00579,530.66,349.76
+PRD000474,Seamless intermediate matrix,Handlooms,SLR00445,199.23,111.19
+PRD000475,Future-proofed value-added initiative,Home & Kitchen,SLR00079,915.83,535.72
+PRD000476,Sharable tangible challenge,Dairy & Poultry,SLR00468,995.12,765.51
+PRD000477,Proactive client-driven application,Groceries,SLR00441,2984.9,1972.31
+PRD000478,Self-enabling full-range synergy,Dairy & Poultry,SLR00271,589.12,383.12
+PRD000479,Expanded hybrid standardization,Groceries,SLR00342,1084.67,885.84
+PRD000480,Innovative regional orchestration,Dairy & Poultry,SLR00123,1867.21,1298.37
+PRD000481,Cloned bi-directional policy,Health & Wellness,SLR00222,612.37,502.07
+PRD000482,Team-oriented coherent strategy,Home & Kitchen,SLR00489,124.92,101.93
+PRD000483,Progressive grid-enabled installation,Handlooms,SLR00296,928.88,533.23
+PRD000484,Organic user-facing product,Home & Kitchen,SLR00118,540.71,450.74
+PRD000485,Synergized coherent website,Apparel,SLR00075,1104.01,632.69
+PRD000486,Profit-focused high-level support,Groceries,SLR00257,446.95,375.01
+PRD000487,Balanced composite artificial intelligence,Agri Inputs,SLR00531,1068.76,732.94
+PRD000488,Multi-channeled fresh-thinking success,Health & Wellness,SLR00350,288.19,224.29
+PRD000489,Streamlined stable data-warehouse,Handlooms,SLR00276,223.01,169.9
+PRD000490,Realigned dynamic adapter,Agri Inputs,SLR00254,996.73,703.24
+PRD000491,Synergistic modular knowledgebase,Agri Inputs,SLR00263,371.77,273.56
+PRD000492,Mandatory foreground neural-net,Dairy & Poultry,SLR00028,1012.53,845.44
+PRD000493,Devolved background complexity,Health & Wellness,SLR00466,515.15,426.65
+PRD000494,Networked contextually-based instruction set,Electronics,SLR00034,2081.04,1553.08
+PRD000495,Fundamental didactic portal,Agri Inputs,SLR00293,1271.55,950.25
+PRD000496,Multi-layered hybrid matrices,Agri Inputs,SLR00202,247.38,154.39
+PRD000497,Stand-alone multimedia flexibility,Home & Kitchen,SLR00067,1082.63,864.57
+PRD000498,Horizontal value-added infrastructure,Electronics,SLR00130,642.01,474.95
+PRD000499,Adaptive local open architecture,Electronics,SLR00110,561.88,448.31
+PRD000500,Seamless zero-defect adapter,Electronics,SLR00523,637.79,476.66
+PRD000501,Polarized global artificial intelligence,Health & Wellness,SLR00287,409.13,261.76
+PRD000502,Synchronized zero tolerance open system,Apparel,SLR00042,415.07,251.88
+PRD000503,Total non-volatile attitude,Electronics,SLR00293,436.38,250.08
+PRD000504,Robust motivating architecture,Home & Kitchen,SLR00284,231.92,168.33
+PRD000505,Persevering mission-critical hub,Apparel,SLR00563,891.03,566.0
+PRD000506,Multi-layered asymmetric collaboration,Handlooms,SLR00018,648.98,479.7
+PRD000507,Re-engineered systematic solution,Apparel,SLR00506,944.76,536.24
+PRD000508,Grass-roots exuding attitude,Handlooms,SLR00546,813.69,539.23
+PRD000509,Integrated real-time time-frame,Electronics,SLR00047,889.74,558.9
+PRD000510,Down-sized global database,Electronics,SLR00218,481.17,318.1
+PRD000511,Synergistic bandwidth-monitored interface,Handlooms,SLR00187,867.92,491.49
+PRD000512,Grass-roots regional moratorium,Groceries,SLR00030,874.12,670.67
+PRD000513,Enhanced multi-state task-force,Home & Kitchen,SLR00258,534.9,312.92
+PRD000514,Synergistic well-modulated encryption,Apparel,SLR00343,1309.5,725.88
+PRD000515,Programmable zero-defect project,Home & Kitchen,SLR00307,486.39,405.59
+PRD000516,Mandatory stable orchestration,Home & Kitchen,SLR00070,2280.44,1386.19
+PRD000517,Phased encompassing intranet,Agri Inputs,SLR00306,848.93,677.8
+PRD000518,Organic intermediate hardware,Electronics,SLR00567,459.24,385.46
+PRD000519,Multi-tiered zero-defect functionalities,Apparel,SLR00098,593.05,421.21
+PRD000520,Reduced 5thgeneration matrices,Home & Kitchen,SLR00020,1801.76,1275.35
+PRD000521,Ameliorated high-level Graphic Interface,Apparel,SLR00564,1461.23,964.74
+PRD000522,Innovative uniform pricing structure,Home & Kitchen,SLR00005,121.66,82.45
+PRD000523,Fundamental solution-oriented utilization,Electronics,SLR00230,1213.05,842.61
+PRD000524,Triple-buffered demand-driven productivity,Home & Kitchen,SLR00081,414.86,247.1
+PRD000525,Integrated directional throughput,Handlooms,SLR00216,445.36,293.68
+PRD000526,Optional national leverage,Electronics,SLR00334,603.36,479.57
+PRD000527,Switchable modular benchmark,Apparel,SLR00558,503.4,304.42
+PRD000528,Mandatory incremental website,Health & Wellness,SLR00593,407.65,313.46
+PRD000529,Re-contextualized context-sensitive circuit,Groceries,SLR00552,401.63,299.41
+PRD000530,Up-sized 24hour paradigm,Home & Kitchen,SLR00458,152.6,86.55
+PRD000531,Future-proofed zero administration pricing structu,Handlooms,SLR00086,438.79,244.29
+PRD000532,Business-focused mobile initiative,Electronics,SLR00514,1079.52,707.9
+PRD000533,Team-oriented disintermediate framework,Agri Inputs,SLR00512,891.15,675.18
+PRD000534,Customizable grid-enabled database,Health & Wellness,SLR00586,425.83,276.42
+PRD000535,Multi-lateral optimizing Local Area Network,Health & Wellness,SLR00477,156.6,117.5
+PRD000536,Persistent bottom-line application,Electronics,SLR00497,803.03,601.98
+PRD000537,Switchable actuating budgetary management,Dairy & Poultry,SLR00448,270.66,214.35
+PRD000538,Decentralized full-range project,Health & Wellness,SLR00587,635.39,368.43
+PRD000539,Function-based maximized knowledgebase,Apparel,SLR00259,255.36,184.66
+PRD000540,Focused zero administration forecast,Apparel,SLR00536,210.47,119.7
+PRD000541,Seamless empowering encoding,Agri Inputs,SLR00199,416.19,250.87
+PRD000542,Switchable asynchronous protocol,Handlooms,SLR00462,581.79,376.8
+PRD000543,Fundamental system-worthy monitoring,Apparel,SLR00093,559.67,426.59
+PRD000544,Polarized client-driven conglomeration,Handlooms,SLR00351,819.14,689.85
+PRD000545,Multi-channeled high-level Local Area Network,Handlooms,SLR00107,524.26,342.21
+PRD000546,Profit-focused global initiative,Electronics,SLR00354,1208.87,853.88
+PRD000547,Function-based bi-directional definition,Handlooms,SLR00468,262.54,164.8
+PRD000548,Mandatory encompassing project,Home & Kitchen,SLR00094,587.99,442.55
+PRD000549,Upgradable scalable matrix,Dairy & Poultry,SLR00090,1875.03,1237.47
+PRD000550,Integrated bandwidth-monitored infrastructure,Apparel,SLR00043,1832.59,1272.69
+PRD000551,Public-key full-range projection,Apparel,SLR00455,540.84,389.59
+PRD000552,Multi-layered maximized data-warehouse,Groceries,SLR00383,1069.74,808.59
+PRD000553,Secured static functionalities,Health & Wellness,SLR00022,683.5,388.24
+PRD000554,Distributed disintermediate circuit,Handlooms,SLR00022,412.16,295.3
+PRD000555,Public-key high-level hub,Groceries,SLR00233,259.68,176.41
+PRD000556,Monitored neutral adapter,Electronics,SLR00310,1572.15,927.77
+PRD000557,Vision-oriented systematic synergy,Groceries,SLR00416,649.21,397.58
+PRD000558,Reduced zero tolerance hardware,Health & Wellness,SLR00332,520.49,424.29
+PRD000559,Pre-emptive value-added policy,Handlooms,SLR00574,138.45,112.36
+PRD000560,Innovative mobile hierarchy,Dairy & Poultry,SLR00102,1430.7,801.19
+PRD000561,Profit-focused bandwidth-monitored projection,Health & Wellness,SLR00499,737.91,558.47
+PRD000562,Open-source impactful analyzer,Apparel,SLR00482,1179.56,844.87
+PRD000563,Distributed zero tolerance moderator,Dairy & Poultry,SLR00188,451.22,375.39
+PRD000564,Visionary empowering product,Electronics,SLR00459,675.96,555.91
+PRD000565,Sharable bottom-line time-frame,Handlooms,SLR00188,790.16,571.97
+PRD000566,Ergonomic incremental concept,Dairy & Poultry,SLR00350,1234.32,730.33
+PRD000567,Front-line didactic support,Dairy & Poultry,SLR00580,489.94,337.05
+PRD000568,User-centric solution-oriented toolset,Dairy & Poultry,SLR00113,529.2,406.19
+PRD000569,Sharable exuding intranet,Dairy & Poultry,SLR00103,403.25,336.92
+PRD000570,Adaptive exuding adapter,Dairy & Poultry,SLR00507,2832.35,1866.94
+PRD000571,Persistent bi-directional extranet,Dairy & Poultry,SLR00344,972.12,763.5
+PRD000572,Open-architected optimizing intranet,Electronics,SLR00020,596.81,450.59
+PRD000573,Sharable transitional attitude,Agri Inputs,SLR00386,413.88,237.36
+PRD000574,Function-based upward-trending methodology,Dairy & Poultry,SLR00208,1505.75,1080.21
+PRD000575,Synchronized optimizing matrix,Handlooms,SLR00482,511.71,309.61
+PRD000576,Up-sized system-worthy encryption,Agri Inputs,SLR00472,699.56,528.21
+PRD000577,Implemented bottom-line open architecture,Dairy & Poultry,SLR00392,280.96,205.95
+PRD000578,Monitored transitional functionalities,Groceries,SLR00515,1022.49,860.85
+PRD000579,Re-engineered global analyzer,Handlooms,SLR00187,891.38,740.39
+PRD000580,Programmable transitional data-warehouse,Agri Inputs,SLR00345,466.22,257.73
+PRD000581,Proactive executive hub,Home & Kitchen,SLR00351,640.23,367.5
+PRD000582,Universal zero administration initiative,Apparel,SLR00540,1115.97,871.28
+PRD000583,Automated bottom-line Local Area Network,Groceries,SLR00597,261.9,197.92
+PRD000584,Assimilated content-based portal,Handlooms,SLR00046,297.53,235.13
+PRD000585,Networked bandwidth-monitored adapter,Handlooms,SLR00076,494.6,311.62
+PRD000586,Compatible logistical hardware,Apparel,SLR00342,853.94,687.25
+PRD000587,Seamless systematic algorithm,Apparel,SLR00190,1333.61,910.49
+PRD000588,Switchable 6thgeneration task-force,Health & Wellness,SLR00542,472.85,297.22
+PRD000589,Customer-focused leadingedge synergy,Dairy & Poultry,SLR00035,450.86,249.41
+PRD000590,Automated human-resource knowledgebase,Agri Inputs,SLR00423,515.24,418.07
+PRD000591,Re-engineered secondary flexibility,Agri Inputs,SLR00350,896.2,636.84
+PRD000592,Re-engineered 5thgeneration matrix,Agri Inputs,SLR00187,240.72,202.83
+PRD000593,Quality-focused intermediate standardization,Health & Wellness,SLR00526,431.77,330.05
+PRD000594,Right-sized context-sensitive moderator,Dairy & Poultry,SLR00333,293.46,168.48
+PRD000595,Intuitive foreground software,Electronics,SLR00482,450.9,327.56
+PRD000596,Cross-platform hybrid strategy,Groceries,SLR00215,660.54,366.69
+PRD000597,Distributed bifurcated synergy,Dairy & Poultry,SLR00157,376.77,270.27
+PRD000598,Multi-lateral optimal workforce,Handlooms,SLR00240,969.25,634.92
+PRD000599,Vision-oriented disintermediate secured line,Groceries,SLR00295,132.97,98.8
+PRD000600,Reactive zero administration utilization,Apparel,SLR00461,140.22,99.9
+PRD000601,Reduced interactive intranet,Dairy & Poultry,SLR00044,198.8,124.93
+PRD000602,Open-architected systematic encryption,Home & Kitchen,SLR00494,328.52,196.69
+PRD000603,Multi-channeled dedicated utilization,Groceries,SLR00174,698.89,469.24
+PRD000604,Optimized mobile encoding,Groceries,SLR00345,142.12,120.24
+PRD000605,Multi-layered systematic utilization,Agri Inputs,SLR00055,306.87,208.89
+PRD000606,Multi-channeled tertiary moderator,Apparel,SLR00565,403.02,312.19
+PRD000607,Right-sized incremental analyzer,Groceries,SLR00340,828.52,469.85
+PRD000608,Pre-emptive analyzing knowledgebase,Handlooms,SLR00107,521.26,345.94
+PRD000609,De-engineered client-driven monitoring,Agri Inputs,SLR00213,238.92,173.0
+PRD000610,Public-key didactic flexibility,Health & Wellness,SLR00498,342.87,265.85
+PRD000611,Vision-oriented attitude-oriented data-warehouse,Groceries,SLR00396,487.52,345.42
+PRD000612,Focused grid-enabled benchmark,Apparel,SLR00549,764.29,538.51
+PRD000613,Versatile content-based pricing structure,Dairy & Poultry,SLR00496,312.88,243.79
+PRD000614,Adaptive asynchronous flexibility,Home & Kitchen,SLR00172,990.79,638.06
+PRD000615,Ergonomic actuating portal,Dairy & Poultry,SLR00104,138.39,79.88
+PRD000616,Persistent fault-tolerant concept,Dairy & Poultry,SLR00551,416.38,272.37
+PRD000617,Proactive scalable function,Handlooms,SLR00478,829.53,495.81
+PRD000618,Seamless discrete Internet solution,Home & Kitchen,SLR00398,1181.63,992.31
+PRD000619,Open-architected systematic definition,Apparel,SLR00433,705.15,510.0
+PRD000620,Intuitive mission-critical structure,Apparel,SLR00193,684.47,468.16
+PRD000621,Visionary upward-trending open system,Apparel,SLR00465,659.16,542.89
+PRD000622,Open-source leadingedge throughput,Home & Kitchen,SLR00340,386.73,317.16
+PRD000623,Cloned system-worthy flexibility,Electronics,SLR00058,474.2,319.95
+PRD000624,Programmable 3rdgeneration customer loyalty,Handlooms,SLR00537,705.67,573.3
+PRD000625,Triple-buffered zero administration secured line,Apparel,SLR00477,1062.03,604.52
+PRD000626,Advanced static application,Electronics,SLR00102,507.05,413.61
+PRD000627,Persevering systematic success,Agri Inputs,SLR00532,661.91,425.72
+PRD000628,Focused high-level time-frame,Electronics,SLR00591,455.66,327.86
+PRD000629,Self-enabling intermediate hierarchy,Agri Inputs,SLR00321,555.98,350.77
+PRD000630,Realigned coherent info-mediaries,Home & Kitchen,SLR00548,183.22,154.9
+PRD000631,Assimilated multimedia conglomeration,Health & Wellness,SLR00013,669.87,382.85
+PRD000632,Mandatory contextually-based secured line,Health & Wellness,SLR00455,1283.09,877.74
+PRD000633,Operative disintermediate superstructure,Electronics,SLR00220,1144.71,842.85
+PRD000634,Phased optimizing firmware,Home & Kitchen,SLR00390,344.47,253.08
+PRD000635,Triple-buffered zero-defect website,Apparel,SLR00172,313.25,241.71
+PRD000636,Cloned client-server middleware,Electronics,SLR00080,593.35,455.29
+PRD000637,Virtual multi-state info-mediaries,Electronics,SLR00335,196.8,155.07
+PRD000638,Optimized optimal benchmark,Apparel,SLR00224,1024.45,635.45
+PRD000639,Cross-group clear-thinking service-desk,Agri Inputs,SLR00034,365.6,241.72
+PRD000640,De-engineered dedicated utilization,Apparel,SLR00187,1021.8,679.1
+PRD000641,Down-sized asynchronous firmware,Handlooms,SLR00223,350.29,293.11
+PRD000642,Self-enabling stable concept,Health & Wellness,SLR00493,564.96,380.1
+PRD000643,Inverse cohesive workforce,Dairy & Poultry,SLR00310,1479.27,912.06
+PRD000644,Multi-tiered attitude-oriented benchmark,Dairy & Poultry,SLR00520,819.86,606.45
+PRD000645,Reduced mobile utilization,Health & Wellness,SLR00580,653.36,443.1
+PRD000646,Stand-alone needs-based open system,Electronics,SLR00539,761.97,476.25
+PRD000647,Digitized full-range workforce,Handlooms,SLR00368,258.25,197.44
+PRD000648,Secured fault-tolerant infrastructure,Apparel,SLR00474,1367.31,830.75
+PRD000649,Virtual well-modulated functionalities,Health & Wellness,SLR00030,1083.61,801.88
+PRD000650,Organized empowering product,Home & Kitchen,SLR00231,571.72,388.29
+PRD000651,Self-enabling encompassing implementation,Apparel,SLR00496,679.38,438.71
+PRD000652,Multi-layered tangible data-warehouse,Groceries,SLR00565,736.16,613.81
+PRD000653,Enterprise-wide holistic software,Handlooms,SLR00174,1249.48,808.82
+PRD000654,Intuitive even-keeled forecast,Health & Wellness,SLR00297,1206.62,789.43
+PRD000655,Compatible bifurcated model,Groceries,SLR00364,152.95,124.07
+PRD000656,Cross-platform zero administration solution,Handlooms,SLR00085,392.08,230.82
+PRD000657,Public-key static task-force,Dairy & Poultry,SLR00576,769.13,447.96
+PRD000658,Total global artificial intelligence,Home & Kitchen,SLR00088,1035.57,657.39
+PRD000659,Extended homogeneous knowledge user,Groceries,SLR00053,366.95,266.95
+PRD000660,Ergonomic multimedia adapter,Groceries,SLR00360,868.8,578.0
+PRD000661,Synergized global circuit,Handlooms,SLR00475,715.66,524.27
+PRD000662,Centralized demand-driven neural-net,Apparel,SLR00228,818.79,489.58
+PRD000663,Stand-alone secondary moratorium,Agri Inputs,SLR00533,374.49,235.34
+PRD000664,Cross-platform system-worthy parallelism,Apparel,SLR00372,552.83,397.79
+PRD000665,Extended leadingedge success,Agri Inputs,SLR00468,847.84,521.54
+PRD000666,Optimized multimedia framework,Handlooms,SLR00419,820.22,555.16
+PRD000667,Vision-oriented bandwidth-monitored monitoring,Electronics,SLR00531,770.98,556.49
+PRD000668,Vision-oriented even-keeled methodology,Apparel,SLR00399,236.51,199.16
+PRD000669,Configurable empowering implementation,Groceries,SLR00183,496.91,285.21
+PRD000670,Synchronized client-driven concept,Apparel,SLR00561,338.74,233.1
+PRD000671,Assimilated asynchronous firmware,Dairy & Poultry,SLR00089,832.48,556.83
+PRD000672,Switchable multi-state encryption,Handlooms,SLR00382,1604.7,1279.38
+PRD000673,Exclusive dynamic Graphic Interface,Dairy & Poultry,SLR00368,680.18,557.81
+PRD000674,Future-proofed analyzing attitude,Electronics,SLR00073,1243.15,1022.0
+PRD000675,Customizable contextually-based intranet,Electronics,SLR00268,180.94,119.88
+PRD000676,Down-sized needs-based database,Apparel,SLR00014,676.96,434.2
+PRD000677,Networked 24/7 customer loyalty,Apparel,SLR00328,602.35,412.45
+PRD000678,Adaptive multimedia matrices,Dairy & Poultry,SLR00391,286.46,187.11
+PRD000679,Vision-oriented hybrid frame,Home & Kitchen,SLR00433,402.82,308.42
+PRD000680,Persistent mission-critical analyzer,Apparel,SLR00343,585.13,359.31
+PRD000681,Upgradable object-oriented access,Handlooms,SLR00194,605.43,452.62
+PRD000682,Operative stable secured line,Agri Inputs,SLR00035,2365.83,1959.13
+PRD000683,Polarized intermediate benchmark,Home & Kitchen,SLR00204,455.75,288.93
+PRD000684,Quality-focused disintermediate time-frame,Agri Inputs,SLR00056,1576.35,1187.1
+PRD000685,Persistent homogeneous circuit,Dairy & Poultry,SLR00109,268.25,159.09
+PRD000686,User-centric real-time hub,Groceries,SLR00495,1866.63,1094.62
+PRD000687,Adaptive mission-critical instruction set,Health & Wellness,SLR00224,857.67,501.47
+PRD000688,Streamlined mission-critical solution,Handlooms,SLR00385,383.35,226.77
+PRD000689,Cloned scalable instruction set,Home & Kitchen,SLR00063,362.57,222.93
+PRD000690,Enterprise-wide bandwidth-monitored methodology,Dairy & Poultry,SLR00351,618.99,444.96
+PRD000691,Digitized 6thgeneration forecast,Electronics,SLR00462,234.71,183.1
+PRD000692,Quality-focused multi-tasking model,Home & Kitchen,SLR00319,612.07,359.93
+PRD000693,Object-based next generation application,Groceries,SLR00356,1696.84,1376.14
+PRD000694,Switchable exuding benchmark,Electronics,SLR00092,272.63,218.87
+PRD000695,Profit-focused human-resource orchestration,Home & Kitchen,SLR00299,1054.45,810.05
+PRD000696,Face-to-face 6thgeneration definition,Dairy & Poultry,SLR00493,1127.92,764.49
+PRD000697,Synchronized cohesive info-mediaries,Electronics,SLR00594,187.92,103.44
+PRD000698,Innovative solution-oriented groupware,Apparel,SLR00388,431.49,332.43
+PRD000699,Open-architected eco-centric pricing structure,Electronics,SLR00433,1287.72,1047.81
+PRD000700,Optimized maximized framework,Home & Kitchen,SLR00101,302.77,196.98
+PRD000701,Customer-focused optimizing pricing structure,Electronics,SLR00377,1037.57,794.15
+PRD000702,Configurable impactful alliance,Handlooms,SLR00582,296.0,168.31
+PRD000703,Inverse transitional software,Apparel,SLR00337,286.11,218.26
+PRD000704,Versatile discrete portal,Apparel,SLR00491,1226.62,699.78
+PRD000705,Synergized 3rdgeneration info-mediaries,Groceries,SLR00059,399.17,289.86
+PRD000706,Function-based non-volatile alliance,Apparel,SLR00508,360.06,262.58
+PRD000707,Re-contextualized uniform strategy,Agri Inputs,SLR00391,272.95,174.86
+PRD000708,Versatile mobile project,Handlooms,SLR00118,154.0,88.36
+PRD000709,Advanced discrete framework,Groceries,SLR00470,469.69,392.1
+PRD000710,De-engineered global protocol,Agri Inputs,SLR00327,1722.13,1223.87
+PRD000711,Customizable tertiary policy,Electronics,SLR00020,282.88,204.78
+PRD000712,Organized systemic application,Health & Wellness,SLR00096,1124.54,825.98
+PRD000713,Decentralized neutral architecture,Agri Inputs,SLR00512,399.27,326.33
+PRD000714,User-centric holistic open architecture,Groceries,SLR00349,971.03,551.62
+PRD000715,Re-engineered bandwidth-monitored core,Apparel,SLR00131,396.93,324.68
+PRD000716,Object-based needs-based circuit,Handlooms,SLR00545,1428.7,888.51
+PRD000717,Reduced hybrid Local Area Network,Health & Wellness,SLR00598,389.77,223.49
+PRD000718,Advanced maximized focus group,Groceries,SLR00031,436.89,326.44
+PRD000719,Enhanced bottom-line groupware,Agri Inputs,SLR00258,565.07,476.41
+PRD000720,Fully-configurable asymmetric policy,Health & Wellness,SLR00475,1557.38,883.3
+PRD000721,Fully-configurable scalable infrastructure,Agri Inputs,SLR00032,639.94,433.77
+PRD000722,Upgradable client-driven time-frame,Dairy & Poultry,SLR00387,1426.09,1011.01
+PRD000723,Mandatory composite initiative,Groceries,SLR00560,1252.41,783.55
+PRD000724,Adaptive client-driven conglomeration,Health & Wellness,SLR00455,1593.54,1346.32
+PRD000725,Customizable interactive orchestration,Home & Kitchen,SLR00593,1423.23,1056.45
+PRD000726,User-centric web-enabled algorithm,Home & Kitchen,SLR00143,519.62,417.41
+PRD000727,Reactive tertiary migration,Groceries,SLR00223,1812.84,1223.18
+PRD000728,Persevering high-level utilization,Home & Kitchen,SLR00216,780.28,512.01
+PRD000729,Grass-roots multimedia access,Groceries,SLR00155,776.82,556.16
+PRD000730,Digitized real-time emulation,Apparel,SLR00519,425.8,289.79
+PRD000731,Exclusive zero administration hub,Health & Wellness,SLR00035,183.75,140.47
+PRD000732,Quality-focused discrete system engine,Groceries,SLR00008,183.98,115.86
+PRD000733,Profit-focused exuding core,Electronics,SLR00039,307.3,210.46
+PRD000734,Synergized regional productivity,Handlooms,SLR00468,807.13,660.67
+PRD000735,Configurable 24hour installation,Handlooms,SLR00178,897.94,697.55
+PRD000736,Multi-lateral local encoding,Electronics,SLR00500,329.28,197.71
+PRD000737,Inverse attitude-oriented matrices,Agri Inputs,SLR00372,126.73,103.42
+PRD000738,Integrated global extranet,Agri Inputs,SLR00067,657.3,477.66
+PRD000739,Multi-tiered object-oriented data-warehouse,Agri Inputs,SLR00423,356.83,268.97
+PRD000740,Visionary system-worthy strategy,Dairy & Poultry,SLR00514,542.11,346.02
+PRD000741,Monitored bottom-line algorithm,Health & Wellness,SLR00363,859.43,586.53
+PRD000742,Diverse user-facing artificial intelligence,Agri Inputs,SLR00450,1721.52,1363.52
+PRD000743,Innovative actuating workforce,Apparel,SLR00515,486.99,316.16
+PRD000744,Virtual background collaboration,Electronics,SLR00328,665.45,398.95
+PRD000745,Quality-focused dynamic core,Handlooms,SLR00369,117.74,78.12
+PRD000746,Cross-group object-oriented groupware,Electronics,SLR00596,857.77,489.59
+PRD000747,Multi-layered multimedia productivity,Handlooms,SLR00386,2040.89,1562.01
+PRD000748,Reduced tertiary matrices,Agri Inputs,SLR00546,1139.62,677.3
+PRD000749,Re-contextualized optimal access,Apparel,SLR00113,1262.6,802.43
+PRD000750,Face-to-face global workforce,Groceries,SLR00570,167.81,136.65
+PRD000751,Virtual real-time knowledgebase,Groceries,SLR00037,858.29,611.23
+PRD000752,Cross-platform modular methodology,Home & Kitchen,SLR00544,589.98,381.36
+PRD000753,Configurable mobile standardization,Agri Inputs,SLR00376,78.31,55.94
+PRD000754,Assimilated content-based alliance,Agri Inputs,SLR00398,855.52,526.56
+PRD000755,Monitored incremental middleware,Electronics,SLR00202,350.61,195.48
+PRD000756,Organized analyzing orchestration,Apparel,SLR00201,257.06,187.94
+PRD000757,Innovative asynchronous capacity,Apparel,SLR00099,565.77,432.38
+PRD000758,Function-based tangible implementation,Dairy & Poultry,SLR00397,324.51,264.13
+PRD000759,Adaptive full-range array,Electronics,SLR00449,526.86,411.78
+PRD000760,Object-based eco-centric moratorium,Apparel,SLR00117,1541.14,1276.07
+PRD000761,Focused well-modulated productivity,Health & Wellness,SLR00420,453.21,383.32
+PRD000762,Self-enabling next generation parallelism,Health & Wellness,SLR00242,963.24,745.05
+PRD000763,Inverse demand-driven encoding,Apparel,SLR00540,229.9,186.31
+PRD000764,Organized human-resource open architecture,Health & Wellness,SLR00226,936.43,704.31
+PRD000765,Fundamental bifurcated system engine,Dairy & Poultry,SLR00500,728.82,438.23
+PRD000766,Realigned logistical task-force,Groceries,SLR00212,992.36,599.89
+PRD000767,Open-architected logistical Local Area Network,Apparel,SLR00112,341.3,199.0
+PRD000768,Synchronized intermediate approach,Health & Wellness,SLR00372,794.69,661.89
+PRD000769,Advanced human-resource focus group,Agri Inputs,SLR00298,2610.77,1962.84
+PRD000770,Face-to-face fault-tolerant Graphic Interface,Groceries,SLR00018,961.68,756.82
+PRD000771,Streamlined transitional parallelism,Agri Inputs,SLR00010,595.78,386.87
+PRD000772,Universal logistical service-desk,Agri Inputs,SLR00007,736.91,507.09
+PRD000773,Sharable static emulation,Health & Wellness,SLR00152,357.64,200.97
+PRD000774,Configurable scalable task-force,Health & Wellness,SLR00549,791.86,646.71
+PRD000775,Phased well-modulated encoding,Electronics,SLR00134,893.09,719.74
+PRD000776,Balanced discrete definition,Home & Kitchen,SLR00372,610.04,479.15
+PRD000777,Enhanced empowering paradigm,Apparel,SLR00460,237.17,134.59
+PRD000778,Operative value-added success,Apparel,SLR00234,290.97,175.24
+PRD000779,Up-sized local groupware,Apparel,SLR00254,214.77,139.65
+PRD000780,Versatile modular firmware,Apparel,SLR00585,332.91,209.37
+PRD000781,Mandatory bifurcated time-frame,Health & Wellness,SLR00327,236.67,189.7
+PRD000782,Adaptive exuding moratorium,Groceries,SLR00361,304.94,185.54
+PRD000783,Grass-roots national analyzer,Handlooms,SLR00373,242.81,172.31
+PRD000784,Reverse-engineered exuding standardization,Agri Inputs,SLR00208,429.43,309.8
+PRD000785,Organic uniform website,Home & Kitchen,SLR00266,231.77,157.02
+PRD000786,Extended bifurcated moratorium,Dairy & Poultry,SLR00553,594.8,370.09
+PRD000787,Cross-group grid-enabled info-mediaries,Home & Kitchen,SLR00505,332.59,278.74
+PRD000788,Ameliorated global frame,Handlooms,SLR00563,623.29,420.11
+PRD000789,Diverse mission-critical application,Dairy & Poultry,SLR00420,1243.06,954.91
+PRD000790,Persevering radical time-frame,Dairy & Poultry,SLR00307,2135.9,1292.68
+PRD000791,Reduced high-level paradigm,Handlooms,SLR00136,790.81,630.15
+PRD000792,Universal exuding website,Dairy & Poultry,SLR00418,176.54,108.53
+PRD000793,Polarized incremental capability,Handlooms,SLR00194,267.97,201.67
+PRD000794,Customer-focused bi-directional application,Health & Wellness,SLR00094,773.77,543.15
+PRD000795,Polarized object-oriented leverage,Groceries,SLR00489,676.15,401.61
+PRD000796,Object-based fault-tolerant knowledge user,Handlooms,SLR00257,192.47,107.3
+PRD000797,Multi-lateral explicit service-desk,Dairy & Poultry,SLR00024,1721.42,1427.44
+PRD000798,User-friendly grid-enabled instruction set,Dairy & Poultry,SLR00231,271.69,159.67
+PRD000799,Mandatory maximized collaboration,Groceries,SLR00331,1236.02,941.21
+PRD000800,Profound non-volatile utilization,Health & Wellness,SLR00220,195.74,145.98
+PRD000801,Persevering coherent concept,Electronics,SLR00296,1300.84,848.82
+PRD000802,Networked systemic orchestration,Dairy & Poultry,SLR00202,1420.24,860.12
+PRD000803,Expanded explicit middleware,Dairy & Poultry,SLR00342,294.13,177.51
+PRD000804,Mandatory encompassing software,Electronics,SLR00592,231.98,168.32
+PRD000805,Assimilated well-modulated database,Home & Kitchen,SLR00204,284.84,203.4
+PRD000806,Reduced 24/7 portal,Electronics,SLR00076,2420.36,1967.22
+PRD000807,Profit-focused empowering software,Groceries,SLR00549,1363.26,1011.54
+PRD000808,Multi-tiered multi-tasking hardware,Groceries,SLR00041,222.66,177.19
+PRD000809,User-centric intangible access,Agri Inputs,SLR00454,812.58,454.82
+PRD000810,Optional homogeneous success,Dairy & Poultry,SLR00181,1514.57,1137.89
+PRD000811,Reverse-engineered upward-trending policy,Handlooms,SLR00194,746.75,463.07
+PRD000812,Enterprise-wide solution-oriented structure,Apparel,SLR00589,178.54,111.74
+PRD000813,Open-source asymmetric data-warehouse,Apparel,SLR00387,567.65,434.92
+PRD000814,Programmable clear-thinking installation,Handlooms,SLR00140,213.36,168.13
+PRD000815,Reactive methodical alliance,Apparel,SLR00026,778.09,514.72
+PRD000816,Secured zero administration intranet,Apparel,SLR00314,722.98,569.0
+PRD000817,Organic logistical intranet,Health & Wellness,SLR00320,443.98,303.29
+PRD000818,Right-sized holistic Local Area Network,Apparel,SLR00447,165.56,133.66
+PRD000819,Balanced web-enabled projection,Home & Kitchen,SLR00292,494.77,275.82
+PRD000820,Expanded non-volatile open system,Dairy & Poultry,SLR00235,1147.21,659.7
+PRD000821,Open-source client-server implementation,Dairy & Poultry,SLR00456,271.2,212.32
+PRD000822,Face-to-face modular Local Area Network,Dairy & Poultry,SLR00066,696.67,513.6
+PRD000823,Reverse-engineered contextually-based synergy,Groceries,SLR00175,1875.49,1346.05
+PRD000824,Virtual leadingedge architecture,Groceries,SLR00509,2348.56,1724.3
+PRD000825,Synchronized zero tolerance artificial intelligenc,Groceries,SLR00090,355.23,294.51
+PRD000826,Centralized leadingedge task-force,Handlooms,SLR00165,1084.85,810.02
+PRD000827,Front-line heuristic capability,Electronics,SLR00437,143.99,107.16
+PRD000828,De-engineered neutral policy,Home & Kitchen,SLR00050,1645.3,1279.78
+PRD000829,Operative context-sensitive contingency,Home & Kitchen,SLR00265,1291.7,1046.26
+PRD000830,Switchable 5thgeneration installation,Apparel,SLR00520,1338.49,841.34
+PRD000831,Quality-focused solution-oriented concept,Dairy & Poultry,SLR00086,1059.3,778.61
+PRD000832,Horizontal dedicated complexity,Agri Inputs,SLR00051,304.33,220.7
+PRD000833,Focused content-based software,Groceries,SLR00178,1027.65,606.78
+PRD000834,Vision-oriented disintermediate application,Health & Wellness,SLR00277,463.58,327.33
+PRD000835,Digitized didactic pricing structure,Home & Kitchen,SLR00238,258.21,147.4
+PRD000836,Reverse-engineered discrete extranet,Home & Kitchen,SLR00584,1331.95,806.48
+PRD000837,Grass-roots homogeneous adapter,Agri Inputs,SLR00338,203.15,167.37
+PRD000838,Open-architected tertiary algorithm,Apparel,SLR00071,745.9,436.93
+PRD000839,Multi-tiered non-volatile firmware,Home & Kitchen,SLR00373,438.57,317.38
+PRD000840,Triple-buffered discrete software,Dairy & Poultry,SLR00579,393.07,254.33
+PRD000841,Adaptive impactful pricing structure,Home & Kitchen,SLR00516,322.08,230.8
+PRD000842,Monitored solution-oriented capacity,Electronics,SLR00237,754.41,468.11
+PRD000843,Ergonomic global intranet,Agri Inputs,SLR00465,606.98,414.76
+PRD000844,Public-key hybrid Graphic Interface,Health & Wellness,SLR00120,821.39,665.49
+PRD000845,Vision-oriented client-driven policy,Health & Wellness,SLR00412,852.6,565.16
+PRD000846,Integrated background challenge,Apparel,SLR00569,348.54,228.61
+PRD000847,Profit-focused global encryption,Apparel,SLR00042,220.87,151.04
+PRD000848,Polarized transitional application,Groceries,SLR00503,462.03,268.05
+PRD000849,Automated zero tolerance implementation,Electronics,SLR00196,428.09,285.2
+PRD000850,Fundamental eco-centric moderator,Apparel,SLR00071,299.09,165.12
+PRD000851,Realigned global forecast,Dairy & Poultry,SLR00090,423.21,296.68
+PRD000852,Public-key mission-critical time-frame,Electronics,SLR00548,1093.48,879.58
+PRD000853,Mandatory dynamic benchmark,Groceries,SLR00490,1183.01,846.59
+PRD000854,Customizable optimal product,Dairy & Poultry,SLR00382,645.95,473.04
+PRD000855,Versatile well-modulated website,Health & Wellness,SLR00465,460.53,257.51
+PRD000856,Programmable zero tolerance access,Agri Inputs,SLR00153,854.01,689.92
+PRD000857,Function-based composite hierarchy,Home & Kitchen,SLR00169,315.46,209.94
+PRD000858,Monitored fault-tolerant circuit,Home & Kitchen,SLR00271,721.48,607.82
+PRD000859,Progressive 24hour Graphic Interface,Handlooms,SLR00109,915.57,536.65
+PRD000860,Fully-configurable leadingedge installation,Handlooms,SLR00150,804.8,670.72
+PRD000861,Virtual exuding capacity,Handlooms,SLR00430,1020.85,755.72
+PRD000862,Multi-lateral full-range website,Home & Kitchen,SLR00450,480.76,271.97
+PRD000863,Assimilated mission-critical open architecture,Electronics,SLR00022,227.47,191.42
+PRD000864,Optimized neutral moderator,Dairy & Poultry,SLR00366,1230.96,682.15
+PRD000865,Sharable local moratorium,Handlooms,SLR00238,595.25,457.87
+PRD000866,Object-based 4thgeneration service-desk,Agri Inputs,SLR00433,419.09,342.34
+PRD000867,Enterprise-wide 6thgeneration emulation,Apparel,SLR00126,378.53,228.16
+PRD000868,Up-sized optimizing capacity,Dairy & Poultry,SLR00540,233.35,152.38
+PRD000869,Down-sized bottom-line encryption,Electronics,SLR00197,1484.72,1066.58
+PRD000870,Compatible mission-critical alliance,Home & Kitchen,SLR00481,134.88,101.69
+PRD000871,Cross-group regional structure,Agri Inputs,SLR00178,136.72,110.96
+PRD000872,Inverse next generation initiative,Health & Wellness,SLR00522,732.33,569.99
+PRD000873,Operative demand-driven parallelism,Home & Kitchen,SLR00436,358.76,236.42
+PRD000874,Vision-oriented object-oriented protocol,Electronics,SLR00313,1559.77,1242.38
+PRD000875,De-engineered needs-based workforce,Electronics,SLR00018,966.45,811.65
+PRD000876,Phased non-volatile moderator,Electronics,SLR00159,701.83,433.8
+PRD000877,Vision-oriented mission-critical complexity,Groceries,SLR00121,1065.12,609.49
+PRD000878,Programmable modular customer loyalty,Apparel,SLR00071,663.04,449.53
+PRD000879,Total asynchronous extranet,Dairy & Poultry,SLR00054,1144.89,932.42
+PRD000880,Diverse fault-tolerant open system,Handlooms,SLR00459,952.32,566.71
+PRD000881,Multi-lateral incremental conglomeration,Groceries,SLR00168,1167.58,952.44
+PRD000882,Re-engineered bifurcated leverage,Apparel,SLR00581,1233.38,1045.49
+PRD000883,Synchronized object-oriented infrastructure,Home & Kitchen,SLR00148,465.51,263.57
+PRD000884,Integrated exuding budgetary management,Handlooms,SLR00025,919.83,642.57
+PRD000885,Optimized 24/7 encoding,Health & Wellness,SLR00247,471.73,306.0
+PRD000886,Ergonomic well-modulated contingency,Groceries,SLR00226,847.54,566.24
+PRD000887,Quality-focused next generation middleware,Groceries,SLR00483,240.0,164.52
+PRD000888,Adaptive methodical ability,Dairy & Poultry,SLR00009,998.81,770.99
+PRD000889,Ameliorated fresh-thinking artificial intelligence,Agri Inputs,SLR00094,1932.2,1405.46
+PRD000890,Total 6thgeneration conglomeration,Dairy & Poultry,SLR00120,553.25,463.82
+PRD000891,Progressive mobile function,Health & Wellness,SLR00125,592.53,385.04
+PRD000892,Mandatory systemic artificial intelligence,Health & Wellness,SLR00548,348.28,248.13
+PRD000893,Distributed 3rdgeneration circuit,Groceries,SLR00068,1507.15,1196.67
+PRD000894,Synergized cohesive superstructure,Electronics,SLR00296,725.97,480.53
+PRD000895,Triple-buffered solution-oriented system engine,Home & Kitchen,SLR00500,662.44,456.81
+PRD000896,Adaptive attitude-oriented success,Health & Wellness,SLR00044,1168.37,882.69
+PRD000897,Pre-emptive high-level framework,Dairy & Poultry,SLR00381,1541.45,1245.84
+PRD000898,Multi-lateral encompassing architecture,Groceries,SLR00026,1116.25,753.14
+PRD000899,Object-based even-keeled moderator,Electronics,SLR00496,1427.27,1012.77
+PRD000900,Proactive regional challenge,Apparel,SLR00135,1365.14,1150.18
+PRD000901,Switchable tangible architecture,Apparel,SLR00048,2818.73,1586.21
+PRD000902,Centralized encompassing initiative,Dairy & Poultry,SLR00506,638.97,437.35
+PRD000903,Operative clear-thinking Local Area Network,Health & Wellness,SLR00120,340.57,252.29
+PRD000904,Intuitive solution-oriented support,Electronics,SLR00216,801.8,443.02
+PRD000905,Ameliorated zero-defect attitude,Agri Inputs,SLR00525,158.79,115.76
+PRD000906,Multi-channeled composite initiative,Dairy & Poultry,SLR00573,483.19,273.9
+PRD000907,Synergized systemic orchestration,Agri Inputs,SLR00042,809.48,653.47
+PRD000908,Organized eco-centric focus group,Apparel,SLR00095,879.75,696.87
+PRD000909,Down-sized actuating emulation,Home & Kitchen,SLR00026,583.15,326.38
+PRD000910,Up-sized hybrid approach,Groceries,SLR00241,943.49,532.73
+PRD000911,Polarized national throughput,Dairy & Poultry,SLR00486,878.21,681.56
+PRD000912,Mandatory explicit support,Health & Wellness,SLR00239,273.33,180.63
+PRD000913,Quality-focused content-based customer loyalty,Health & Wellness,SLR00303,897.98,648.8
+PRD000914,Advanced object-oriented hub,Apparel,SLR00066,531.3,335.3
+PRD000915,Profit-focused modular circuit,Apparel,SLR00280,1317.97,793.27
+PRD000916,Front-line system-worthy open architecture,Dairy & Poultry,SLR00191,482.63,308.32
+PRD000917,Extended hybrid monitoring,Dairy & Poultry,SLR00118,304.04,189.73
+PRD000918,Triple-buffered secondary access,Electronics,SLR00151,655.36,448.59
+PRD000919,Optimized actuating utilization,Agri Inputs,SLR00391,474.85,367.54
+PRD000920,Cross-group empowering groupware,Home & Kitchen,SLR00230,595.89,426.8
+PRD000921,Organized radical collaboration,Electronics,SLR00350,131.63,96.45
+PRD000922,Focused client-driven initiative,Apparel,SLR00570,942.82,651.51
+PRD000923,Pre-emptive asynchronous flexibility,Handlooms,SLR00528,862.9,558.66
+PRD000924,User-centric stable monitoring,Groceries,SLR00170,1553.52,921.32
+PRD000925,Mandatory motivating strategy,Apparel,SLR00131,900.87,591.3
+PRD000926,Cross-platform regional productivity,Dairy & Poultry,SLR00356,578.88,433.91
+PRD000927,Persevering 24hour attitude,Electronics,SLR00041,243.66,187.65
+PRD000928,Multi-lateral 6thgeneration success,Handlooms,SLR00304,1327.26,916.81
+PRD000929,Customer-focused non-volatile Internet solution,Handlooms,SLR00005,550.83,409.54
+PRD000930,Proactive real-time matrices,Apparel,SLR00328,277.44,170.12
+PRD000931,Synchronized clear-thinking algorithm,Home & Kitchen,SLR00169,708.88,572.79
+PRD000932,Secured clear-thinking hardware,Agri Inputs,SLR00337,426.88,345.68
+PRD000933,Compatible object-oriented capacity,Handlooms,SLR00068,471.93,304.91
+PRD000934,Balanced bottom-line open architecture,Health & Wellness,SLR00538,1384.75,989.15
+PRD000935,Distributed neutral success,Dairy & Poultry,SLR00506,383.71,280.88
+PRD000936,Up-sized heuristic capacity,Dairy & Poultry,SLR00485,1175.78,813.32
+PRD000937,Front-line discrete strategy,Groceries,SLR00442,940.69,774.51
+PRD000938,Distributed non-volatile knowledge user,Dairy & Poultry,SLR00050,742.71,573.31
+PRD000939,Adaptive encompassing orchestration,Electronics,SLR00148,526.29,395.64
+PRD000940,Stand-alone dedicated system engine,Electronics,SLR00586,369.11,260.6
+PRD000941,Polarized optimal Graphical User Interface,Electronics,SLR00091,1092.31,628.57
+PRD000942,Profit-focused cohesive parallelism,Health & Wellness,SLR00367,929.85,541.49
+PRD000943,Customer-focused global monitoring,Apparel,SLR00579,372.45,238.26
+PRD000944,Self-enabling holistic Graphic Interface,Electronics,SLR00075,478.64,293.62
+PRD000945,Decentralized asynchronous interface,Health & Wellness,SLR00085,1823.87,1524.32
+PRD000946,Extended real-time project,Electronics,SLR00226,821.67,552.94
+PRD000947,Organic attitude-oriented forecast,Groceries,SLR00362,365.69,297.3
+PRD000948,Right-sized composite adapter,Health & Wellness,SLR00567,1006.04,800.23
+PRD000949,Persistent full-range knowledgebase,Agri Inputs,SLR00591,771.11,612.08
+PRD000950,Innovative tangible budgetary management,Home & Kitchen,SLR00023,278.49,171.19
+PRD000951,Integrated contextually-based framework,Apparel,SLR00027,768.23,525.62
+PRD000952,Realigned maximized encoding,Apparel,SLR00120,507.48,327.52
+PRD000953,Reduced incremental complexity,Electronics,SLR00489,188.58,158.62
+PRD000954,Networked clear-thinking hardware,Groceries,SLR00344,508.07,413.07
+PRD000955,Right-sized attitude-oriented model,Handlooms,SLR00030,439.46,274.65
+PRD000956,Quality-focused disintermediate solution,Health & Wellness,SLR00226,598.78,385.65
+PRD000957,Cloned context-sensitive framework,Electronics,SLR00249,570.78,404.5
+PRD000958,Streamlined object-oriented utilization,Health & Wellness,SLR00049,805.07,510.08
+PRD000959,Phased upward-trending knowledge user,Electronics,SLR00388,694.79,554.0
+PRD000960,Front-line well-modulated project,Apparel,SLR00287,1273.34,1013.28
+PRD000961,Optional tertiary utilization,Apparel,SLR00590,566.88,434.97
+PRD000962,Persistent mission-critical concept,Electronics,SLR00474,1311.97,992.89
+PRD000963,Versatile empowering framework,Apparel,SLR00005,1439.96,1028.41
+PRD000964,Ergonomic scalable function,Groceries,SLR00411,906.9,593.23
+PRD000965,Exclusive responsive Graphical User Interface,Handlooms,SLR00323,194.65,155.93
+PRD000966,Innovative regional Local Area Network,Handlooms,SLR00398,583.82,471.52
+PRD000967,Programmable modular concept,Health & Wellness,SLR00281,224.03,126.54
+PRD000968,Robust homogeneous hierarchy,Handlooms,SLR00190,662.31,443.47
+PRD000969,Phased bifurcated Graphical User Interface,Health & Wellness,SLR00584,1383.1,771.75
+PRD000970,Open-architected web-enabled structure,Electronics,SLR00499,476.54,382.11
+PRD000971,Integrated directional model,Home & Kitchen,SLR00579,1384.43,834.99
+PRD000972,Synergistic secondary analyzer,Electronics,SLR00433,742.85,558.74
+PRD000973,Diverse reciprocal orchestration,Electronics,SLR00062,876.57,576.09
+PRD000974,Business-focused well-modulated workforce,Groceries,SLR00452,548.25,435.76
+PRD000975,Face-to-face encompassing monitoring,Handlooms,SLR00492,426.28,299.63
+PRD000976,Stand-alone 3rdgeneration project,Apparel,SLR00441,181.84,117.71
+PRD000977,Implemented clear-thinking frame,Apparel,SLR00306,379.01,245.28
+PRD000978,Phased optimal instruction set,Agri Inputs,SLR00125,913.43,591.97
+PRD000979,Business-focused responsive algorithm,Agri Inputs,SLR00264,372.42,292.94
+PRD000980,Up-sized actuating open system,Health & Wellness,SLR00006,497.1,379.45
+PRD000981,Horizontal 24/7 policy,Dairy & Poultry,SLR00412,1685.76,1088.6
+PRD000982,Cloned intangible standardization,Home & Kitchen,SLR00205,1259.81,878.17
+PRD000983,Multi-channeled mission-critical emulation,Health & Wellness,SLR00178,1003.65,574.94
+PRD000984,Polarized intangible capacity,Apparel,SLR00467,992.01,791.87
+PRD000985,Horizontal composite initiative,Handlooms,SLR00495,511.71,322.27
+PRD000986,Multi-tiered system-worthy time-frame,Health & Wellness,SLR00442,1252.45,1022.96
+PRD000987,Team-oriented client-driven capacity,Electronics,SLR00227,307.88,224.46
+PRD000988,Multi-lateral empowering policy,Apparel,SLR00145,290.89,209.54
+PRD000989,Distributed 5thgeneration definition,Home & Kitchen,SLR00569,468.27,280.41
+PRD000990,Open-source zero tolerance policy,Home & Kitchen,SLR00295,465.28,265.61
+PRD000991,Focused actuating policy,Apparel,SLR00240,843.13,603.5
+PRD000992,Virtual attitude-oriented structure,Dairy & Poultry,SLR00286,741.94,512.23
+PRD000993,Future-proofed responsive approach,Agri Inputs,SLR00025,328.79,192.64
+PRD000994,Cross-platform systematic groupware,Dairy & Poultry,SLR00451,1017.22,814.46
+PRD000995,Digitized maximized encoding,Handlooms,SLR00105,164.55,111.1
+PRD000996,Customer-focused tertiary budgetary management,Apparel,SLR00239,1559.38,979.5
+PRD000997,Versatile logistical contingency,Electronics,SLR00417,661.8,520.49
+PRD000998,Enterprise-wide hybrid function,Electronics,SLR00331,864.68,712.43
+PRD000999,Cloned empowering matrix,Groceries,SLR00041,702.14,450.63
+PRD001000,Managed intangible orchestration,Electronics,SLR00555,352.74,276.12
+PRD001001,Advanced 24/7 productivity,Apparel,SLR00034,354.78,264.58
+PRD001002,Cloned multi-state flexibility,Apparel,SLR00346,262.57,222.38
+PRD001003,De-engineered reciprocal website,Electronics,SLR00383,650.84,397.79
+PRD001004,Face-to-face didactic groupware,Agri Inputs,SLR00512,949.35,795.75
+PRD001005,Seamless multi-tasking support,Handlooms,SLR00287,731.82,471.72
+PRD001006,Future-proofed local website,Home & Kitchen,SLR00032,1578.09,1062.98
+PRD001007,Integrated cohesive complexity,Apparel,SLR00094,361.65,237.84
+PRD001008,Re-engineered national productivity,Electronics,SLR00204,444.25,280.12
+PRD001009,Fully-configurable well-modulated project,Home & Kitchen,SLR00029,989.69,750.15
+PRD001010,Virtual fresh-thinking pricing structure,Electronics,SLR00265,1456.67,1058.63
+PRD001011,Operative systemic instruction set,Apparel,SLR00022,169.31,108.65
+PRD001012,Team-oriented mission-critical toolset,Groceries,SLR00038,168.67,99.46
+PRD001013,Polarized attitude-oriented help-desk,Handlooms,SLR00172,921.97,594.87
+PRD001014,Fully-configurable radical adapter,Apparel,SLR00412,767.92,510.18
+PRD001015,Down-sized composite Internet solution,Home & Kitchen,SLR00413,447.98,297.55
+PRD001016,Visionary cohesive support,Electronics,SLR00208,416.41,273.66
+PRD001017,Innovative maximized superstructure,Groceries,SLR00021,265.98,150.18
+PRD001018,Vision-oriented disintermediate initiative,Health & Wellness,SLR00004,776.17,534.94
+PRD001019,Inverse 24/7 analyzer,Apparel,SLR00213,192.43,154.11
+PRD001020,Up-sized dedicated circuit,Handlooms,SLR00138,958.81,579.23
+PRD001021,Robust non-volatile adapter,Groceries,SLR00594,1252.29,743.48
+PRD001022,Re-engineered 5thgeneration strategy,Home & Kitchen,SLR00316,120.28,83.18
+PRD001023,Sharable analyzing Internet solution,Dairy & Poultry,SLR00575,425.76,281.5
+PRD001024,Innovative logistical installation,Electronics,SLR00155,319.48,229.51
+PRD001025,Cloned secondary function,Agri Inputs,SLR00423,213.91,178.43
+PRD001026,Innovative client-server knowledge user,Health & Wellness,SLR00499,449.14,349.55
+PRD001027,Profit-focused mobile encryption,Health & Wellness,SLR00090,975.46,737.56
+PRD001028,User-centric tertiary Graphic Interface,Handlooms,SLR00041,1400.83,945.25
+PRD001029,Intuitive empowering protocol,Dairy & Poultry,SLR00294,276.53,175.93
+PRD001030,Business-focused transitional forecast,Groceries,SLR00336,59.76,42.55
+PRD001031,Enhanced secondary encryption,Apparel,SLR00000,740.64,604.09
+PRD001032,Decentralized impactful process improvement,Apparel,SLR00108,1122.23,912.4
+PRD001033,Proactive radical circuit,Groceries,SLR00124,1079.96,738.32
+PRD001034,Up-sized tertiary synergy,Apparel,SLR00063,833.29,519.86
+PRD001035,Centralized user-facing Internet solution,Health & Wellness,SLR00205,151.78,93.74
+PRD001036,Organic high-level workforce,Health & Wellness,SLR00414,422.79,236.85
+PRD001037,Future-proofed object-oriented definition,Health & Wellness,SLR00243,535.13,429.6
+PRD001038,Secured dedicated function,Groceries,SLR00589,263.84,166.07
+PRD001039,Focused systemic orchestration,Handlooms,SLR00215,724.41,476.44
+PRD001040,Open-architected optimizing adapter,Health & Wellness,SLR00527,1191.44,944.53
+PRD001041,Grass-roots foreground data-warehouse,Apparel,SLR00565,1126.53,660.15
+PRD001042,User-centric zero-defect secured line,Dairy & Poultry,SLR00379,1582.16,1089.11
+PRD001043,Reverse-engineered contextually-based utilization,Handlooms,SLR00078,1030.88,604.82
+PRD001044,Team-oriented grid-enabled conglomeration,Dairy & Poultry,SLR00414,1184.12,808.23
+PRD001045,Profound methodical open architecture,Electronics,SLR00452,711.9,401.61
+PRD001046,Team-oriented directional groupware,Electronics,SLR00148,1503.19,1060.18
+PRD001047,Persevering dedicated encryption,Electronics,SLR00037,632.97,499.23
+PRD001048,Profound bandwidth-monitored definition,Electronics,SLR00156,1156.02,870.35
+PRD001049,Fully-configurable 3rdgeneration matrices,Apparel,SLR00332,1077.02,756.88
+PRD001050,Focused even-keeled Graphical User Interface,Groceries,SLR00287,1785.08,1425.61
+PRD001051,Fully-configurable responsive service-desk,Apparel,SLR00111,328.6,203.19
+PRD001052,Expanded actuating contingency,Home & Kitchen,SLR00090,184.61,147.55
+PRD001053,Focused interactive function,Apparel,SLR00048,613.54,388.32
+PRD001054,Cross-platform context-sensitive collaboration,Handlooms,SLR00160,371.59,244.78
+PRD001055,Implemented well-modulated leverage,Groceries,SLR00515,465.89,274.19
+PRD001056,Function-based 3rdgeneration productivity,Dairy & Poultry,SLR00401,639.08,371.0
+PRD001057,Re-contextualized national hub,Health & Wellness,SLR00319,1444.76,1198.62
+PRD001058,Ergonomic transitional knowledgebase,Agri Inputs,SLR00363,1394.39,846.39
+PRD001059,Diverse analyzing encoding,Agri Inputs,SLR00441,199.34,129.57
+PRD001060,Focused grid-enabled analyzer,Health & Wellness,SLR00474,1006.6,713.42
+PRD001061,Inverse asynchronous initiative,Groceries,SLR00311,167.28,109.46
+PRD001062,Business-focused clear-thinking encryption,Agri Inputs,SLR00531,1244.96,1009.71
+PRD001063,De-engineered fresh-thinking attitude,Groceries,SLR00588,1392.81,1142.4
+PRD001064,Assimilated mobile strategy,Handlooms,SLR00219,345.5,223.81
+PRD001065,Cross-group high-level help-desk,Handlooms,SLR00496,641.66,370.63
+PRD001066,Inverse national methodology,Apparel,SLR00342,411.96,252.55
+PRD001067,Business-focused optimizing flexibility,Agri Inputs,SLR00093,1295.48,896.88
+PRD001068,Sharable tangible application,Health & Wellness,SLR00132,1302.52,829.11
+PRD001069,Future-proofed coherent collaboration,Groceries,SLR00500,1098.6,753.69
+PRD001070,Stand-alone systemic service-desk,Dairy & Poultry,SLR00171,1576.92,1226.23
+PRD001071,Innovative global infrastructure,Handlooms,SLR00008,274.25,185.45
+PRD001072,Integrated asynchronous artificial intelligence,Apparel,SLR00320,227.83,138.77
+PRD001073,Reverse-engineered regional complexity,Agri Inputs,SLR00097,667.37,438.72
+PRD001074,Multi-layered holistic array,Agri Inputs,SLR00168,216.93,167.66
+PRD001075,De-engineered fresh-thinking emulation,Agri Inputs,SLR00310,489.83,331.72
+PRD001076,Profound 5thgeneration matrix,Dairy & Poultry,SLR00342,85.63,53.51
+PRD001077,Visionary multi-state archive,Handlooms,SLR00429,577.49,391.67
+PRD001078,Reverse-engineered background encryption,Dairy & Poultry,SLR00555,626.41,429.99
+PRD001079,Upgradable grid-enabled adapter,Handlooms,SLR00499,555.88,355.16
+PRD001080,Monitored transitional synergy,Agri Inputs,SLR00284,788.61,669.3
+PRD001081,Face-to-face upward-trending solution,Handlooms,SLR00259,461.3,359.95
+PRD001082,Integrated reciprocal extranet,Agri Inputs,SLR00494,483.48,366.35
+PRD001083,Virtual asymmetric pricing structure,Electronics,SLR00354,650.74,524.8
+PRD001084,Universal methodical budgetary management,Handlooms,SLR00213,717.38,537.98
+PRD001085,Managed system-worthy methodology,Groceries,SLR00199,1074.38,845.85
+PRD001086,Versatile foreground help-desk,Handlooms,SLR00235,182.63,123.05
+PRD001087,Proactive bottom-line infrastructure,Agri Inputs,SLR00135,1770.45,1239.51
+PRD001088,Optional discrete conglomeration,Groceries,SLR00421,397.66,224.32
+PRD001089,Profound responsive projection,Apparel,SLR00340,280.39,177.82
+PRD001090,De-engineered even-keeled installation,Groceries,SLR00341,309.25,204.23
+PRD001091,Fully-configurable 3rdgeneration toolset,Groceries,SLR00529,349.49,257.8
+PRD001092,Optional bottom-line synergy,Handlooms,SLR00387,235.79,162.52
+PRD001093,Open-source client-driven archive,Home & Kitchen,SLR00003,663.05,485.59
+PRD001094,Synchronized static monitoring,Groceries,SLR00398,1613.54,1232.74
+PRD001095,Switchable high-level structure,Groceries,SLR00421,122.81,69.12
+PRD001096,Optional disintermediate functionalities,Health & Wellness,SLR00410,599.47,376.16
+PRD001097,De-engineered 24/7 time-frame,Agri Inputs,SLR00212,1401.51,842.69
+PRD001098,Adaptive logistical Internet solution,Handlooms,SLR00559,624.66,378.69
+PRD001099,Compatible foreground analyzer,Agri Inputs,SLR00557,730.63,512.13
+PRD001100,Implemented coherent approach,Handlooms,SLR00557,898.46,693.61
+PRD001101,Intuitive real-time open architecture,Dairy & Poultry,SLR00047,836.45,528.5
+PRD001102,Switchable human-resource middleware,Apparel,SLR00186,352.62,281.16
+PRD001103,Multi-channeled static projection,Home & Kitchen,SLR00501,721.34,589.87
+PRD001104,Operative radical knowledge user,Groceries,SLR00530,1046.58,685.68
+PRD001105,Persevering asynchronous function,Health & Wellness,SLR00474,803.3,606.02
+PRD001106,Ergonomic systemic data-warehouse,Handlooms,SLR00041,1046.68,612.43
+PRD001107,Team-oriented interactive algorithm,Groceries,SLR00260,889.73,687.95
+PRD001108,Profit-focused 6thgeneration synergy,Groceries,SLR00047,264.37,158.49
+PRD001109,Virtual optimizing alliance,Electronics,SLR00585,1601.76,1211.29
+PRD001110,Customer-focused 6thgeneration artificial intellig,Dairy & Poultry,SLR00445,2211.99,1496.57
+PRD001111,Horizontal well-modulated system engine,Dairy & Poultry,SLR00220,592.38,490.81
+PRD001112,Operative upward-trending attitude,Agri Inputs,SLR00342,1244.67,858.0
+PRD001113,Business-focused upward-trending data-warehouse,Dairy & Poultry,SLR00237,943.28,527.55
+PRD001114,Right-sized coherent matrix,Dairy & Poultry,SLR00154,947.03,657.43
+PRD001115,Profound multi-tasking middleware,Dairy & Poultry,SLR00055,86.17,67.96
+PRD001116,Realigned bandwidth-monitored monitoring,Home & Kitchen,SLR00386,335.75,249.84
+PRD001117,Right-sized demand-driven alliance,Health & Wellness,SLR00314,424.11,356.21
+PRD001118,Grass-roots hybrid protocol,Handlooms,SLR00037,488.14,391.97
+PRD001119,Customizable human-resource encryption,Dairy & Poultry,SLR00340,429.22,303.87
+PRD001120,Realigned multi-state budgetary management,Apparel,SLR00230,803.74,491.85
+PRD001121,Open-source multimedia leverage,Home & Kitchen,SLR00451,1047.97,577.57
+PRD001122,Triple-buffered national superstructure,Electronics,SLR00341,723.88,611.06
+PRD001123,Multi-channeled background moderator,Agri Inputs,SLR00452,1350.85,1123.23
+PRD001124,Synergized heuristic instruction set,Apparel,SLR00256,1309.8,828.11
+PRD001125,Right-sized 6thgeneration hardware,Apparel,SLR00433,223.12,165.44
+PRD001126,Self-enabling 5thgeneration protocol,Groceries,SLR00208,953.71,733.19
+PRD001127,Reverse-engineered homogeneous groupware,Agri Inputs,SLR00200,610.62,441.72
+PRD001128,Open-architected well-modulated open architecture,Electronics,SLR00136,490.49,393.81
+PRD001129,Public-key well-modulated complexity,Handlooms,SLR00564,127.18,72.92
+PRD001130,Multi-tiered mission-critical conglomeration,Handlooms,SLR00393,331.74,271.68
+PRD001131,Progressive 5thgeneration access,Electronics,SLR00595,305.53,203.97
+PRD001132,Polarized coherent structure,Groceries,SLR00035,470.74,326.79
+PRD001133,Pre-emptive cohesive ability,Groceries,SLR00214,405.06,276.83
+PRD001134,Up-sized scalable neural-net,Apparel,SLR00026,1675.88,1188.85
+PRD001135,Customizable systematic secured line,Dairy & Poultry,SLR00017,439.35,320.48
+PRD001136,Implemented local collaboration,Agri Inputs,SLR00136,2106.49,1607.47
+PRD001137,Self-enabling content-based knowledgebase,Apparel,SLR00578,1136.78,804.25
+PRD001138,Expanded heuristic instruction set,Dairy & Poultry,SLR00029,228.89,172.91
+PRD001139,Horizontal 3rdgeneration Local Area Network,Health & Wellness,SLR00072,950.85,619.47
+PRD001140,Programmable directional superstructure,Health & Wellness,SLR00122,249.27,207.14
+PRD001141,Up-sized transitional time-frame,Handlooms,SLR00227,728.66,414.87
+PRD001142,Assimilated national definition,Electronics,SLR00337,600.46,428.53
+PRD001143,Business-focused zero administration initiative,Agri Inputs,SLR00272,188.66,108.71
+PRD001144,Robust leadingedge model,Electronics,SLR00436,443.14,302.59
+PRD001145,Virtual radical paradigm,Agri Inputs,SLR00038,1681.06,1054.49
+PRD001146,Self-enabling non-volatile hub,Home & Kitchen,SLR00425,1374.81,1142.56
+PRD001147,Customer-focused secondary extranet,Handlooms,SLR00314,372.27,206.21
+PRD001148,Monitored executive portal,Handlooms,SLR00508,368.57,245.97
+PRD001149,Reactive demand-driven installation,Home & Kitchen,SLR00156,1114.7,874.61
+PRD001150,Persistent attitude-oriented firmware,Agri Inputs,SLR00256,169.62,102.88
+PRD001151,Networked mission-critical firmware,Groceries,SLR00455,566.09,449.86
+PRD001152,Re-contextualized 5thgeneration Internet solution,Agri Inputs,SLR00046,507.41,409.95
+PRD001153,Multi-tiered multi-tasking migration,Handlooms,SLR00331,222.37,169.54
+PRD001154,Up-sized intangible knowledge user,Health & Wellness,SLR00009,1706.87,1045.83
+PRD001155,Multi-layered asymmetric open architecture,Electronics,SLR00143,797.9,503.96
+PRD001156,Mandatory well-modulated matrix,Apparel,SLR00430,799.95,480.03
+PRD001157,Cross-platform attitude-oriented interface,Electronics,SLR00151,1199.83,726.16
+PRD001158,Innovative heuristic Internet solution,Handlooms,SLR00486,733.46,411.43
+PRD001159,Balanced grid-enabled secured line,Electronics,SLR00135,530.74,428.41
+PRD001160,Robust high-level initiative,Groceries,SLR00586,324.67,230.05
+PRD001161,Expanded exuding encryption,Groceries,SLR00025,1343.62,871.11
+PRD001162,Versatile background middleware,Health & Wellness,SLR00006,800.68,509.93
+PRD001163,Business-focused responsive projection,Agri Inputs,SLR00590,899.73,641.88
+PRD001164,Organic demand-driven parallelism,Dairy & Poultry,SLR00014,330.02,213.85
+PRD001165,Digitized 3rdgeneration success,Electronics,SLR00431,1390.76,1125.29
+PRD001166,Automated client-driven hardware,Electronics,SLR00399,696.05,426.88
+PRD001167,Progressive grid-enabled interface,Handlooms,SLR00206,802.56,653.84
+PRD001168,Managed well-modulated utilization,Agri Inputs,SLR00215,478.0,358.13
+PRD001169,Extended disintermediate throughput,Agri Inputs,SLR00501,604.38,505.86
+PRD001170,Phased tertiary matrices,Electronics,SLR00458,329.06,182.47
+PRD001171,Polarized disintermediate adapter,Apparel,SLR00258,745.44,423.21
+PRD001172,Synergistic dedicated attitude,Electronics,SLR00328,1200.09,840.39
+PRD001173,Multi-tiered modular solution,Electronics,SLR00453,697.2,574.29
+PRD001174,Realigned mission-critical benchmark,Electronics,SLR00374,736.35,566.43
+PRD001175,Reverse-engineered zero tolerance complexity,Groceries,SLR00463,808.2,595.35
+PRD001176,Operative bi-directional hub,Home & Kitchen,SLR00074,813.27,455.01
+PRD001177,Horizontal neutral matrices,Agri Inputs,SLR00241,1148.39,753.63
+PRD001178,Synergistic coherent access,Home & Kitchen,SLR00016,387.15,253.1
+PRD001179,Customer-focused client-server firmware,Groceries,SLR00258,209.14,149.04
+PRD001180,Synchronized analyzing challenge,Apparel,SLR00122,667.97,419.05
+PRD001181,Multi-layered explicit Graphical User Interface,Dairy & Poultry,SLR00310,935.78,589.68
+PRD001182,Inverse 4thgeneration protocol,Handlooms,SLR00110,1339.1,985.92
+PRD001183,Centralized global frame,Health & Wellness,SLR00255,1226.75,1022.34
+PRD001184,Reverse-engineered 5thgeneration middleware,Apparel,SLR00233,254.33,190.25
+PRD001185,User-friendly uniform alliance,Agri Inputs,SLR00496,932.72,699.95
+PRD001186,Synchronized non-volatile parallelism,Handlooms,SLR00039,303.25,256.51
+PRD001187,Reactive demand-driven open system,Home & Kitchen,SLR00121,743.23,443.0
+PRD001188,Proactive impactful product,Apparel,SLR00449,246.6,138.13
+PRD001189,Persevering disintermediate model,Agri Inputs,SLR00518,1331.1,1029.81
+PRD001190,Profound mission-critical challenge,Health & Wellness,SLR00091,1317.7,898.19
+PRD001191,Integrated homogeneous attitude,Dairy & Poultry,SLR00360,916.6,622.05
+PRD001192,Object-based didactic access,Dairy & Poultry,SLR00122,397.42,245.44
+PRD001193,Exclusive zero administration forecast,Health & Wellness,SLR00336,1172.45,823.13
+PRD001194,Fully-configurable multi-tasking definition,Apparel,SLR00512,735.25,501.92
+PRD001195,Visionary static approach,Handlooms,SLR00427,653.75,427.31
+PRD001196,Assimilated 4thgeneration paradigm,Handlooms,SLR00432,314.63,214.84
+PRD001197,Configurable explicit definition,Apparel,SLR00006,1182.9,786.81
+PRD001198,Intuitive cohesive pricing structure,Groceries,SLR00119,1637.57,1362.41
+PRD001199,Integrated regional definition,Apparel,SLR00386,1158.15,977.57
+PRD001200,Ameliorated mobile solution,Home & Kitchen,SLR00349,876.17,702.66
+PRD001201,Universal even-keeled benchmark,Apparel,SLR00097,464.44,393.44
+PRD001202,Organic non-volatile open system,Apparel,SLR00042,619.28,389.97
+PRD001203,Stand-alone incremental functionalities,Groceries,SLR00182,335.32,269.22
+PRD001204,Future-proofed incremental system engine,Electronics,SLR00564,1147.9,771.38
+PRD001205,Networked coherent migration,Handlooms,SLR00234,923.41,714.57
+PRD001206,Secured modular solution,Home & Kitchen,SLR00445,267.44,163.25
+PRD001207,Ergonomic heuristic attitude,Agri Inputs,SLR00199,796.07,631.75
+PRD001208,Programmable real-time website,Handlooms,SLR00512,635.87,365.65
+PRD001209,Multi-tiered cohesive circuit,Handlooms,SLR00525,640.59,404.32
+PRD001210,Mandatory coherent knowledge user,Electronics,SLR00212,133.96,106.71
+PRD001211,Vision-oriented fresh-thinking product,Handlooms,SLR00377,748.85,579.72
+PRD001212,Open-architected analyzing ability,Handlooms,SLR00545,619.29,433.73
+PRD001213,Down-sized clear-thinking encryption,Groceries,SLR00485,556.03,418.04
+PRD001214,Automated clear-thinking definition,Groceries,SLR00360,209.05,126.62
+PRD001215,Horizontal 5thgeneration hub,Groceries,SLR00167,1178.84,884.52
+PRD001216,Multi-tiered value-added Local Area Network,Groceries,SLR00593,669.79,369.99
+PRD001217,Organized bi-directional contingency,Groceries,SLR00403,260.52,208.41
+PRD001218,Multi-lateral attitude-oriented protocol,Dairy & Poultry,SLR00136,799.1,563.27
+PRD001219,Multi-layered multi-state open system,Home & Kitchen,SLR00232,325.25,270.99
+PRD001220,User-centric 6thgeneration firmware,Agri Inputs,SLR00114,285.12,197.72
+PRD001221,Customer-focused multi-state product,Electronics,SLR00251,420.81,286.12
+PRD001222,Down-sized zero administration middleware,Apparel,SLR00492,599.56,410.71
+PRD001223,Advanced global architecture,Health & Wellness,SLR00288,417.97,274.99
+PRD001224,Open-source impactful Internet solution,Home & Kitchen,SLR00048,1549.21,929.53
+PRD001225,Balanced tertiary moratorium,Groceries,SLR00451,1566.42,1257.24
+PRD001226,Customizable contextually-based data-warehouse,Electronics,SLR00515,2248.6,1499.2
+PRD001227,Reduced clear-thinking matrix,Apparel,SLR00271,250.84,177.78
+PRD001228,Progressive neutral frame,Handlooms,SLR00430,327.68,182.18
+PRD001229,Visionary even-keeled matrix,Dairy & Poultry,SLR00025,341.18,193.82
+PRD001230,Sharable reciprocal alliance,Dairy & Poultry,SLR00069,849.95,619.75
+PRD001231,Reduced next generation implementation,Home & Kitchen,SLR00292,204.42,166.35
+PRD001232,Ergonomic intangible artificial intelligence,Handlooms,SLR00405,1019.84,711.87
+PRD001233,Inverse client-driven leverage,Electronics,SLR00233,636.78,381.74
+PRD001234,Object-based reciprocal Graphic Interface,Agri Inputs,SLR00230,1131.54,661.77
+PRD001235,Reactive executive framework,Agri Inputs,SLR00262,705.39,578.37
+PRD001236,Innovative coherent access,Dairy & Poultry,SLR00585,491.23,373.58
+PRD001237,Digitized cohesive website,Electronics,SLR00120,1238.94,1040.53
+PRD001238,Fundamental system-worthy open architecture,Health & Wellness,SLR00462,1496.29,859.92
+PRD001239,Distributed eco-centric monitoring,Health & Wellness,SLR00517,423.52,347.62
+PRD001240,Quality-focused hybrid core,Agri Inputs,SLR00023,946.67,760.83
+PRD001241,Up-sized asynchronous encryption,Health & Wellness,SLR00376,679.76,556.01
+PRD001242,Persistent disintermediate Local Area Network,Agri Inputs,SLR00499,1077.32,594.39
+PRD001243,Compatible exuding hierarchy,Handlooms,SLR00436,686.23,530.16
+PRD001244,Balanced directional archive,Health & Wellness,SLR00498,869.17,621.18
+PRD001245,Customizable national alliance,Agri Inputs,SLR00173,504.88,364.5
+PRD001246,Total coherent implementation,Agri Inputs,SLR00599,593.75,410.14
+PRD001247,Synergistic homogeneous product,Electronics,SLR00508,2364.92,1827.62
+PRD001248,Reverse-engineered bottom-line firmware,Agri Inputs,SLR00309,661.51,562.25
+PRD001249,Decentralized real-time task-force,Health & Wellness,SLR00069,173.7,132.56
+PRD001250,Fully-configurable static orchestration,Dairy & Poultry,SLR00204,210.9,158.9
+PRD001251,Open-source 24hour info-mediaries,Dairy & Poultry,SLR00340,377.41,281.67
+PRD001252,Configurable 4thgeneration firmware,Health & Wellness,SLR00031,176.9,134.19
+PRD001253,Persevering zero tolerance toolset,Home & Kitchen,SLR00042,465.89,304.06
+PRD001254,Cross-group motivating open system,Groceries,SLR00117,646.13,417.44
+PRD001255,User-friendly bottom-line benchmark,Groceries,SLR00014,635.7,499.22
+PRD001256,Reduced reciprocal capacity,Electronics,SLR00321,1228.95,695.5
+PRD001257,Upgradable foreground implementation,Groceries,SLR00336,721.79,561.39
+PRD001258,Switchable systematic policy,Handlooms,SLR00531,848.44,673.79
+PRD001259,Digitized exuding success,Home & Kitchen,SLR00590,2376.55,1678.98
+PRD001260,Pre-emptive incremental open architecture,Home & Kitchen,SLR00380,677.24,557.4
+PRD001261,Reactive static time-frame,Electronics,SLR00510,1150.86,796.31
+PRD001262,Extended explicit architecture,Health & Wellness,SLR00119,435.05,262.52
+PRD001263,Balanced directional firmware,Agri Inputs,SLR00025,863.86,568.78
+PRD001264,Configurable even-keeled array,Groceries,SLR00533,1190.04,977.93
+PRD001265,Exclusive web-enabled architecture,Handlooms,SLR00063,579.68,491.64
+PRD001266,Programmable bi-directional budgetary management,Health & Wellness,SLR00459,1778.28,1203.11
+PRD001267,Realigned scalable benchmark,Electronics,SLR00313,986.46,591.93
+PRD001268,Integrated 24/7 Graphical User Interface,Health & Wellness,SLR00589,1207.45,767.82
+PRD001269,Configurable tangible strategy,Electronics,SLR00215,930.93,666.54
+PRD001270,Focused cohesive functionalities,Agri Inputs,SLR00455,905.09,653.14
+PRD001271,Sharable bifurcated intranet,Apparel,SLR00539,314.64,232.52
+PRD001272,Reverse-engineered static ability,Dairy & Poultry,SLR00578,1554.82,1244.8
+PRD001273,Integrated fault-tolerant knowledge user,Groceries,SLR00472,1522.29,1162.06
+PRD001274,Automated motivating hierarchy,Handlooms,SLR00358,509.01,319.79
+PRD001275,Operative 24hour orchestration,Electronics,SLR00125,1222.33,817.14
+PRD001276,User-friendly even-keeled utilization,Health & Wellness,SLR00086,389.74,312.55
+PRD001277,Business-focused human-resource knowledgebase,Groceries,SLR00342,1085.69,803.43
+PRD001278,Cross-platform explicit protocol,Health & Wellness,SLR00394,710.45,426.22
+PRD001279,Profit-focused logistical moderator,Handlooms,SLR00483,450.51,291.78
+PRD001280,Extended asymmetric adapter,Home & Kitchen,SLR00455,248.93,195.99
+PRD001281,Exclusive bi-directional firmware,Home & Kitchen,SLR00475,990.34,595.82
+PRD001282,Multi-channeled well-modulated info-mediaries,Dairy & Poultry,SLR00209,1399.03,1059.51
+PRD001283,Future-proofed foreground leverage,Dairy & Poultry,SLR00524,236.05,169.73
+PRD001284,De-engineered well-modulated collaboration,Handlooms,SLR00575,654.2,388.75
+PRD001285,Persevering fresh-thinking protocol,Dairy & Poultry,SLR00306,631.09,477.52
+PRD001286,Phased radical flexibility,Home & Kitchen,SLR00075,152.74,90.53
+PRD001287,Business-focused logistical success,Electronics,SLR00021,437.31,292.79
+PRD001288,Future-proofed 4thgeneration definition,Groceries,SLR00059,1182.12,759.59
+PRD001289,Extended local firmware,Handlooms,SLR00385,249.88,189.16
+PRD001290,Fundamental regional product,Electronics,SLR00055,1270.61,997.06
+PRD001291,Reduced reciprocal moderator,Groceries,SLR00167,1087.23,652.88
+PRD001292,Organized 24hour portal,Groceries,SLR00411,754.1,598.45
+PRD001293,Focused dynamic portal,Electronics,SLR00190,190.03,104.93
+PRD001294,Customer-focused tertiary emulation,Groceries,SLR00481,420.85,298.39
+PRD001295,Object-based value-added pricing structure,Apparel,SLR00566,1296.4,914.01
+PRD001296,Horizontal background contingency,Handlooms,SLR00415,255.35,188.23
+PRD001297,Self-enabling impactful framework,Handlooms,SLR00339,203.28,126.42
+PRD001298,Compatible 24hour info-mediaries,Groceries,SLR00258,1097.89,607.09
+PRD001299,Ameliorated directional concept,Electronics,SLR00349,230.7,158.36
+PRD001300,Optimized well-modulated workforce,Agri Inputs,SLR00436,295.13,168.64
+PRD001301,Organized grid-enabled emulation,Dairy & Poultry,SLR00221,1071.44,876.07
+PRD001302,Cloned tangible project,Home & Kitchen,SLR00412,261.02,157.16
+PRD001303,Realigned 6thgeneration hardware,Groceries,SLR00349,328.57,222.63
+PRD001304,Pre-emptive hybrid encoding,Agri Inputs,SLR00481,1228.22,835.44
+PRD001305,Cross-group systemic alliance,Groceries,SLR00058,287.45,205.77
+PRD001306,Configurable 4thgeneration monitoring,Agri Inputs,SLR00151,349.89,274.58
+PRD001307,Robust impactful project,Groceries,SLR00539,1648.02,1139.84
+PRD001308,Managed explicit installation,Electronics,SLR00224,1300.45,725.29
+PRD001309,Cross-platform composite Graphic Interface,Home & Kitchen,SLR00317,329.57,257.5
+PRD001310,Face-to-face hybrid alliance,Health & Wellness,SLR00562,295.75,169.95
+PRD001311,Networked executive adapter,Health & Wellness,SLR00278,506.54,376.09
+PRD001312,Centralized even-keeled intranet,Agri Inputs,SLR00557,769.29,608.53
+PRD001313,Implemented multi-state initiative,Dairy & Poultry,SLR00473,957.24,607.66
+PRD001314,Persistent radical framework,Dairy & Poultry,SLR00023,639.87,438.14
+PRD001315,Realigned homogeneous time-frame,Apparel,SLR00518,480.96,266.6
+PRD001316,Sharable scalable paradigm,Electronics,SLR00367,1283.69,1015.61
+PRD001317,Programmable optimizing flexibility,Home & Kitchen,SLR00334,647.9,493.04
+PRD001318,Profound eco-centric model,Groceries,SLR00432,716.18,443.61
+PRD001319,Cloned maximized access,Agri Inputs,SLR00002,400.69,267.29
+PRD001320,Streamlined dynamic initiative,Dairy & Poultry,SLR00257,1511.66,1146.74
+PRD001321,Customer-focused 4thgeneration application,Home & Kitchen,SLR00262,503.09,330.76
+PRD001322,Persevering maximized ability,Handlooms,SLR00120,330.77,198.04
+PRD001323,Versatile asynchronous intranet,Dairy & Poultry,SLR00020,261.45,184.47
+PRD001324,Pre-emptive well-modulated definition,Electronics,SLR00139,295.27,226.49
+PRD001325,Streamlined mission-critical functionalities,Agri Inputs,SLR00476,737.28,476.46
+PRD001326,Re-engineered fault-tolerant policy,Electronics,SLR00288,867.18,508.63
+PRD001327,Exclusive dedicated alliance,Agri Inputs,SLR00205,1700.33,1358.33
+PRD001328,Organic multi-tasking benchmark,Health & Wellness,SLR00042,727.74,455.45
+PRD001329,Customizable asynchronous intranet,Handlooms,SLR00117,409.25,288.05
+PRD001330,Customer-focused object-oriented strategy,Apparel,SLR00004,1961.63,1485.74
+PRD001331,Virtual interactive application,Handlooms,SLR00206,1482.71,956.53
+PRD001332,Automated even-keeled pricing structure,Groceries,SLR00344,328.04,244.26
+PRD001333,Assimilated composite array,Electronics,SLR00141,197.54,135.89
+PRD001334,Future-proofed executive frame,Apparel,SLR00371,466.6,336.48
+PRD001335,Cross-group heuristic groupware,Electronics,SLR00231,98.82,71.86
+PRD001336,Reverse-engineered interactive knowledge user,Home & Kitchen,SLR00163,210.94,168.17
+PRD001337,Grass-roots discrete emulation,Agri Inputs,SLR00546,1378.76,1029.79
+PRD001338,Focused static protocol,Groceries,SLR00363,835.93,526.04
+PRD001339,Programmable exuding protocol,Groceries,SLR00334,602.48,342.14
+PRD001340,Re-contextualized upward-trending installation,Electronics,SLR00010,736.21,405.35
+PRD001341,Total global hub,Health & Wellness,SLR00407,329.98,271.02
+PRD001342,Diverse discrete open system,Groceries,SLR00074,837.43,697.27
+PRD001343,Customer-focused mission-critical time-frame,Dairy & Poultry,SLR00299,1955.12,1130.52
+PRD001344,Synergized 4thgeneration data-warehouse,Electronics,SLR00380,941.26,655.23
+PRD001345,Upgradable discrete hierarchy,Agri Inputs,SLR00585,219.87,130.93
+PRD001346,Fully-configurable 24hour system engine,Agri Inputs,SLR00027,519.19,433.33
+PRD001347,Centralized fault-tolerant process improvement,Electronics,SLR00462,1142.82,713.18
+PRD001348,Team-oriented optimal paradigm,Handlooms,SLR00395,344.09,241.03
+PRD001349,Enterprise-wide human-resource product,Handlooms,SLR00375,616.18,369.51
+PRD001350,Open-architected grid-enabled data-warehouse,Agri Inputs,SLR00420,370.88,241.01
+PRD001351,Up-sized human-resource structure,Apparel,SLR00363,1462.04,921.15
+PRD001352,Customizable user-facing pricing structure,Dairy & Poultry,SLR00215,825.43,571.72
+PRD001353,Polarized secondary knowledgebase,Handlooms,SLR00100,458.24,309.74
+PRD001354,Front-line bi-directional knowledgebase,Electronics,SLR00092,798.07,518.14
+PRD001355,Extended non-volatile framework,Agri Inputs,SLR00574,729.85,424.6
+PRD001356,Virtual interactive solution,Groceries,SLR00265,80.71,56.12
+PRD001357,Distributed encompassing middleware,Groceries,SLR00205,365.9,294.57
+PRD001358,Proactive transitional success,Health & Wellness,SLR00079,1119.68,861.11
+PRD001359,Distributed dedicated utilization,Dairy & Poultry,SLR00036,914.05,700.32
+PRD001360,User-friendly next generation hardware,Handlooms,SLR00010,482.13,318.12
+PRD001361,Progressive homogeneous groupware,Apparel,SLR00089,918.23,700.17
+PRD001362,Switchable dynamic process improvement,Home & Kitchen,SLR00018,1478.05,1019.35
+PRD001363,Distributed mission-critical protocol,Handlooms,SLR00563,508.41,302.55
+PRD001364,Networked neutral knowledgebase,Apparel,SLR00373,511.43,345.58
+PRD001365,Switchable background firmware,Handlooms,SLR00093,889.88,524.87
+PRD001366,Total attitude-oriented encoding,Groceries,SLR00031,771.32,450.72
+PRD001367,Grass-roots object-oriented customer loyalty,Apparel,SLR00139,1755.08,977.44
+PRD001368,Decentralized well-modulated matrices,Groceries,SLR00569,1446.38,918.24
+PRD001369,Robust human-resource intranet,Dairy & Poultry,SLR00020,283.62,184.14
+PRD001370,Automated intermediate ability,Health & Wellness,SLR00148,661.72,502.8
+PRD001371,Multi-lateral high-level open architecture,Electronics,SLR00220,271.4,193.07
+PRD001372,Stand-alone bandwidth-monitored matrices,Electronics,SLR00218,480.04,387.65
+PRD001373,Focused foreground Local Area Network,Agri Inputs,SLR00540,1136.77,685.41
+PRD001374,Robust clear-thinking capability,Groceries,SLR00558,263.77,166.12
+PRD001375,Universal bottom-line info-mediaries,Groceries,SLR00057,1829.44,1522.68
+PRD001376,Devolved global algorithm,Health & Wellness,SLR00424,1218.27,832.34
+PRD001377,Object-based tangible workforce,Agri Inputs,SLR00274,580.34,456.56
+PRD001378,Reverse-engineered next generation pricing structu,Dairy & Poultry,SLR00139,359.52,250.82
+PRD001379,Ergonomic holistic system engine,Electronics,SLR00022,1353.74,935.88
+PRD001380,Fundamental hybrid framework,Electronics,SLR00377,489.46,290.95
+PRD001381,Open-architected demand-driven parallelism,Apparel,SLR00372,640.86,516.12
+PRD001382,Public-key system-worthy policy,Apparel,SLR00062,689.07,395.19
+PRD001383,Organized 24/7 benchmark,Home & Kitchen,SLR00563,569.78,366.41
+PRD001384,Implemented stable product,Health & Wellness,SLR00341,567.92,427.1
+PRD001385,Stand-alone fresh-thinking hierarchy,Electronics,SLR00166,741.12,520.4
+PRD001386,Pre-emptive 24hour emulation,Home & Kitchen,SLR00150,501.17,408.16
+PRD001387,Right-sized transitional encoding,Handlooms,SLR00522,267.99,150.55
+PRD001388,Function-based stable capacity,Groceries,SLR00583,343.67,255.97
+PRD001389,Phased tangible attitude,Apparel,SLR00500,1760.42,1220.39
+PRD001390,Up-sized needs-based infrastructure,Handlooms,SLR00559,439.8,262.25
+PRD001391,Object-based value-added paradigm,Apparel,SLR00347,431.1,333.23
+PRD001392,Distributed high-level Graphic Interface,Agri Inputs,SLR00271,1501.81,1011.31
+PRD001393,De-engineered real-time projection,Groceries,SLR00429,217.45,154.28
+PRD001394,Centralized full-range algorithm,Home & Kitchen,SLR00232,1158.01,972.94
+PRD001395,Secured context-sensitive info-mediaries,Dairy & Poultry,SLR00559,364.57,253.69
+PRD001396,Business-focused 24hour application,Home & Kitchen,SLR00207,252.89,201.56
+PRD001397,Synchronized attitude-oriented toolset,Dairy & Poultry,SLR00452,1606.03,1254.11
+PRD001398,Customizable static throughput,Dairy & Poultry,SLR00500,715.95,536.12
+PRD001399,User-friendly analyzing artificial intelligence,Apparel,SLR00588,295.67,242.17
+PRD001400,Inverse interactive archive,Electronics,SLR00218,1941.14,1214.15
+PRD001401,Operative asynchronous paradigm,Health & Wellness,SLR00080,261.07,207.87
+PRD001402,Persevering content-based open architecture,Home & Kitchen,SLR00548,728.8,483.44
+PRD001403,Fundamental zero tolerance extranet,Agri Inputs,SLR00540,300.66,238.65
+PRD001404,Visionary value-added process improvement,Agri Inputs,SLR00250,1108.07,773.58
+PRD001405,Self-enabling multimedia artificial intelligence,Electronics,SLR00414,1043.67,842.57
+PRD001406,Devolved background emulation,Agri Inputs,SLR00085,670.81,549.03
+PRD001407,Adaptive actuating service-desk,Health & Wellness,SLR00216,1205.15,878.91
+PRD001408,User-centric next generation migration,Groceries,SLR00195,188.14,132.13
+PRD001409,Devolved solution-oriented task-force,Apparel,SLR00296,784.17,615.56
+PRD001410,Ergonomic multi-tasking framework,Agri Inputs,SLR00043,941.59,593.29
+PRD001411,Synchronized homogeneous orchestration,Groceries,SLR00392,273.72,151.81
+PRD001412,Secured actuating task-force,Electronics,SLR00442,858.85,577.26
+PRD001413,Synergized systemic strategy,Apparel,SLR00089,681.9,478.92
+PRD001414,Realigned impactful matrices,Electronics,SLR00154,1341.26,857.3
+PRD001415,De-engineered dedicated service-desk,Apparel,SLR00477,741.42,493.05
+PRD001416,Extended asynchronous approach,Health & Wellness,SLR00058,619.55,365.48
+PRD001417,Fundamental static firmware,Agri Inputs,SLR00109,276.53,175.1
+PRD001418,Progressive bottom-line methodology,Agri Inputs,SLR00478,747.35,464.87
+PRD001419,Synergistic maximized product,Apparel,SLR00593,1075.25,688.48
+PRD001420,Fully-configurable responsive installation,Groceries,SLR00048,1872.9,1198.12
+PRD001421,Multi-lateral foreground success,Groceries,SLR00376,741.84,532.41
+PRD001422,Operative asymmetric portal,Groceries,SLR00031,1514.86,947.06
+PRD001423,Devolved clear-thinking archive,Handlooms,SLR00485,645.8,537.49
+PRD001424,Visionary multi-tasking neural-net,Home & Kitchen,SLR00530,237.9,167.33
+PRD001425,Devolved client-driven adapter,Home & Kitchen,SLR00002,3199.31,1883.4
+PRD001426,Open-source didactic system engine,Home & Kitchen,SLR00377,978.99,620.56
+PRD001427,Configurable multi-tasking superstructure,Groceries,SLR00571,202.27,155.53
+PRD001428,Object-based executive capability,Agri Inputs,SLR00241,1118.97,620.02
+PRD001429,Polarized human-resource architecture,Health & Wellness,SLR00540,469.17,390.04
+PRD001430,Sharable responsive product,Handlooms,SLR00586,439.29,300.28
+PRD001431,Universal directional algorithm,Dairy & Poultry,SLR00581,1527.25,1078.73
+PRD001432,Distributed content-based installation,Dairy & Poultry,SLR00594,332.16,281.18
+PRD001433,Fundamental well-modulated budgetary management,Groceries,SLR00356,160.1,112.23
+PRD001434,Team-oriented responsive Internet solution,Agri Inputs,SLR00196,344.15,287.13
+PRD001435,Robust disintermediate interface,Handlooms,SLR00418,1028.54,848.1
+PRD001436,Profit-focused content-based functionalities,Agri Inputs,SLR00272,847.94,705.82
+PRD001437,Self-enabling reciprocal parallelism,Apparel,SLR00501,982.59,779.89
+PRD001438,Cloned incremental Local Area Network,Agri Inputs,SLR00034,1287.9,822.86
+PRD001439,Optional even-keeled access,Handlooms,SLR00460,785.82,513.86
+PRD001440,Fully-configurable client-server definition,Groceries,SLR00252,294.07,193.94
+PRD001441,Re-engineered static architecture,Home & Kitchen,SLR00511,433.34,365.63
+PRD001442,Universal object-oriented superstructure,Handlooms,SLR00047,1319.97,868.84
+PRD001443,Focused stable conglomeration,Groceries,SLR00184,65.56,38.2
+PRD001444,Mandatory client-driven toolset,Groceries,SLR00490,1014.5,794.86
+PRD001445,Public-key coherent productivity,Health & Wellness,SLR00272,336.03,221.72
+PRD001446,Open-architected logistical benchmark,Electronics,SLR00526,1824.45,1343.31
+PRD001447,Enhanced homogeneous portal,Dairy & Poultry,SLR00127,204.87,169.49
+PRD001448,Front-line maximized paradigm,Health & Wellness,SLR00209,500.42,361.63
+PRD001449,Fundamental real-time process improvement,Apparel,SLR00141,1488.64,1103.54
+PRD001450,Re-contextualized fresh-thinking concept,Electronics,SLR00172,1127.68,837.71
+PRD001451,Enterprise-wide foreground contingency,Home & Kitchen,SLR00446,389.44,285.74
+PRD001452,Seamless intangible task-force,Handlooms,SLR00118,566.17,338.53
+PRD001453,Function-based empowering framework,Electronics,SLR00010,1765.68,1212.89
+PRD001454,Synergized multi-state focus group,Home & Kitchen,SLR00303,325.64,179.85
+PRD001455,Virtual dynamic website,Groceries,SLR00153,1136.29,838.45
+PRD001456,User-friendly responsive interface,Handlooms,SLR00322,257.35,185.96
+PRD001457,Visionary tertiary superstructure,Electronics,SLR00536,444.65,287.0
+PRD001458,Quality-focused intermediate middleware,Agri Inputs,SLR00444,730.1,516.3
+PRD001459,Customizable bifurcated archive,Home & Kitchen,SLR00341,639.51,446.33
+PRD001460,Integrated zero tolerance definition,Home & Kitchen,SLR00220,879.32,549.82
+PRD001461,Face-to-face 6thgeneration interface,Apparel,SLR00109,514.74,328.4
+PRD001462,Function-based 4thgeneration portal,Dairy & Poultry,SLR00409,544.85,424.31
+PRD001463,Triple-buffered multi-state algorithm,Agri Inputs,SLR00417,631.49,490.49
+PRD001464,Inverse next generation methodology,Handlooms,SLR00504,568.58,392.85
+PRD001465,Polarized attitude-oriented groupware,Electronics,SLR00039,1737.0,1329.24
+PRD001466,Intuitive tangible hardware,Groceries,SLR00508,470.56,322.45
+PRD001467,Right-sized systematic protocol,Electronics,SLR00458,634.87,511.33
+PRD001468,Team-oriented analyzing throughput,Dairy & Poultry,SLR00262,2647.9,1720.72
+PRD001469,Sharable human-resource standardization,Health & Wellness,SLR00117,862.5,714.31
+PRD001470,Down-sized zero-defect matrices,Dairy & Poultry,SLR00449,122.92,87.6
+PRD001471,Progressive mission-critical pricing structure,Handlooms,SLR00413,682.88,485.33
+PRD001472,Business-focused composite help-desk,Handlooms,SLR00525,1076.47,808.69
+PRD001473,Re-engineered bandwidth-monitored solution,Handlooms,SLR00460,849.15,553.86
+PRD001474,Distributed 3rdgeneration structure,Handlooms,SLR00117,1130.11,867.13
+PRD001475,Upgradable encompassing info-mediaries,Health & Wellness,SLR00216,1968.64,1271.99
+PRD001476,Front-line maximized concept,Home & Kitchen,SLR00076,714.29,478.05
+PRD001477,Customizable incremental conglomeration,Electronics,SLR00420,296.85,223.35
+PRD001478,Up-sized hybrid infrastructure,Agri Inputs,SLR00171,336.68,223.4
+PRD001479,Up-sized 3rdgeneration data-warehouse,Groceries,SLR00389,558.53,340.7
+PRD001480,Digitized content-based Graphic Interface,Groceries,SLR00025,1941.93,1576.01
+PRD001481,Profound exuding archive,Apparel,SLR00127,425.01,351.33
+PRD001482,Public-key 24hour conglomeration,Home & Kitchen,SLR00373,718.31,530.13
+PRD001483,Secured foreground hardware,Handlooms,SLR00023,1170.03,928.24
+PRD001484,Switchable regional parallelism,Dairy & Poultry,SLR00469,272.69,230.69
+PRD001485,Re-contextualized mobile Local Area Network,Handlooms,SLR00422,2035.76,1495.13
+PRD001486,Visionary discrete success,Handlooms,SLR00176,1242.85,1022.42
+PRD001487,Persevering object-oriented customer loyalty,Dairy & Poultry,SLR00537,1565.7,1029.88
+PRD001488,Robust heuristic matrix,Home & Kitchen,SLR00265,336.59,255.86
+PRD001489,Reduced foreground task-force,Agri Inputs,SLR00569,675.68,382.94
+PRD001490,Monitored asymmetric open system,Handlooms,SLR00269,1006.9,792.12
+PRD001491,Stand-alone client-server extranet,Apparel,SLR00328,547.17,437.16
+PRD001492,Up-sized local flexibility,Apparel,SLR00454,133.43,89.45
+PRD001493,Synergized attitude-oriented archive,Agri Inputs,SLR00294,929.21,689.18
+PRD001494,Cloned mission-critical service-desk,Home & Kitchen,SLR00121,293.46,236.97
+PRD001495,Extended hybrid knowledgebase,Handlooms,SLR00158,928.28,756.62
+PRD001496,Advanced didactic strategy,Health & Wellness,SLR00177,344.2,200.31
+PRD001497,Progressive interactive circuit,Electronics,SLR00327,756.93,604.22
+PRD001498,Multi-channeled hybrid projection,Electronics,SLR00306,720.76,455.72
+PRD001499,Persistent intermediate benchmark,Groceries,SLR00088,241.23,185.31

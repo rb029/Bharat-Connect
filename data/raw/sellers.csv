@@ -1,0 +1,601 @@
+seller_id,seller_name,state,category_focus,rating,joined_at
+SLR00000,"Bhatia, Agate and Bhardwaj",West Bengal,Health & Wellness,4.81,2025-01-17
+SLR00001,"Bains, Gour and Om",Jharkhand,Apparel,3.95,2025-08-02
+SLR00002,Chaudhary-Puri,Kerala,Agri Inputs,4.23,2024-02-02
+SLR00003,Gour LLC,Odisha,Apparel,4.0,2024-11-30
+SLR00004,Mand-Tailor,Karnataka,Apparel,3.86,2025-05-18
+SLR00005,Varkey Ltd,Madhya Pradesh,Health & Wellness,3.59,2025-08-11
+SLR00006,Pandya-More,Jharkhand,Health & Wellness,4.4,2025-10-11
+SLR00007,Sengupta PLC,Assam,Groceries,4.46,2024-03-18
+SLR00008,"Dhar, Karan and Acharya",Tamil Nadu,Handlooms,3.68,2024-04-04
+SLR00009,Padmanabhan-Kalla,Jharkhand,Agri Inputs,4.58,2024-04-25
+SLR00010,Kaur Inc,Uttar Pradesh,Agri Inputs,4.7,2024-06-11
+SLR00011,Sidhu-Shroff,Tamil Nadu,Agri Inputs,4.81,2024-03-30
+SLR00012,"Borra, Mane and Narula",Rajasthan,Apparel,3.48,2025-04-24
+SLR00013,Mann-Sastry,Jharkhand,Dairy & Poultry,3.73,2025-10-27
+SLR00014,"Mani, Konda and Sawhney",Punjab,Health & Wellness,4.71,2024-03-15
+SLR00015,Dani PLC,Maharashtra,Electronics,3.55,2024-10-10
+SLR00016,Pandit-Hayre,Gujarat,Dairy & Poultry,3.21,2025-04-07
+SLR00017,"Chawla, Buch and Seth",Assam,Handlooms,4.72,2025-10-28
+SLR00018,Sangha-Salvi,Maharashtra,Home & Kitchen,3.77,2024-03-15
+SLR00019,"Sangha, Oak and Bhardwaj",Telangana,Agri Inputs,3.93,2025-10-25
+SLR00020,Goel-Sinha,Jharkhand,Electronics,3.98,2024-12-13
+SLR00021,"Sahota, Bhavsar and Dass",Madhya Pradesh,Electronics,4.68,2025-06-24
+SLR00022,Dutta PLC,Jharkhand,Health & Wellness,3.79,2024-01-22
+SLR00023,Nagi Group,Assam,Electronics,4.76,2025-08-11
+SLR00024,"Bhakta, Ray and Borah",Maharashtra,Handlooms,4.28,2024-01-07
+SLR00025,"Bhasin, Dugal and Deo",Bihar,Electronics,4.12,2025-02-03
+SLR00026,Biswas Ltd,Gujarat,Home & Kitchen,3.77,2024-01-09
+SLR00027,Raman Group,Punjab,Agri Inputs,3.63,2024-11-26
+SLR00028,"Sathe, Bajwa and Raju",Rajasthan,Home & Kitchen,4.29,2024-06-03
+SLR00029,"Sridhar, Sane and Jayaraman",Uttar Pradesh,Agri Inputs,3.98,2024-08-16
+SLR00030,Korpal-Deshmukh,Telangana,Groceries,4.79,2025-11-21
+SLR00031,Issac Ltd,West Bengal,Apparel,4.06,2025-06-29
+SLR00032,Dasgupta-Zacharia,Tamil Nadu,Electronics,4.1,2025-10-31
+SLR00033,Dugal-Bora,Jharkhand,Home & Kitchen,3.93,2025-08-11
+SLR00034,Radhakrishnan Ltd,Punjab,Apparel,4.58,2025-08-13
+SLR00035,"Mane, Vala and Pillai",Bihar,Apparel,3.94,2024-07-12
+SLR00036,Kannan-Tank,Uttar Pradesh,Apparel,3.67,2024-07-30
+SLR00037,Chacko LLC,Bihar,Apparel,4.71,2024-07-04
+SLR00038,Muni and Sons,Assam,Apparel,4.24,2024-01-27
+SLR00039,Baria Inc,Madhya Pradesh,Agri Inputs,4.24,2025-09-08
+SLR00040,"Konda, Setty and Nayar",Maharashtra,Handlooms,4.27,2024-05-10
+SLR00041,Yogi PLC,Uttar Pradesh,Electronics,4.46,2024-12-22
+SLR00042,"Dixit, Kohli and Bora",Karnataka,Electronics,3.75,2024-12-01
+SLR00043,Dhar LLC,Assam,Agri Inputs,3.26,2024-08-23
+SLR00044,Padmanabhan-Thakkar,Karnataka,Home & Kitchen,4.62,2024-08-01
+SLR00045,Rai-Joshi,Tamil Nadu,Agri Inputs,3.43,2024-11-06
+SLR00046,Srinivas PLC,Maharashtra,Health & Wellness,4.46,2025-03-10
+SLR00047,"Kuruvilla, Chauhan and Swaminathan",Jharkhand,Dairy & Poultry,3.34,2024-08-26
+SLR00048,"Jaggi, Taneja and Sachar",Uttar Pradesh,Apparel,3.86,2024-12-29
+SLR00049,Bora-Om,Assam,Handlooms,3.31,2024-05-20
+SLR00050,Viswanathan and Sons,Tamil Nadu,Electronics,4.11,2024-05-06
+SLR00051,Chandra Inc,Odisha,Home & Kitchen,4.34,2024-01-27
+SLR00052,Balasubramanian-Rama,West Bengal,Groceries,3.5,2024-08-01
+SLR00053,Gade-Sangha,Madhya Pradesh,Agri Inputs,3.85,2024-02-20
+SLR00054,Master-Gour,Tamil Nadu,Groceries,4.83,2025-03-25
+SLR00055,Saxena-Kannan,Punjab,Electronics,3.97,2024-07-22
+SLR00056,Bhatt-Dhawan,Odisha,Agri Inputs,4.6,2025-01-24
+SLR00057,Goswami-Mammen,Kerala,Electronics,4.82,2024-05-07
+SLR00058,Pai-Kannan,Kerala,Agri Inputs,4.91,2024-06-28
+SLR00059,Suresh LLC,Maharashtra,Home & Kitchen,4.77,2025-08-15
+SLR00060,"Ramanathan, Murthy and Raju",West Bengal,Electronics,3.76,2024-05-04
+SLR00061,"Singh, Roy and Lad",Assam,Health & Wellness,4.88,2024-08-02
+SLR00062,"Sastry, Vaidya and Memon",Kerala,Groceries,4.62,2025-05-15
+SLR00063,"Sandhu, Dutta and Gala",Madhya Pradesh,Handlooms,4.67,2025-01-01
+SLR00064,Mani-Pillai,Gujarat,Home & Kitchen,3.23,2025-03-01
+SLR00065,Bains LLC,Bihar,Health & Wellness,4.87,2024-08-03
+SLR00066,Devi-Murty,Gujarat,Home & Kitchen,4.56,2025-06-03
+SLR00067,Sachdev PLC,Assam,Agri Inputs,4.54,2025-05-04
+SLR00068,Sahota LLC,Maharashtra,Groceries,3.34,2025-06-04
+SLR00069,Walla-Nath,Bihar,Electronics,3.61,2025-04-12
+SLR00070,Dhar Ltd,Jharkhand,Groceries,4.88,2024-01-08
+SLR00071,Sama and Sons,Tamil Nadu,Home & Kitchen,4.08,2025-03-06
+SLR00072,Sahni-Tailor,Punjab,Agri Inputs,3.9,2024-04-12
+SLR00073,Kashyap Ltd,Kerala,Dairy & Poultry,4.67,2025-01-04
+SLR00074,Bains-Sastry,Jharkhand,Groceries,3.35,2024-03-07
+SLR00075,"Kale, Kurian and Luthra",Odisha,Health & Wellness,3.93,2025-10-29
+SLR00076,Bora and Sons,Odisha,Electronics,3.86,2024-08-22
+SLR00077,"Choudhary, Mitra and Sarkar",Gujarat,Apparel,3.81,2025-10-28
+SLR00078,"Prabhu, Agrawal and Grewal",Uttar Pradesh,Home & Kitchen,3.74,2025-02-03
+SLR00079,Hayre LLC,West Bengal,Handlooms,3.57,2024-01-17
+SLR00080,Shenoy-Ahuja,Uttar Pradesh,Handlooms,3.5,2025-10-24
+SLR00081,Pai-Tailor,Uttar Pradesh,Home & Kitchen,4.32,2024-02-16
+SLR00082,"Sheth, Devan and Prakash",Kerala,Dairy & Poultry,4.81,2024-09-11
+SLR00083,Venkatesh LLC,Tamil Nadu,Apparel,4.09,2025-08-01
+SLR00084,"Ben, Shanker and Bajwa",Rajasthan,Agri Inputs,3.72,2024-05-11
+SLR00085,Karpe Ltd,Telangana,Groceries,3.48,2024-06-08
+SLR00086,"Wagle, Desai and Chander",Uttar Pradesh,Groceries,4.65,2025-12-12
+SLR00087,Sethi-Dhawan,Punjab,Apparel,4.9,2024-02-09
+SLR00088,Hans Group,Rajasthan,Health & Wellness,3.81,2025-09-02
+SLR00089,"Dugal, Bhalla and Madan",Tamil Nadu,Apparel,3.71,2025-11-07
+SLR00090,Bhatt-Rana,West Bengal,Electronics,4.25,2025-01-15
+SLR00091,Ratta-Saxena,Odisha,Electronics,4.56,2025-02-28
+SLR00092,Rana and Sons,Tamil Nadu,Handlooms,4.0,2025-03-05
+SLR00093,Kanda-Dey,Gujarat,Agri Inputs,4.3,2024-06-27
+SLR00094,"Sandhu, Iyer and Agrawal",Madhya Pradesh,Dairy & Poultry,4.45,2024-06-04
+SLR00095,Bhavsar and Sons,Punjab,Agri Inputs,4.88,2025-01-08
+SLR00096,Bala Inc,Jharkhand,Health & Wellness,3.49,2024-06-15
+SLR00097,"Vasa, Master and Thakur",Kerala,Apparel,4.95,2025-05-24
+SLR00098,Date-Rama,Maharashtra,Handlooms,3.89,2024-11-09
+SLR00099,Jani-Jayaraman,Rajasthan,Handlooms,4.47,2025-10-02
+SLR00100,Sampath Group,Bihar,Electronics,4.2,2024-09-28
+SLR00101,"Raj, Bajaj and Upadhyay",Telangana,Groceries,4.05,2024-11-24
+SLR00102,Zachariah PLC,Maharashtra,Health & Wellness,4.42,2024-01-27
+SLR00103,Tara-Chada,Kerala,Agri Inputs,3.89,2024-01-30
+SLR00104,"Jhaveri, Raj and Anand",Jharkhand,Health & Wellness,3.42,2024-02-05
+SLR00105,Kulkarni-Mangal,Assam,Handlooms,4.06,2025-02-21
+SLR00106,Deol-Bajwa,Uttar Pradesh,Electronics,4.11,2025-07-06
+SLR00107,"Prabhakar, Saini and Mammen",West Bengal,Electronics,3.55,2025-09-04
+SLR00108,"Ben, Comar and Guha",Gujarat,Electronics,4.84,2024-06-22
+SLR00109,Lal PLC,Bihar,Health & Wellness,3.6,2024-04-12
+SLR00110,Chander-Kale,Tamil Nadu,Groceries,3.92,2024-12-23
+SLR00111,Bedi-Acharya,Jharkhand,Handlooms,3.47,2024-04-04
+SLR00112,Chokshi LLC,Odisha,Apparel,4.14,2024-03-08
+SLR00113,Raman-Choudhary,Tamil Nadu,Apparel,3.74,2025-05-02
+SLR00114,Pai-Wali,Tamil Nadu,Electronics,4.06,2025-03-01
+SLR00115,"Bhasin, Zachariah and Bava",Punjab,Electronics,3.59,2025-03-26
+SLR00116,Viswanathan Ltd,Madhya Pradesh,Groceries,3.29,2025-09-09
+SLR00117,"Banik, Mangal and Kumer",Telangana,Electronics,4.56,2024-01-01
+SLR00118,"Bir, Bhat and Manda",Gujarat,Home & Kitchen,4.32,2025-05-02
+SLR00119,Magar and Sons,Gujarat,Handlooms,3.8,2024-09-20
+SLR00120,Pall Group,Assam,Dairy & Poultry,3.28,2024-11-26
+SLR00121,Upadhyay-Oak,Assam,Dairy & Poultry,4.71,2025-07-06
+SLR00122,Kala LLC,Uttar Pradesh,Electronics,3.5,2025-09-20
+SLR00123,Vig Ltd,Uttar Pradesh,Dairy & Poultry,4.83,2025-05-04
+SLR00124,"Chauhan, Maharaj and Varma",Maharashtra,Electronics,4.04,2025-08-07
+SLR00125,"Kalla, Sood and Mukherjee",Jharkhand,Handlooms,3.8,2024-05-08
+SLR00126,Nagarajan-Pandey,Gujarat,Agri Inputs,4.5,2025-06-11
+SLR00127,"Bedi, Hegde and Basak",Odisha,Home & Kitchen,4.73,2024-05-26
+SLR00128,"Arora, Chauhan and Rau",Uttar Pradesh,Home & Kitchen,3.85,2025-11-06
+SLR00129,"Nadkarni, Raj and Manda",Telangana,Dairy & Poultry,3.91,2024-04-07
+SLR00130,Choudhary-Sur,West Bengal,Apparel,3.96,2024-10-16
+SLR00131,Lala-Banik,Madhya Pradesh,Electronics,4.81,2024-04-17
+SLR00132,Barad and Sons,Maharashtra,Handlooms,4.41,2024-08-19
+SLR00133,Chauhan-Ravel,Bihar,Apparel,3.63,2024-07-08
+SLR00134,"Vyas, Jayaraman and Sule",Punjab,Health & Wellness,3.52,2024-12-02
+SLR00135,"Chauhan, Sarin and Chander",Rajasthan,Dairy & Poultry,3.6,2025-11-15
+SLR00136,Pau PLC,Assam,Health & Wellness,3.66,2025-06-16
+SLR00137,Samra-Varughese,Telangana,Groceries,3.6,2025-08-14
+SLR00138,Chowdhury-Chada,Punjab,Health & Wellness,4.35,2024-05-14
+SLR00139,"Singhal, Rajan and Sarna",Odisha,Health & Wellness,3.4,2025-03-08
+SLR00140,Verma-Jaggi,Bihar,Agri Inputs,3.88,2025-11-08
+SLR00141,"Issac, Dutta and Sachdev",Telangana,Electronics,4.29,2025-08-16
+SLR00142,Soni Inc,Telangana,Agri Inputs,3.71,2025-01-29
+SLR00143,"Nagi, Bala and Natarajan",West Bengal,Electronics,3.31,2024-02-19
+SLR00144,"Johal, Prasad and Gupta",Madhya Pradesh,Electronics,3.34,2024-07-05
+SLR00145,Parikh-Zacharia,Madhya Pradesh,Electronics,3.42,2024-05-26
+SLR00146,Pall Group,Odisha,Agri Inputs,4.66,2024-02-04
+SLR00147,Sarraf-Doctor,Tamil Nadu,Home & Kitchen,4.35,2024-06-14
+SLR00148,"Pingle, Koshy and Patla",Karnataka,Groceries,3.31,2024-11-26
+SLR00149,Kota PLC,Madhya Pradesh,Home & Kitchen,3.88,2025-08-08
+SLR00150,"Upadhyay, Gade and Mandal",Gujarat,Handlooms,3.69,2025-05-10
+SLR00151,Rama Group,Punjab,Handlooms,4.21,2024-07-11
+SLR00152,"Dhar, Chandra and Sidhu",Karnataka,Health & Wellness,4.11,2025-08-14
+SLR00153,"Subramaniam, Nayak and Bassi",Kerala,Home & Kitchen,4.04,2025-04-07
+SLR00154,Narayanan PLC,Gujarat,Groceries,3.75,2025-04-09
+SLR00155,Sandal-Sangha,Tamil Nadu,Health & Wellness,3.44,2024-09-26
+SLR00156,"Sundaram, Joshi and Agrawal",Tamil Nadu,Groceries,4.5,2025-03-26
+SLR00157,Ahuja and Sons,Tamil Nadu,Electronics,4.74,2024-10-13
+SLR00158,"Om, Jayaraman and Dugar",Uttar Pradesh,Electronics,4.85,2025-06-10
+SLR00159,Gola-Srinivas,Rajasthan,Handlooms,3.3,2024-12-11
+SLR00160,Sani-Kapadia,Tamil Nadu,Electronics,4.49,2024-09-18
+SLR00161,Nadig-Boase,Gujarat,Health & Wellness,4.47,2025-05-14
+SLR00162,"Prabhakar, Bhat and Gala",Gujarat,Electronics,4.86,2025-04-12
+SLR00163,Dass-Vasa,Maharashtra,Groceries,3.64,2025-11-15
+SLR00164,Mital-Sandhu,Punjab,Agri Inputs,4.5,2025-06-15
+SLR00165,Khare Inc,Rajasthan,Dairy & Poultry,3.3,2024-03-05
+SLR00166,"Sibal, Halder and Amble",Kerala,Home & Kitchen,4.3,2025-03-12
+SLR00167,"Sodhi, Dass and Anand",Punjab,Apparel,3.81,2024-01-27
+SLR00168,"Shan, Kapur and Ganesan",Odisha,Apparel,4.55,2024-05-09
+SLR00169,Soman-Singh,Odisha,Electronics,4.71,2024-08-20
+SLR00170,D’Alia-Dara,Telangana,Electronics,3.84,2024-04-23
+SLR00171,"Master, Dey and Nagar",Rajasthan,Home & Kitchen,4.12,2025-07-17
+SLR00172,Srivastava Ltd,Bihar,Apparel,3.41,2024-05-09
+SLR00173,"Ramakrishnan, Issac and Agarwal",Uttar Pradesh,Groceries,3.93,2024-11-10
+SLR00174,"Bhat, Anand and Savant",Karnataka,Dairy & Poultry,3.83,2025-03-22
+SLR00175,Dhingra Inc,Odisha,Apparel,3.52,2024-03-25
+SLR00176,Dhaliwal Ltd,Tamil Nadu,Apparel,4.77,2024-07-05
+SLR00177,Dhaliwal-Hari,Kerala,Health & Wellness,3.46,2025-06-07
+SLR00178,Mannan-Suresh,Kerala,Apparel,4.31,2024-05-25
+SLR00179,Ben LLC,Odisha,Electronics,4.76,2024-01-18
+SLR00180,"Sule, Sekhon and Singh",Tamil Nadu,Health & Wellness,4.8,2024-12-28
+SLR00181,Sane Inc,Punjab,Electronics,4.59,2025-09-07
+SLR00182,"Soman, Chokshi and Puri",Gujarat,Home & Kitchen,3.51,2025-07-30
+SLR00183,Saraf-Palla,Kerala,Apparel,4.63,2025-06-21
+SLR00184,Rau-Shah,Tamil Nadu,Dairy & Poultry,3.68,2025-06-29
+SLR00185,Minhas-Baria,Tamil Nadu,Electronics,4.81,2025-07-06
+SLR00186,"Purohit, Viswanathan and Keer",Uttar Pradesh,Home & Kitchen,4.44,2025-12-11
+SLR00187,Mani LLC,Maharashtra,Apparel,4.57,2024-06-19
+SLR00188,Badal PLC,Tamil Nadu,Dairy & Poultry,3.35,2024-06-11
+SLR00189,"Peri, Doshi and Edwin",Karnataka,Groceries,4.22,2025-11-27
+SLR00190,Devi-Raghavan,Bihar,Electronics,4.64,2025-10-12
+SLR00191,"Patla, Hayre and Shanker",Kerala,Dairy & Poultry,4.71,2025-09-25
+SLR00192,"Iyer, Gopal and Datta",Telangana,Dairy & Poultry,3.25,2024-06-04
+SLR00193,Borra LLC,Uttar Pradesh,Dairy & Poultry,4.84,2025-09-16
+SLR00194,Arya Group,Punjab,Agri Inputs,3.28,2024-07-26
+SLR00195,Pathak Ltd,Kerala,Dairy & Poultry,4.28,2024-02-20
+SLR00196,Sridhar-Kohli,Maharashtra,Home & Kitchen,4.41,2024-10-30
+SLR00197,Bedi-Comar,Bihar,Electronics,3.39,2025-06-18
+SLR00198,Tailor-Contractor,Kerala,Groceries,3.28,2025-05-02
+SLR00199,Narasimhan Inc,Madhya Pradesh,Groceries,4.57,2024-11-25
+SLR00200,"Char, Bassi and Biswas",Gujarat,Electronics,3.87,2024-11-03
+SLR00201,Doshi-Saini,Telangana,Dairy & Poultry,3.39,2024-03-17
+SLR00202,Balasubramanian PLC,West Bengal,Handlooms,4.53,2025-12-26
+SLR00203,Desai Group,Gujarat,Home & Kitchen,4.69,2025-11-15
+SLR00204,Joshi-Lal,Assam,Apparel,4.23,2024-08-01
+SLR00205,Nayar-Shah,Madhya Pradesh,Apparel,3.48,2025-08-31
+SLR00206,"Jani, Kannan and Nagar",Bihar,Groceries,3.23,2024-03-01
+SLR00207,Tripathi-Tella,Rajasthan,Dairy & Poultry,4.43,2024-05-23
+SLR00208,"Jhaveri, Parmar and Swamy",Gujarat,Electronics,4.16,2025-05-07
+SLR00209,Grover Inc,Odisha,Handlooms,4.34,2024-09-05
+SLR00210,Rau-Sodhi,Karnataka,Home & Kitchen,4.62,2024-06-12
+SLR00211,"Chand, Krishnan and Rajagopalan",Madhya Pradesh,Agri Inputs,3.96,2025-03-05
+SLR00212,Tiwari Group,Karnataka,Apparel,3.42,2025-08-28
+SLR00213,"Ram, Mander and Khatri",Uttar Pradesh,Health & Wellness,4.84,2024-09-11
+SLR00214,Bajaj and Sons,Madhya Pradesh,Home & Kitchen,4.15,2024-03-13
+SLR00215,Talwar Ltd,Kerala,Dairy & Poultry,4.28,2024-10-09
+SLR00216,Reddy Group,Tamil Nadu,Home & Kitchen,4.83,2025-02-15
+SLR00217,Dhingra-Vasa,Rajasthan,Handlooms,4.83,2025-08-22
+SLR00218,Mukherjee Group,Maharashtra,Home & Kitchen,4.2,2024-07-29
+SLR00219,"Nath, Lalla and Ganesan",Telangana,Apparel,3.72,2024-05-25
+SLR00220,"Tara, Dave and Mannan",Maharashtra,Electronics,4.94,2024-12-01
+SLR00221,Baral Inc,Assam,Dairy & Poultry,4.39,2025-10-14
+SLR00222,"Dhaliwal, Bail and Raman",West Bengal,Apparel,3.91,2025-06-17
+SLR00223,"Bawa, Chadha and Modi",West Bengal,Agri Inputs,4.18,2025-06-20
+SLR00224,"Purohit, Badal and Nagarajan",Tamil Nadu,Electronics,3.93,2025-10-05
+SLR00225,Bajwa PLC,Karnataka,Groceries,4.75,2025-04-27
+SLR00226,Mammen-Joshi,Assam,Handlooms,4.04,2025-11-07
+SLR00227,Tandon Inc,Punjab,Dairy & Poultry,4.64,2024-11-01
+SLR00228,Jain-Bhandari,Kerala,Apparel,4.67,2025-07-08
+SLR00229,"Hora, Keer and Nagarajan",Telangana,Electronics,4.64,2025-04-10
+SLR00230,Kalla-Raj,Uttar Pradesh,Home & Kitchen,4.46,2024-03-13
+SLR00231,"Iyer, Arya and Chakraborty",Odisha,Electronics,4.7,2024-10-05
+SLR00232,Bhandari Ltd,West Bengal,Apparel,3.88,2025-01-25
+SLR00233,Ben PLC,Assam,Groceries,3.4,2024-04-25
+SLR00234,"Keer, Bhatti and Sawhney",Madhya Pradesh,Apparel,4.67,2025-04-22
+SLR00235,"Comar, Aggarwal and Mukherjee",Gujarat,Groceries,4.07,2025-08-22
+SLR00236,"Basu, Ghose and Vyas",Bihar,Home & Kitchen,3.42,2025-12-27
+SLR00237,"Kashyap, Nayak and Mallick",Rajasthan,Apparel,3.4,2024-10-25
+SLR00238,Nayak PLC,Punjab,Electronics,3.48,2025-06-19
+SLR00239,"Gole, Bedi and Karpe",Madhya Pradesh,Agri Inputs,4.51,2024-03-31
+SLR00240,Lala Ltd,Gujarat,Agri Inputs,4.44,2025-09-05
+SLR00241,Sawhney Group,Karnataka,Home & Kitchen,3.56,2024-09-04
+SLR00242,Chakrabarti-Kibe,Karnataka,Health & Wellness,4.68,2025-12-19
+SLR00243,Ramesh-Garde,Uttar Pradesh,Health & Wellness,3.69,2025-03-07
+SLR00244,"Bakshi, Vala and Butala",Telangana,Electronics,4.59,2025-10-15
+SLR00245,Devan Ltd,Tamil Nadu,Agri Inputs,4.06,2024-10-13
+SLR00246,"Sanghvi, Venkatesh and Bhavsar",Karnataka,Home & Kitchen,4.48,2024-09-14
+SLR00247,Mitter-Shanker,Jharkhand,Groceries,3.87,2025-06-04
+SLR00248,"Kunda, Shankar and Aggarwal",Assam,Electronics,3.81,2025-03-05
+SLR00249,Kannan-Borah,Maharashtra,Health & Wellness,4.67,2024-12-31
+SLR00250,Bansal LLC,Telangana,Dairy & Poultry,3.26,2024-01-14
+SLR00251,"Kala, Konda and Anand",Rajasthan,Groceries,4.91,2025-12-31
+SLR00252,"Sant, Tank and Jain",Jharkhand,Electronics,4.33,2024-09-05
+SLR00253,"Sem, Thakur and Mannan",Maharashtra,Groceries,3.96,2025-05-21
+SLR00254,Chandra PLC,Bihar,Groceries,4.3,2025-08-28
+SLR00255,"Dash, Morar and Dey",Uttar Pradesh,Agri Inputs,3.41,2025-11-12
+SLR00256,"Sami, Kaul and Som",Bihar,Dairy & Poultry,4.1,2024-04-16
+SLR00257,Parekh-Balakrishnan,Telangana,Electronics,4.92,2025-07-28
+SLR00258,"Chawla, Ravi and Sunder",Karnataka,Apparel,3.61,2025-08-02
+SLR00259,Srinivas-Chaudhari,Tamil Nadu,Agri Inputs,4.46,2025-09-13
+SLR00260,"Tandon, Srinivas and Rao",West Bengal,Groceries,3.96,2025-11-14
+SLR00261,Wali PLC,Telangana,Groceries,4.34,2024-02-13
+SLR00262,Rege and Sons,Telangana,Health & Wellness,3.56,2024-04-20
+SLR00263,Vora-Parmar,Assam,Apparel,4.02,2025-10-20
+SLR00264,Chahal Ltd,Kerala,Health & Wellness,4.92,2025-08-12
+SLR00265,"Ranganathan, Edwin and Sharaf",Gujarat,Apparel,3.54,2024-04-30
+SLR00266,Gera-Dutt,Gujarat,Groceries,4.31,2025-01-04
+SLR00267,Sandal Group,Uttar Pradesh,Apparel,4.21,2025-11-19
+SLR00268,Sawhney-Varma,Madhya Pradesh,Dairy & Poultry,4.19,2025-03-07
+SLR00269,"Varma, Apte and Hayer",Jharkhand,Handlooms,4.28,2024-02-10
+SLR00270,Ranganathan-Chada,Madhya Pradesh,Health & Wellness,4.08,2025-10-24
+SLR00271,Nair-Gara,Maharashtra,Health & Wellness,3.23,2025-04-16
+SLR00272,Yogi PLC,Maharashtra,Agri Inputs,4.78,2025-06-19
+SLR00273,Sheth LLC,Gujarat,Dairy & Poultry,4.65,2025-02-12
+SLR00274,"Khurana, Nadkarni and Wason",Kerala,Electronics,3.5,2025-03-18
+SLR00275,Deshmukh LLC,Punjab,Health & Wellness,3.92,2024-08-09
+SLR00276,Sood-Srinivasan,Rajasthan,Apparel,4.55,2024-07-04
+SLR00277,Doshi-Saraf,Bihar,Apparel,4.92,2025-10-07
+SLR00278,Tandon-Rai,Kerala,Handlooms,4.86,2024-04-11
+SLR00279,Bakshi-Guha,Maharashtra,Electronics,4.77,2025-02-26
+SLR00280,"Pingle, Wali and Bakshi",Tamil Nadu,Handlooms,3.48,2025-04-12
+SLR00281,Balan-Bora,Telangana,Electronics,4.8,2025-01-02
+SLR00282,"Mannan, Dash and Sastry",Gujarat,Health & Wellness,4.74,2024-12-26
+SLR00283,Ram LLC,Rajasthan,Health & Wellness,3.86,2024-10-10
+SLR00284,Guha-Boase,Kerala,Agri Inputs,3.89,2024-02-18
+SLR00285,Pandey Group,Bihar,Apparel,4.0,2025-04-14
+SLR00286,Chander-Warrior,Kerala,Agri Inputs,4.35,2024-09-26
+SLR00287,"Sastry, Buch and Comar",Kerala,Electronics,3.66,2024-08-02
+SLR00288,Vora-Sangha,Madhya Pradesh,Apparel,3.24,2025-07-14
+SLR00289,Bhalla Ltd,Gujarat,Health & Wellness,3.45,2024-11-25
+SLR00290,Bassi-Agrawal,Odisha,Handlooms,3.97,2024-12-22
+SLR00291,"Gour, Lala and Madan",Rajasthan,Health & Wellness,3.69,2025-05-26
+SLR00292,"Golla, Virk and Sekhon",Uttar Pradesh,Health & Wellness,4.54,2024-12-07
+SLR00293,"Swamy, Palla and Sheth",Maharashtra,Groceries,3.39,2025-09-23
+SLR00294,Kaul Ltd,West Bengal,Handlooms,4.81,2024-08-21
+SLR00295,Dhaliwal PLC,Maharashtra,Groceries,4.77,2024-11-09
+SLR00296,Badami Inc,Bihar,Dairy & Poultry,4.79,2024-04-02
+SLR00297,Doctor LLC,Jharkhand,Dairy & Poultry,4.49,2025-02-19
+SLR00298,"Arya, Bhatt and Tripathi",Gujarat,Handlooms,3.39,2025-09-28
+SLR00299,Banik-Tak,Madhya Pradesh,Electronics,3.97,2025-10-16
+SLR00300,Garg-Bajaj,Rajasthan,Agri Inputs,3.43,2025-01-26
+SLR00301,Padmanabhan-Dixit,West Bengal,Dairy & Poultry,4.93,2024-09-28
+SLR00302,Edwin and Sons,Punjab,Groceries,3.78,2024-12-25
+SLR00303,Reddy PLC,Maharashtra,Electronics,4.22,2025-03-24
+SLR00304,Dani Ltd,Karnataka,Agri Inputs,4.56,2024-06-12
+SLR00305,"Babu, Rajagopalan and Ganguly",Odisha,Agri Inputs,4.81,2024-11-26
+SLR00306,Arya Group,Punjab,Apparel,4.52,2024-04-24
+SLR00307,"Hayre, Bahri and Deshpande",Karnataka,Health & Wellness,4.38,2025-08-18
+SLR00308,Gera-Rajan,Odisha,Apparel,4.02,2025-06-02
+SLR00309,"Sampath, Dewan and Lad",Madhya Pradesh,Health & Wellness,4.26,2025-07-27
+SLR00310,"Seth, Patla and Khare",Tamil Nadu,Apparel,3.36,2025-07-27
+SLR00311,Mani-Bakshi,Odisha,Groceries,4.75,2024-07-01
+SLR00312,"Narain, Talwar and Chanda",West Bengal,Groceries,4.15,2025-09-25
+SLR00313,"Malhotra, Mody and Raman",Odisha,Health & Wellness,3.27,2024-07-22
+SLR00314,"Pillai, Reddy and Tandon",Rajasthan,Dairy & Poultry,4.81,2024-04-02
+SLR00315,Bawa-Rai,Kerala,Agri Inputs,4.06,2025-11-10
+SLR00316,"Tailor, Joshi and Pathak",Maharashtra,Groceries,4.72,2024-09-26
+SLR00317,"Modi, Kulkarni and Pradhan",Maharashtra,Agri Inputs,4.7,2024-12-14
+SLR00318,Kumar LLC,Kerala,Electronics,4.63,2024-12-28
+SLR00319,"Bhatti, Mand and Rai",Madhya Pradesh,Handlooms,3.31,2024-05-16
+SLR00320,"Sanghvi, Yadav and Sahota",Karnataka,Agri Inputs,3.63,2024-04-16
+SLR00321,Varkey-Issac,Karnataka,Agri Inputs,4.73,2025-09-20
+SLR00322,"Loyal, Toor and Issac",Assam,Electronics,4.77,2024-03-25
+SLR00323,Karnik-Pandit,Tamil Nadu,Health & Wellness,4.0,2024-08-18
+SLR00324,"Sanghvi, Dutta and Saha",Karnataka,Apparel,3.97,2024-02-11
+SLR00325,Kalita-Saraf,Madhya Pradesh,Home & Kitchen,3.51,2025-07-15
+SLR00326,Mistry-Vasa,Odisha,Dairy & Poultry,4.89,2025-11-14
+SLR00327,Khosla-Dube,Tamil Nadu,Health & Wellness,3.57,2024-01-27
+SLR00328,Sharma Group,Madhya Pradesh,Apparel,3.53,2024-08-17
+SLR00329,Vohra-Sinha,Uttar Pradesh,Apparel,4.36,2024-09-08
+SLR00330,Trivedi PLC,Assam,Dairy & Poultry,3.62,2025-03-26
+SLR00331,Kohli-Dutt,Telangana,Health & Wellness,4.84,2024-08-09
+SLR00332,"Rege, Kamdar and Krishnamurthy",Kerala,Health & Wellness,3.22,2024-01-13
+SLR00333,Kohli-Sani,Bihar,Dairy & Poultry,3.21,2024-09-06
+SLR00334,"Nazareth, Wason and Balay",Karnataka,Agri Inputs,4.08,2025-09-18
+SLR00335,Bajwa-Mody,West Bengal,Agri Inputs,4.05,2025-03-25
+SLR00336,Bhasin-Patel,Telangana,Groceries,3.49,2025-07-23
+SLR00337,"Balay, Gill and Wali",Maharashtra,Groceries,4.07,2025-08-04
+SLR00338,Rattan-Sheth,Kerala,Handlooms,3.92,2025-02-26
+SLR00339,Anand Inc,Jharkhand,Handlooms,4.76,2025-06-15
+SLR00340,Hegde-Mand,Bihar,Home & Kitchen,3.22,2025-02-13
+SLR00341,Hayre PLC,Karnataka,Health & Wellness,4.91,2025-08-12
+SLR00342,Sibal Group,Gujarat,Groceries,4.29,2024-09-24
+SLR00343,Suri and Sons,Punjab,Health & Wellness,3.47,2024-09-26
+SLR00344,"Murty, Madan and Pai",Madhya Pradesh,Agri Inputs,3.28,2025-01-14
+SLR00345,"Agrawal, Khurana and Balakrishnan",Rajasthan,Electronics,4.14,2024-08-28
+SLR00346,Sama and Sons,Odisha,Groceries,3.61,2025-07-07
+SLR00347,Panchal-Choudhary,Madhya Pradesh,Agri Inputs,3.73,2024-03-19
+SLR00348,Barad-Deo,West Bengal,Health & Wellness,3.63,2024-11-25
+SLR00349,"Agrawal, Mital and Oza",Kerala,Dairy & Poultry,4.34,2025-07-05
+SLR00350,Goyal PLC,Tamil Nadu,Groceries,4.17,2024-05-11
+SLR00351,Muni and Sons,Uttar Pradesh,Apparel,3.34,2025-06-03
+SLR00352,Karan-Bhattacharyya,Jharkhand,Groceries,4.12,2025-07-02
+SLR00353,Shetty PLC,Madhya Pradesh,Health & Wellness,4.58,2024-04-17
+SLR00354,Kaul-Kapur,Madhya Pradesh,Health & Wellness,3.34,2024-08-21
+SLR00355,Narayanan-Guha,Madhya Pradesh,Home & Kitchen,4.76,2025-12-19
+SLR00356,Chaudhry Inc,Bihar,Health & Wellness,4.21,2025-07-21
+SLR00357,Khare Ltd,Assam,Apparel,4.86,2025-04-21
+SLR00358,Balakrishnan-Maharaj,Telangana,Agri Inputs,3.46,2025-08-11
+SLR00359,Rattan LLC,Odisha,Apparel,4.94,2025-04-16
+SLR00360,Sharma LLC,Odisha,Groceries,4.33,2025-03-24
+SLR00361,Saraf Ltd,Odisha,Dairy & Poultry,4.19,2025-08-28
+SLR00362,Goswami-Padmanabhan,Gujarat,Apparel,4.1,2024-03-07
+SLR00363,Behl PLC,Bihar,Home & Kitchen,3.24,2024-01-23
+SLR00364,Tandon-Kapoor,Assam,Electronics,4.84,2025-04-04
+SLR00365,"Hans, Palla and Pall",Rajasthan,Apparel,4.33,2025-10-27
+SLR00366,Oommen-Buch,Tamil Nadu,Health & Wellness,3.36,2024-12-21
+SLR00367,Sankar-Baria,Gujarat,Home & Kitchen,3.24,2025-12-24
+SLR00368,"Buch, Kata and Naik",Bihar,Apparel,3.29,2024-03-06
+SLR00369,Brar Group,Jharkhand,Handlooms,4.27,2024-03-07
+SLR00370,"Modi, Padmanabhan and Parmar",Uttar Pradesh,Electronics,4.27,2025-08-06
+SLR00371,Kannan-Setty,Kerala,Agri Inputs,4.07,2024-01-29
+SLR00372,"Balay, Sahni and Deshmukh",Madhya Pradesh,Health & Wellness,3.74,2025-05-17
+SLR00373,Grewal-Chokshi,Odisha,Home & Kitchen,4.13,2025-12-22
+SLR00374,Shah-Iyengar,Madhya Pradesh,Apparel,4.1,2025-02-09
+SLR00375,Sathe LLC,Bihar,Dairy & Poultry,3.23,2025-11-08
+SLR00376,Chandran-Dey,Maharashtra,Electronics,3.69,2024-11-13
+SLR00377,Nadkarni Group,West Bengal,Agri Inputs,3.29,2025-12-14
+SLR00378,Sampath-Ganesan,Jharkhand,Electronics,4.78,2024-12-04
+SLR00379,Kurian-Chaudhuri,Gujarat,Home & Kitchen,4.47,2025-08-06
+SLR00380,Samra Inc,Rajasthan,Handlooms,4.94,2025-02-20
+SLR00381,"Kurian, Vora and Dani",Odisha,Home & Kitchen,3.73,2025-07-06
+SLR00382,"Sathe, Ramanathan and Dutta",Telangana,Home & Kitchen,4.74,2024-11-18
+SLR00383,Bhargava Group,Telangana,Dairy & Poultry,4.26,2025-09-16
+SLR00384,"Kaur, Chacko and Sankar",Uttar Pradesh,Agri Inputs,3.99,2025-12-30
+SLR00385,Bahri and Sons,Telangana,Dairy & Poultry,3.59,2025-08-24
+SLR00386,"Nayar, Borah and Sarin",Gujarat,Dairy & Poultry,4.49,2024-03-13
+SLR00387,"Tak, Bhargava and Mukhopadhyay",Tamil Nadu,Agri Inputs,4.78,2024-03-06
+SLR00388,Bali-Narayan,Assam,Apparel,3.61,2025-02-27
+SLR00389,"Zacharia, Dhar and Dass",Rajasthan,Groceries,3.51,2024-07-18
+SLR00390,"Sahota, Sastry and Kari",Tamil Nadu,Home & Kitchen,4.42,2025-09-07
+SLR00391,"Chaudhry, Ghose and Kale",Odisha,Agri Inputs,4.91,2024-07-04
+SLR00392,Karnik-Wali,Tamil Nadu,Dairy & Poultry,4.51,2025-10-26
+SLR00393,"Wali, Barad and Morar",Bihar,Home & Kitchen,3.7,2024-05-02
+SLR00394,"Padmanabhan, Chana and Manne",Jharkhand,Home & Kitchen,3.93,2024-04-01
+SLR00395,"Doshi, Bhandari and Dhillon",West Bengal,Dairy & Poultry,3.87,2025-02-17
+SLR00396,Kibe-Rattan,Tamil Nadu,Agri Inputs,4.69,2025-12-18
+SLR00397,Peri-Batra,Punjab,Handlooms,4.55,2025-02-21
+SLR00398,"Dhillon, Gill and Khanna",Punjab,Handlooms,4.23,2025-12-14
+SLR00399,Koshy LLC,Maharashtra,Home & Kitchen,3.68,2024-05-21
+SLR00400,Sinha LLC,Rajasthan,Handlooms,4.84,2024-07-06
+SLR00401,Sathe-Radhakrishnan,Maharashtra,Home & Kitchen,4.34,2024-11-14
+SLR00402,Goyal-Bhatt,West Bengal,Dairy & Poultry,4.9,2024-06-30
+SLR00403,Narula LLC,Kerala,Apparel,4.22,2024-09-15
+SLR00404,"Bajwa, Mangal and Kuruvilla",Uttar Pradesh,Agri Inputs,4.64,2024-04-02
+SLR00405,Chada PLC,West Bengal,Home & Kitchen,4.62,2024-09-23
+SLR00406,"Jain, Mistry and Kothari",Jharkhand,Handlooms,3.79,2024-07-24
+SLR00407,Pradhan-Kar,Karnataka,Handlooms,4.89,2024-12-25
+SLR00408,Barad Ltd,Telangana,Electronics,3.24,2025-10-10
+SLR00409,"Dugar, Sule and Sule",Jharkhand,Electronics,4.55,2024-12-13
+SLR00410,Chhabra LLC,Gujarat,Health & Wellness,4.89,2024-04-06
+SLR00411,Reddy and Sons,Maharashtra,Handlooms,3.79,2024-09-20
+SLR00412,"Contractor, Sibal and Date",Bihar,Health & Wellness,4.33,2025-09-12
+SLR00413,Nori-Bhatt,Uttar Pradesh,Health & Wellness,4.18,2025-07-24
+SLR00414,Kala-Edwin,Telangana,Health & Wellness,4.53,2025-11-30
+SLR00415,"Choudhury, Sane and Dhaliwal",Karnataka,Apparel,4.72,2024-04-07
+SLR00416,"Chacko, Bera and Thakur",West Bengal,Groceries,4.26,2024-01-02
+SLR00417,Karnik-Dugal,Punjab,Home & Kitchen,4.63,2024-01-13
+SLR00418,Chaudhari PLC,Odisha,Electronics,3.75,2024-11-30
+SLR00419,"Koshy, Ranganathan and Borra",Gujarat,Home & Kitchen,3.6,2024-11-09
+SLR00420,Savant-Kamdar,Tamil Nadu,Electronics,3.95,2025-08-04
+SLR00421,"Sharma, Saran and Sule",Madhya Pradesh,Agri Inputs,4.39,2025-01-18
+SLR00422,Bala LLC,Rajasthan,Agri Inputs,3.53,2024-06-25
+SLR00423,Varkey Ltd,Punjab,Handlooms,4.39,2025-10-13
+SLR00424,Sura-Agarwal,Odisha,Agri Inputs,3.89,2025-05-25
+SLR00425,Master-Pal,Maharashtra,Dairy & Poultry,4.59,2025-07-02
+SLR00426,"Buch, Prakash and Hegde",Uttar Pradesh,Agri Inputs,3.26,2024-12-19
+SLR00427,Kumar LLC,Uttar Pradesh,Groceries,4.37,2025-11-30
+SLR00428,Behl-Anne,Kerala,Health & Wellness,4.34,2025-09-06
+SLR00429,Ahuja and Sons,Kerala,Apparel,4.85,2025-08-10
+SLR00430,"Purohit, Verma and Kohli",Jharkhand,Handlooms,4.45,2025-03-27
+SLR00431,"Talwar, Banerjee and Kala",Jharkhand,Groceries,4.59,2025-06-03
+SLR00432,"Mukherjee, Pal and Bhakta",Madhya Pradesh,Dairy & Poultry,4.78,2025-03-31
+SLR00433,Mutti PLC,Uttar Pradesh,Handlooms,4.38,2025-09-29
+SLR00434,Sethi-Ranganathan,Bihar,Apparel,3.71,2025-07-04
+SLR00435,Khanna Ltd,Kerala,Handlooms,4.72,2024-11-15
+SLR00436,Magar Inc,Maharashtra,Home & Kitchen,4.51,2024-04-20
+SLR00437,"Jha, Mahajan and Reddy",Telangana,Home & Kitchen,3.94,2025-11-30
+SLR00438,"Sharaf, Pall and Mishra",Telangana,Home & Kitchen,4.44,2025-08-27
+SLR00439,"Biswas, Yadav and Dhingra",Telangana,Agri Inputs,4.72,2024-06-20
+SLR00440,Samra PLC,Kerala,Apparel,4.91,2025-05-24
+SLR00441,"Char, Basu and Borra",West Bengal,Groceries,4.87,2025-09-09
+SLR00442,Deo Group,Uttar Pradesh,Groceries,3.77,2025-09-19
+SLR00443,Bora Inc,Telangana,Dairy & Poultry,3.94,2025-04-10
+SLR00444,Chaudhry-Kohli,Uttar Pradesh,Electronics,3.39,2025-07-15
+SLR00445,Mand Group,West Bengal,Groceries,3.63,2025-04-03
+SLR00446,Chaudhry PLC,Assam,Health & Wellness,4.74,2025-11-15
+SLR00447,Dutta-Dixit,Assam,Home & Kitchen,3.83,2024-03-08
+SLR00448,Chaudhari and Sons,Jharkhand,Health & Wellness,4.29,2024-09-09
+SLR00449,"Gara, Pathak and Keer",West Bengal,Dairy & Poultry,4.37,2024-05-24
+SLR00450,Balay PLC,Karnataka,Health & Wellness,4.57,2025-05-17
+SLR00451,"Hegde, Bose and Ram",Gujarat,Home & Kitchen,3.52,2025-02-17
+SLR00452,"Dara, Roy and Kapadia",Assam,Electronics,3.73,2025-01-01
+SLR00453,Andra-Khanna,Gujarat,Agri Inputs,3.98,2025-05-06
+SLR00454,"Chadha, Srinivas and Korpal",Gujarat,Groceries,3.84,2024-04-11
+SLR00455,"Rai, Arora and Shukla",Jharkhand,Apparel,4.92,2024-04-03
+SLR00456,"Uppal, Mohan and Sunder",Jharkhand,Electronics,4.66,2024-11-24
+SLR00457,Subramaniam-Gour,Kerala,Groceries,4.04,2025-07-30
+SLR00458,Basak Inc,Jharkhand,Agri Inputs,4.74,2025-12-20
+SLR00459,Dayal-Buch,Madhya Pradesh,Health & Wellness,3.81,2025-06-18
+SLR00460,Chaudhry-Bedi,Uttar Pradesh,Apparel,4.58,2025-07-13
+SLR00461,Andra-Shan,Madhya Pradesh,Apparel,3.59,2024-07-24
+SLR00462,Saraf and Sons,Odisha,Dairy & Poultry,4.55,2024-11-24
+SLR00463,Patla-Bala,Gujarat,Health & Wellness,4.0,2025-04-03
+SLR00464,"Walia, Nagi and Chawla",Uttar Pradesh,Agri Inputs,3.39,2024-10-26
+SLR00465,Kalita Group,Karnataka,Groceries,3.68,2025-03-12
+SLR00466,Wadhwa LLC,Madhya Pradesh,Health & Wellness,3.9,2025-03-21
+SLR00467,Choudhary PLC,West Bengal,Handlooms,4.51,2024-03-25
+SLR00468,Lanka Ltd,Assam,Dairy & Poultry,3.33,2024-01-25
+SLR00469,Pathak-Lad,Telangana,Groceries,4.35,2024-04-16
+SLR00470,Salvi-Sodhi,Assam,Health & Wellness,4.45,2025-07-28
+SLR00471,Rana LLC,Madhya Pradesh,Health & Wellness,4.34,2025-09-16
+SLR00472,Ramachandran-Contractor,Uttar Pradesh,Electronics,4.53,2024-11-09
+SLR00473,"Grewal, Setty and Sangha",Madhya Pradesh,Electronics,3.51,2024-10-21
+SLR00474,Brar-Keer,Rajasthan,Groceries,4.23,2025-06-24
+SLR00475,Sehgal-Dada,West Bengal,Dairy & Poultry,4.85,2024-07-11
+SLR00476,"Thaker, Tella and Sagar",Kerala,Home & Kitchen,4.27,2024-11-10
+SLR00477,Sandal and Sons,Kerala,Electronics,4.27,2025-08-07
+SLR00478,"Pandya, Rattan and Chhabra",Tamil Nadu,Handlooms,4.49,2024-06-26
+SLR00479,Ratti Group,Telangana,Home & Kitchen,3.78,2024-11-17
+SLR00480,Kanda-Bakshi,Karnataka,Handlooms,4.43,2025-07-01
+SLR00481,Patla-Talwar,Odisha,Apparel,4.8,2024-02-18
+SLR00482,Shanker Inc,Assam,Electronics,3.22,2025-01-29
+SLR00483,Vohra Group,West Bengal,Health & Wellness,4.72,2024-12-26
+SLR00484,"Mangat, Batra and Gandhi",Gujarat,Home & Kitchen,3.58,2024-02-23
+SLR00485,"Dey, Kalla and Mani",Bihar,Groceries,4.0,2025-06-04
+SLR00486,"Rai, Biswas and Mittal",Maharashtra,Home & Kitchen,4.69,2024-07-01
+SLR00487,Raman-Raj,Uttar Pradesh,Health & Wellness,4.64,2025-01-14
+SLR00488,Talwar Group,Jharkhand,Apparel,4.76,2024-08-07
+SLR00489,Kamdar Inc,Assam,Handlooms,4.85,2025-04-13
+SLR00490,Choudhry-Bora,Rajasthan,Apparel,3.98,2024-08-14
+SLR00491,Saha-Chatterjee,Maharashtra,Agri Inputs,4.35,2024-03-15
+SLR00492,"Misra, Ghosh and Chaudry",Gujarat,Electronics,3.88,2025-05-22
+SLR00493,Grewal-Merchant,Telangana,Groceries,3.81,2025-08-07
+SLR00494,"Karan, Chowdhury and Ranganathan",Punjab,Handlooms,3.96,2025-09-19
+SLR00495,"Sama, Johal and Sagar",Odisha,Apparel,4.5,2024-02-16
+SLR00496,Srinivas-Bala,Assam,Groceries,4.08,2024-07-29
+SLR00497,Rama-Munshi,West Bengal,Electronics,4.62,2024-10-24
+SLR00498,Yohannan-Ram,Madhya Pradesh,Health & Wellness,4.5,2024-09-03
+SLR00499,"Uppal, Subramanian and Bains",West Bengal,Groceries,3.24,2024-06-30
+SLR00500,Purohit PLC,West Bengal,Electronics,4.3,2024-08-21
+SLR00501,"Kashyap, Aggarwal and Bala",Assam,Electronics,3.96,2025-02-15
+SLR00502,Kannan-Sur,Kerala,Electronics,4.0,2024-06-08
+SLR00503,"Kari, Ratti and Karan",Gujarat,Apparel,4.63,2025-09-05
+SLR00504,"Brar, Padmanabhan and Golla",Kerala,Health & Wellness,4.16,2025-09-28
+SLR00505,"Dhillon, Comar and Ganesh",Assam,Electronics,4.75,2025-03-08
+SLR00506,Bhardwaj-Rajagopal,Gujarat,Groceries,4.45,2025-12-28
+SLR00507,Kapoor-Mammen,Tamil Nadu,Health & Wellness,4.17,2024-11-13
+SLR00508,Bassi LLC,Bihar,Agri Inputs,4.52,2025-10-31
+SLR00509,Purohit Ltd,Kerala,Groceries,3.27,2025-02-23
+SLR00510,"Dhillon, Chandra and Bumb",Maharashtra,Apparel,3.25,2025-03-01
+SLR00511,"Seth, Garde and Dave",Telangana,Electronics,3.35,2025-01-21
+SLR00512,"Dugar, Mand and Srinivasan",Madhya Pradesh,Dairy & Poultry,3.97,2024-07-13
+SLR00513,Venkataraman and Sons,Jharkhand,Health & Wellness,3.61,2024-09-16
+SLR00514,Chahal PLC,Madhya Pradesh,Agri Inputs,4.92,2024-01-11
+SLR00515,Sekhon Ltd,Tamil Nadu,Apparel,4.15,2025-12-10
+SLR00516,"Rattan, Bera and Srinivasan",Jharkhand,Handlooms,4.36,2024-02-12
+SLR00517,Sem-Vora,Assam,Handlooms,3.69,2024-05-11
+SLR00518,"Verma, Krishnan and Sood",Telangana,Dairy & Poultry,3.76,2024-03-13
+SLR00519,Sen-Bhandari,Gujarat,Dairy & Poultry,3.79,2024-04-27
+SLR00520,Edwin-Deshmukh,Karnataka,Handlooms,4.42,2024-06-11
+SLR00521,Swaminathan Inc,Bihar,Agri Inputs,4.03,2024-03-09
+SLR00522,Mallick PLC,Kerala,Health & Wellness,4.11,2025-07-03
+SLR00523,Nayak-Sahni,Tamil Nadu,Groceries,4.24,2024-06-20
+SLR00524,Varughese-Chandran,Telangana,Agri Inputs,4.55,2025-11-28
+SLR00525,"Warrior, Chaudry and Andra",Assam,Dairy & Poultry,3.36,2024-10-18
+SLR00526,Bose-Tailor,Madhya Pradesh,Health & Wellness,4.56,2024-10-20
+SLR00527,Munshi Group,West Bengal,Agri Inputs,4.19,2025-08-06
+SLR00528,Chandra Group,Bihar,Health & Wellness,4.37,2024-04-21
+SLR00529,Chandra and Sons,Karnataka,Agri Inputs,3.77,2025-02-08
+SLR00530,"Shenoy, Peri and Pandey",Gujarat,Handlooms,3.92,2024-03-29
+SLR00531,Gokhale-Sachdeva,Tamil Nadu,Home & Kitchen,3.6,2025-05-24
+SLR00532,Sahota PLC,Assam,Health & Wellness,4.91,2024-05-10
+SLR00533,Roy-Kamdar,Gujarat,Health & Wellness,4.07,2024-02-06
+SLR00534,Tripathi-Bobal,Tamil Nadu,Health & Wellness,4.94,2025-05-05
+SLR00535,Kakar PLC,Madhya Pradesh,Groceries,4.06,2024-04-24
+SLR00536,"Bera, Ramanathan and Wali",Karnataka,Home & Kitchen,3.58,2024-02-08
+SLR00537,Batta Inc,Tamil Nadu,Home & Kitchen,4.09,2024-07-07
+SLR00538,Arya Group,Assam,Agri Inputs,3.27,2025-12-11
+SLR00539,Sandhu Group,Madhya Pradesh,Groceries,4.78,2024-09-04
+SLR00540,Gulati-Garg,Tamil Nadu,Home & Kitchen,4.63,2025-09-22
+SLR00541,Ramachandran and Sons,Gujarat,Electronics,4.47,2025-03-24
+SLR00542,"Hayer, Sama and Dara",Kerala,Agri Inputs,4.27,2025-03-28
+SLR00543,Bose Group,West Bengal,Agri Inputs,4.21,2024-02-12
+SLR00544,"Vyas, Narayan and Loyal",Madhya Pradesh,Agri Inputs,4.94,2024-07-12
+SLR00545,"Bansal, Bath and Mukherjee",Kerala,Electronics,3.69,2024-11-21
+SLR00546,"Bhalla, Kibe and Soni",Rajasthan,Dairy & Poultry,4.56,2025-08-05
+SLR00547,"Gade, Parikh and Merchant",Rajasthan,Electronics,4.22,2024-06-05
+SLR00548,Varty-Natarajan,Jharkhand,Handlooms,4.91,2024-09-13
+SLR00549,"Kar, Om and Sama",Bihar,Dairy & Poultry,4.65,2024-12-24
+SLR00550,Dasgupta and Sons,Assam,Apparel,4.95,2024-07-24
+SLR00551,Mallick-Kamdar,Bihar,Groceries,4.23,2024-02-27
+SLR00552,"Dube, Dhillon and Nagy",West Bengal,Apparel,3.56,2025-01-24
+SLR00553,Cherian-Sarma,Uttar Pradesh,Agri Inputs,4.08,2024-10-25
+SLR00554,Boase-Gour,Rajasthan,Home & Kitchen,4.44,2024-03-06
+SLR00555,Bhavsar-Kumar,Uttar Pradesh,Agri Inputs,4.56,2024-07-07
+SLR00556,Sama-Gola,Punjab,Home & Kitchen,3.2,2024-07-18
+SLR00557,Gopal Ltd,West Bengal,Handlooms,4.08,2025-11-04
+SLR00558,Ravi Inc,Telangana,Health & Wellness,3.61,2024-01-26
+SLR00559,Rana and Sons,Assam,Apparel,4.73,2024-03-12
+SLR00560,"Lal, Parmar and Kuruvilla",Karnataka,Health & Wellness,3.47,2025-09-08
+SLR00561,Johal Ltd,Kerala,Health & Wellness,4.37,2024-10-21
+SLR00562,"Krishnamurthy, Nadkarni and Kaur",Rajasthan,Agri Inputs,3.67,2024-06-13
+SLR00563,Murthy Group,Gujarat,Apparel,3.82,2025-07-14
+SLR00564,Ben PLC,West Bengal,Dairy & Poultry,4.85,2024-02-28
+SLR00565,Anand Group,Madhya Pradesh,Dairy & Poultry,3.62,2025-12-02
+SLR00566,"Ratta, Verma and Nazareth",Odisha,Handlooms,3.37,2025-02-23
+SLR00567,"Batra, Sangha and Mohan",Gujarat,Apparel,3.32,2025-07-01
+SLR00568,Yohannan-Shetty,Jharkhand,Home & Kitchen,4.08,2025-09-25
+SLR00569,Mall Ltd,Telangana,Groceries,4.32,2024-11-25
+SLR00570,Goda Ltd,Tamil Nadu,Health & Wellness,3.77,2024-02-09
+SLR00571,Sharma Group,Jharkhand,Dairy & Poultry,4.41,2024-04-16
+SLR00572,"Guha, Narasimhan and Chander",Rajasthan,Handlooms,3.31,2024-01-07
+SLR00573,Rattan-Trivedi,Tamil Nadu,Apparel,4.7,2024-01-04
+SLR00574,Bhavsar and Sons,Telangana,Agri Inputs,4.63,2024-02-29
+SLR00575,Singhal and Sons,Rajasthan,Electronics,4.92,2025-08-03
+SLR00576,Sethi-Balakrishnan,Uttar Pradesh,Electronics,4.84,2024-08-17
+SLR00577,Deshpande-Dara,West Bengal,Handlooms,3.82,2024-02-06
+SLR00578,Kara-Memon,Madhya Pradesh,Dairy & Poultry,3.9,2025-07-12
+SLR00579,Gole LLC,West Bengal,Electronics,4.51,2024-01-21
+SLR00580,Garg Ltd,Maharashtra,Dairy & Poultry,3.43,2025-05-02
+SLR00581,Madan Inc,Rajasthan,Groceries,3.75,2025-10-22
+SLR00582,"Vohra, Karpe and Bhat",Maharashtra,Handlooms,3.41,2024-10-16
+SLR00583,Korpal-Goyal,Bihar,Agri Inputs,4.0,2025-01-31
+SLR00584,"Keer, Saraf and Munshi",Karnataka,Agri Inputs,4.17,2024-08-31
+SLR00585,Atwal-Chandra,West Bengal,Handlooms,3.57,2025-09-19
+SLR00586,"Chaudhry, Mukherjee and Mannan",Uttar Pradesh,Electronics,3.25,2024-12-19
+SLR00587,Ganguly-Minhas,Madhya Pradesh,Electronics,4.46,2025-04-10
+SLR00588,"Madan, Dugal and Balasubramanian",Rajasthan,Agri Inputs,3.24,2024-06-05
+SLR00589,Mammen and Sons,Madhya Pradesh,Groceries,4.9,2025-07-03
+SLR00590,Amble-Morar,Bihar,Home & Kitchen,3.59,2024-08-17
+SLR00591,Sabharwal-Panchal,Tamil Nadu,Electronics,4.36,2024-10-20
+SLR00592,"Chand, Dalal and Varma",Madhya Pradesh,Groceries,3.96,2024-06-27
+SLR00593,Bhattacharyya-Nayar,Rajasthan,Health & Wellness,3.3,2024-09-20
+SLR00594,Mahal-Anand,Maharashtra,Electronics,4.03,2025-01-11
+SLR00595,"Mane, Chauhan and More",Telangana,Home & Kitchen,4.1,2025-03-18
+SLR00596,Panchal-Hans,Uttar Pradesh,Handlooms,4.7,2024-05-27
+SLR00597,"Zacharia, Bhattacharyya and Hans",Madhya Pradesh,Apparel,4.48,2025-04-15
+SLR00598,Barad-Nagarajan,Uttar Pradesh,Agri Inputs,3.34,2025-12-28
+SLR00599,Desai-Mital,Jharkhand,Handlooms,3.57,2024-08-20
